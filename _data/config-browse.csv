@@ -1,0 +1,8 @@
+field,display_name,btn,hidden,sort_name
+date,Date,,,Date
+creator,Creator,,,Creator
+publisher,Publisher,,,Publisher
+subject,,true
+location,,true
+thumb,,,true
+genre,Work Type,,,Work Type

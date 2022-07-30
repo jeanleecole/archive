@@ -1,0 +1,25 @@
+---
+layout: page
+---
+{%- assign items = site.data[site.metadata] -%}
+<div class="row">
+  <div class="col-md-8">
+    {% include index/description.html %}
+    {% include index/carousel.html title="Sample Items" height="300" %}
+  </div>
+  <div class="col-md-4">  
+
+    {% include index/time.html %}
+
+    {% include index/featured-terms.html field="creator" title="Writers" btn-color="info" %}
+
+    {% include index/objects.html %}
+
+  </div>
+  <div class="col-md-12">
+    {% include index/data-download.html %}
+
+    <p>This project was made possible through the generous support of the Center for the Humanities at Loyola University Maryland, Maryland Historical Society, the Loyola-Notre Dame Library, Loyola's Office of Research and Sponsored Programs, and the West Virginia Humanities Council.</p>
+
+  </div>
+</div>
