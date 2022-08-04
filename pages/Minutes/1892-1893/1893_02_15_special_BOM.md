@@ -36,4 +36,4 @@ The members informally inspected the rooms we expect to occupy in the future.
 
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
 
-[Return to meeting minutes](https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Athird)
+[Return to meeting minutes](https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Athird)

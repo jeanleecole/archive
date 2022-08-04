@@ -5,7 +5,7 @@ permalink: /ElizabethGraham.html
 ---
 
 ## Elizabeth Turner Graham (Mrs. John T.) (1837-1920)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/ElizabethGraham.jpg" alt="Elizabeth Turner Graham"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/ElizabethGraham.jpg" alt="Elizabeth Turner Graham"></div>
 
 Sometimes referred to as the Mother of Women's Clubs in Maryland, Elizabeth Turner Graham was born in 1837 to a Kent County Quaker family with Pennsylvania roots, and was the eldest sister of eminent artist and muralist Charles Yardley Turner. After a controversial marriage to non-Quaker John T. Graham in 1858, she moved to Baltimore and ingratiated herself in local Friends communities.
 
@@ -22,4 +22,4 @@ Lantz, Emily Emerson. “Mother of Women's Clubs in Maryland Finds Rest after an
 
 Leonard, John William. *Woman's Who's Who of America*. American Commonwealth Company, 1914.
 
-[View Graham's Works](https://elizajames.github.io/WLCB_draft/browse.html#Elizabeth%20Turner)
+[View Graham's Works](https://wlcb.github.io/archive/browse.html#Elizabeth%20Turner)

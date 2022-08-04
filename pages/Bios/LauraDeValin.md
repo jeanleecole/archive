@@ -15,4 +15,4 @@ Heyl, Edgar G. "[Bibliographical Notes: Plays by Marylanders, 1870-1916](http://
 
 Ruihley, Glenn Richard. *[An Anthology of Great U.S. Women Poets, 1850-1900](https://books.google.com/books?id=ByBaAAAAMAAJ&q=laura+de+valin&dq=laura+de+valin&hl=en&sa=X&ved=0ahUKEwjxm834voLZAhVL61MKHajsCEc4ChDoAQgtMAE)*. Mosaic Foundation, 1997. 
 
-[View De Valin's Works](https://elizajames.github.io/WLCB_draft/browse.html#de%20valin)
+[View De Valin's Works](https://wlcb.github.io/archive/browse.html#de%20valin)

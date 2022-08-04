@@ -12,4 +12,4 @@ The daughter of Woman's Literary Club of Baltimore president Letitia Wrenshall a
 
 Fletcher Garard Markland (divorced 1905)
 
-[View Markland's Work](https://elizajames.github.io/WLCB_draft/browse.html#markland)
+[View Markland's Work](https://wlcb.github.io/archive/browse.html#markland)

@@ -5,7 +5,7 @@ permalink: /HarrietSmith.html
 ---
 
 ## Harriet Lummis Smith (???? - 1947)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/HarrietSmith.jpg" alt="Harriet Lummis Smith"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/HarrietSmith.jpg" alt="Harriet Lummis Smith"></div>
 
 Born in Auburndale, Massachussets, Harriet Lummis Smith was a WLCB club member from 1909 until at least 1915. Smith was the daughter of Jennie Brewster Lummis and Henry Lummis Smith, who had been the head of the Greek department at Lawrence College in Appleton, Wisconsin, where Lummis received her BA degree in 1889. She went on to teach high school, work as an editor, eventually becoming a successful novelist and short story writer. She served in various leadership positions within the Woman's Literary Club of Baltimore from 1909-1910, and eventually, was president of the club from 1914-1915. She was a prolific writer of short stories and became known for authoring installments in the Pollyanna and Friendly Terrace/Peggy Raymond series of novels for girls.. She passed away on May 9, 1947 in her Philadelphia home.
 
@@ -25,4 +25,4 @@ Reiche, Fanny K. “Baltimore Is The Home Of Many Conspicuous Woman Writers.” 
 
 “Woman Novelist Dies in Philadelphia Home.” *Baltimore Sun*, 10 May 1947: 5. 
 
-[Read Smith's Work](https://elizajames.github.io/WLCB_draft/browse.html#harriet)
+[Read Smith's Work](https://wlcb.github.io/archive/browse.html#harriet)

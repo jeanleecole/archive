@@ -5,7 +5,7 @@ permalink: /LydiaCrane.html
 ---
 
 ## Lydia Crane (1833-1916)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LydiaCrane.jpg" alt="Lydia Crane"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/LydiaCrane.jpg" alt="Lydia Crane"></div>
 
 Lydia Crane was born in Richmond, Virginia, to William and Jean Daniel Crane. Jean, William’s second wife, was a descendant of Maryland signer of the Declaration of Independence Thomas Stone, and her Maryland connections may have prompted the family’s move to Baltimore soon after Lydia’s birth. Once in Baltimore, William established himself as a hide and leather dealer.
 

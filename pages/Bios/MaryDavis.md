@@ -5,7 +5,7 @@ permalink: /MaryDavis.html
 ---
 
 ## Mary Dorsey Davis (1845-1939)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MaryDavis.jpg" alt="Mary Dorsey Davis"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/MaryDavis.jpg" alt="Mary Dorsey Davis"></div>
 
 Mary Dorsey Davis came from a distinguished Maryland family, and the study of historical documents became her avocation. She was the daughter of Allen Bowie Davis and his wife Hester Ann Wilkins and was raised on the family farming estate Greenwood in Montgomery County. One of her research projects was to trace the original design of the Maryland State seal, which had been lost. When the state legislature appointed a committee to recreate the seal in 1882, they used Mary Dorsey Davis’s research and drawings.
 

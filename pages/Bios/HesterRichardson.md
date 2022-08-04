@@ -5,7 +5,7 @@ permalink: /HesterRichardson.html
 ---
 
 ## Hester Crawford Dorsey Richardson (1862-1933)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/HesterRichardson.jpg" alt="Hester Crawford Dorsey Richardson"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/HesterRichardson.jpg" alt="Hester Crawford Dorsey Richardson"></div>
 
 Hester Crawford Dorsey was born in 1862 in Baltimore. She, along with Louisa C. Osburne Haughton, founded the Woman's Literary Club of Baltimore in 1890. Though the two founders were offered the presidency of the Club, they both refused, seemingly out of modesty. Shortly after marrying journalist Albert Richardson in 1891, she resigned her second vice presidency and moved to New York, becoming an honorary member of the Club. Richardson paid frequent visits to the Club thereafter, clearly proud of what it had become. Richardson was well known for her poems, including “Dethroned” which was dedicated to Austrian Emperor Francis Joseph, who gladly thanked her, as well as a series of articles she published under the penname “Selene” in the Baltimore American, the “Selene Letters.” She was also fascinated by genealogy; Side-lights on Maryland History (1913), originally published serially in the Baltimore Sun, was one of her best-known works.
 
@@ -31,4 +31,4 @@ Crane, Frank and Edward Jewitt Wheeler, ed. *Current Opinion*, Vol. 5 (New York:
 
 Requardt, Cynthia. "Club History." The Woman's Literary Club of Baltimore. Accessed May 5, 2018. [http://loyolanotredamelib.org/Aperio/WLCB/club-history](http://loyolanotredamelib.org/Aperio/WLCB/club-history)
 
-[View Richardson's Works](https://elizajames.github.io/WLCB_draft/browse.html#richardson)
+[View Richardson's Works](https://wlcb.github.io/archive/browse.html#richardson)

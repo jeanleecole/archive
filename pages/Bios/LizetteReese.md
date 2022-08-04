@@ -5,7 +5,7 @@ permalink: /LizetteReese.html
 ---
 
 ## Lizette Woodworth Reese (1856-1935)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LizetteReese.jpg" alt="Lizette Woodworth Reese"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/LizetteReese.jpg" alt="Lizette Woodworth Reese"></div>
 
 Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken would call “one of the imperishable glories of American literature.” Reese spent her career as an English teacher in the Baltimore public schools, but found her truest passion in poetry. In 1874, her first poem was published in Southern Magazine and was followed by the publication of 12 poetry collections, 2 memoirs, and a novel. Reese was elected the poet laureate of Maryland by the General Federation of Women’s Clubs, received an honorary doctorate from Goucher College, and served as the honorary president of the Poetry Society of Maryland. She was the honorary president of the Edgar Allan Poe Society of Baltimore, and a co-founder of the Woman’s Literary Club of Baltimore, where she served as chair of the modern poetry committee from 1890 until her death in 1935.
 
@@ -17,4 +17,4 @@ Lizette Woodworth Reese was a nationally acclaimed poet whose work H. L. Mencken
 
 "[Lizette Woodworth Reese](http://baltimoreauthors.ubalt.edu/writers/lizettereese.htm)." Baltimore Literary Heritage Project.
 
-[View Reese's Works](https://elizajames.github.io/WLCB_draft/browse.html#lizette)
+[View Reese's Works](https://wlcb.github.io/archive/browse.html#lizette)

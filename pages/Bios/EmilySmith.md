@@ -20,4 +20,4 @@ Emily Anna Jones was born in Baltimore in 1841. Her mother Mary J. Jones was wid
 
 Smith, Emily A. *[The Life and Letters of Nathan Smith](https://www.google.com/books/edition/The_Life_and_Letters_of_Nathan_Smith_M_B/xHQSAAAAYAAJ?hl=en&gbpv=1&dq=%22Emily+Anna+Smith%22&printsec=frontcover#v=onepage&q=%22Emily%20Anna%20Smith%22&f=false)*. New Haven: Yale University Press, 1914. 
 
-[View Smith's Work](https://elizajames.github.io/WLCB_draft/browse.html#emily%20anna%20smith)
+[View Smith's Work](https://wlcb.github.io/archive/browse.html#emily%20anna%20smith)

@@ -30,18 +30,18 @@ Minutes are organized by seasons, which began in October and ended in May or ear
 
 <table>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Ainaugural">Spring 1890</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Ainaugural">Spring 1890</a></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afirst">1890-1891</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Asecond">1891-1892</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Athird">1892-1893</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afourth">1893-1894</a></td>
-    <td><a href="https://elizajames.github.io/WLCB_draft/search/index.html?q=%2Bseason%3Afifth">1894-1895</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Afirst">1890-1891</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Asecond">1891-1892</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Athird">1892-1893</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Afourth">1893-1894</a></td>
+    <td><a href="https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Afifth">1894-1895</a></td>
 </tr>
 <tr>
     <td><a href="">1895-1896</a></td>

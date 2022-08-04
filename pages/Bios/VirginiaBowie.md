@@ -4,7 +4,7 @@ layout: page
 permalink: /VirginiaBowie.html
 ---
 ## Virginia Berkley Bowie (1880-1976)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/VirginiaBowie.jpg" alt="Virginia Berkley Bowie"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/VirginiaBowie.jpg" alt="Virginia Berkley Bowie"></div>
 
 Virginia Bowie was born in Baltimore in 1880. She attended the Bard-Avon School of Expression and became well known in society for her participation in the arts. Serving as Secretary and Treasurer, Bowie worked for Stagecraft Studios in Baltimore. She also served as historian of the Baltimore chapter of the Daughters of the American Revolution.
 
@@ -22,4 +22,4 @@ Frederick Schoenfeld
 
 "Leading Society Folk Who Will Appear in the Chinese Musical Comedy at Lehmann's Hall." *Baltimore Sun*, Sunday, March 3, 1906: 7.
 
-[View Bowie's Works](https://elizajames.github.io/WLCB_draft/browse.html#bowie)
+[View Bowie's Works](https://wlcb.github.io/archive/browse.html#bowie)

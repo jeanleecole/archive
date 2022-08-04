@@ -4,7 +4,7 @@ layout: page
 permalink: /LenaStiebler.html
 ---
 ## Lena Stiebler (1858-1926)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/LenaStiebler.jpg" alt="Lena Stiebler"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/LenaStiebler.jpg" alt="Lena Stiebler"></div>
 
 Lena Stiebler was a professional musician and beloved music teacher who shared her talents with the Club at its Salons. Her parents were German, moving to Baltimore before their only daughter Lena was born. Charles supported his family as a violinist and passed his musical talent to his daughter. Lena supported herself as a professional singer and accompanist along with teaching sight reading and singing music. Stiebler was on the faculty of the Woman’s College of Baltimore (later Goucher College) during its first year, but found teaching voice to a class of 30 students kept her from her own performing. In 1894 she returned to teaching joining the opening faculty of the Peabody Graduates’ Preparatory and High School of Music founded by Club member May Garrettson Evans. Stiebler taught at Peabody for over thirty years and at her death it was noted that she “trained more students who later entered professional concert and theatrical careers than any other music teacher in America.” 
 

@@ -15,4 +15,4 @@ Woman's Literary Club of Baltimore meeting minutes, October 7, 1899.
 
 "Obituary." *Baltimore Sun*, Feb. 9, 1944, 4.
 
-[View Duvall's Works](https://elizajames.github.io/WLCB_draft/browse.html#Duvall)
+[View Duvall's Works](https://wlcb.github.io/archive/browse.html#Duvall)

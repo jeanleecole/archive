@@ -5,7 +5,7 @@ permalink: /MaryTiernan.html
 ---
 
 ## Mary Spear Tiernan (1835?-1891)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://elizajames.github.io/WLCB_draft/assets/img/MaryTiernan.jpg" alt="Mary Spear Tiernan"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/MaryTiernan.jpg" alt="Mary Spear Tiernan"></div>
 
 Despite marrying into a prominent Maryland family, the birthdate of Mary Spear Nicholas Tiernan is not definitely known. Born in Richmond, Virginia. she moved to Baltimore after her marriage to Charles B. Tiernan. Like many women in the era, she did not attend college, but she was a successful novelist; her natural wit was praised as being equivalent to a scholarly education. Tiernan was a founding member of the WLCB and was initially elected to the Executive Committee. After her death in 1891, the Club continued to honor Tiernan, decorating her grave each year on All Souls' Day and reading her unpublished manuscripts at later meetings. Tiernan’s work strongly promotes Lost Cause ideology, while also exploring the conventions of romantic relationships in her day. 
 
@@ -17,4 +17,4 @@ Lantz, Emily Emerson. "Maryland Heraldry," *Baltimore Sun*, January 1, 1905.
 
 "Graves Decorated by Women," *Baltimore Sun*, November 3, 1900. 
 
-[View Tiernan's Work](https://elizajames.github.io/WLCB_draft/browse.html#mary%20spear)
+[View Tiernan's Work](https://wlcb.github.io/archive/browse.html#mary%20spear)
