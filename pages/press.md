@@ -11,6 +11,7 @@ permalink: /press.html
 </style>
 
 ## Spreading the word
+***
 
 Members of the project team have shared their work on the Woman's Literary Club of Baltimore at academic conferences sponsored by the Modern Language Association (2020), the Society for the Study of American Women Writers (2018 and 2021), and the American Literature Association (2018), as well as the Bmore Historic Unconference (2018 and 2019) and the Bucknell Digital Scholarship Conference (2019). The project has also been shared in public presentations sponsored by the Alexander Grass Humanities Institute at Johns Hopkins University, the Maryland Center for History and Culture, the Baltimore City Historical Society, and the Hamilton Street Club.
 
