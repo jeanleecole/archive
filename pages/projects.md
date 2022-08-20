@@ -14,7 +14,7 @@ The purpose of this archival site is to make further research possible. By trans
 Based on dues records and membership notebooks, this [map created by Clara Love](https://wlcb.github.io/archive/mapping.html) shows the flourishing of Baltimore literary culture in the area northwest of the city center at the turn of the century, as well as growing networks of female authorship developed over the course of the Club's first three decades in existence. 
 <p style="clear: both;"></p>
 
-### Katherine Pearson Woods
+### Katharine Pearson Woods
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpg" alt="Woods"></div>
 
 (Exhibit under development, to include biographical information, an e-edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), and information about Christian Socialism and labor reform movements of the late-nineteenth century.) 
