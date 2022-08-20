@@ -7,7 +7,7 @@ permalink: /woods.html
 # Katharine Pearson Woods
 
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpg" alt="Woods"></div>
-This page serves as the home for work 
+This page serves as the home for recovery work on Katharine Pearson Woods, including a digital edition of one of her works, *Metzerott, Shoemaker*, a collection of reviews and contemporary responses to that work, and a brief biography on Woods. 
 
 ## *Metzerott, Shoemaker* Digital Edition
 *In progress*
