@@ -17,7 +17,7 @@ Based on dues records and membership notebooks, this [map created by Clara Love]
 ### Katharine Pearson Woods
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpg" alt="Woods"></div>
 
-(Exhibit under development, to include biographical information, an e-edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), and information about Christian Socialism and labor reform movements of the late-nineteenth century.) 
+([Exhibit under development](https://wlcb.github.io/archive/woods.html), to include biographical information, an e-edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), and information about Christian Socialism and labor reform movements of the late-nineteenth century.) 
 <p style="clear: both;"></p>
 
 ### Reading a Program
