@@ -16,7 +16,7 @@ This page serves as the home for recovery work on Katharine Pearson Woods, inclu
 
 *In progress*
 
-## Woods Biography
+## Biography
 
 Woods was an American novelist, essayist, and poet born in Wheeling, Virginia in January 28, 1853. The family relocated to Baltimore, MD in 1856; only a few years later, her father died when Woods was only 9 years old. Poor health prevented Woods from being formally educated in school, but the education she received at home steeped in literature and religion, and in 1874, at the age of twenty-one, she became a communicant of the All Saints Sisters of the Poor at Mount Calvary Church (now St. Peter Claver Church) in Baltimore. Woods was forced to withdraw from the convent due to continuing ill health, but her experience there led to her philanthropic work as well as the overarching religious and moral themes she treated in her writings. Woods returned to Wheeling (now in West Virginia) in 1876, where she was a schoolteacher for the next ten years. During this time, she became involved in the nascent labor movement, and her first publications defended the rights of striking workers. 
 
