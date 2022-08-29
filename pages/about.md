@@ -4,14 +4,6 @@ layout: page
 permalink: /about.html
 ---
 
-<style>
-    #maincontent{
-        font-size:1.4em;
-    }
-</style>
-
-{% include feature/image.html objectid="/assets/img/WLCB_banner.png" %}
-
 ## About the Archive
 The Woman's Literary Club of Baltimore was founded in 1890 by a group of educated women who wanted to get their words into print. Over the next thirty years, they met every Tuesday afternoon between October and June, hearing lectures on various topics, appreciating each other's written contributions, enjoying refreshments and each other's company.
 
