@@ -4,13 +4,8 @@ layout: page
 permalink: /programs.html
 ---
 
-<style>
-    #maincontent{
-        font-size:1.4em;
-    }
-</style>
-
 ## Programs
+***
 
 For each of their weekly meetings, the Woman's Literary Club of Baltimore had a program printed. These programs give a concise overview of what happened at each meeting. Each one lists the date, order of events, titles of works shared, who created those works, who presented them to the Club, and which committee was in charge of organizing the meeting. Some of these programs have information that cannot be found in the minutes for a given meeting; for instance, the meeting minutes might describe a Club member reading a piece but neglect to include the exact title, which is listed on that meeting's program. All of this valuable information from the programs can be browsed here or downloaded in Excel or CSV format via the Explore > Data link in the main navigation bar.
 
