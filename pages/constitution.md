@@ -4,7 +4,7 @@ layout: page
 permalink: /constitution.html
 ---
 
-# Constitutions
+## Constitutions
 ***
 
 The WLCB revisited the mission and by-laws of the organization at different points in its history, especially when the Club decided to expand or restrict membership. Revised constitutions were copied longhand into Club minutes books, displayed at yearly membership meetings, and on occasion, set into type and printed. The documents below are transcriptions of constitutions that were issued in all three forms.
