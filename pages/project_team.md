@@ -4,6 +4,8 @@ layout: page
 permalink: /project_team.html
 ---
 
+{% include feature/image.html objectid="/assets/img/project_team.png" %}
+
 ## Project Team
 ***
 
@@ -34,8 +36,6 @@ The Woman's Literary Club of Baltimore Archive project began in the summer of 20
 - Ju'waun Morgan, Loyola Class of 2019 
 - Ellen Roussel 
 - Katie Shiber, Loyola Class of 2020
-
-{% include feature/image.html objectid="/assets/img/project_team.png" %}
 
 #### Summer 2018
 - Marina Fazio 
