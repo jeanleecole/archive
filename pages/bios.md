@@ -13,6 +13,7 @@ permalink: /bios.html
     }
 </style>
 ## Who were they?
+***
 
 The WLCB decided when they first formed in 1890 that "those only should belong who had sufficient interest in literature to have devoted some time and thought to original work for either newspapers and magazines or of a more lasting nature." Over the course of the club's half-century in existence, they were phenomenally successful in publishing "original work." The lives of individual members, however, are virtually invisible in the historical record. 
 
