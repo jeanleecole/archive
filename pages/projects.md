@@ -4,10 +4,9 @@ layout: page
 permalink: /projects.html
 ---
 
-The purpose of this archival site is to make further research possible. By transcribing manuscript documents to make them searchable, organizing geographical and biographical data, and making everything publicly accessible, the Woman's Literary Club of Baltimore Archive is just a starting point for research on women in Baltimore, female authorship, and turn of the century American literary history. This page collects research projects completed by project team members.
-
 ## Projects
 ***
+The purpose of this archival site is to make further research possible. By transcribing manuscript documents to make them searchable, organizing geographical and biographical data, and making everything publicly accessible, the Woman's Literary Club of Baltimore Archive is just a starting point for research on women in Baltimore, female authorship, and turn of the century American literary history. This page collects research projects completed by project team members.
 
 ### Where They Lived
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/mapping.html"><img src="https://wlcb.github.io/archive/assets/img/mapping.png" alt="Mapping icon"></a></div>
