@@ -12,17 +12,15 @@ permalink: /meeting_minutes.html
         vertical-align: top;
     }
     tr:nth-child(odd) {
-        background-color: #ffccff;
+        background-color: #cebeed;
     }
     table, th, td {
         border: 1px solid #d7d6d6;
     }
-    #maincontent{
-        font-size:1.4em;
-    }
 </style>
 
 ## Minutes of Club Meetings
+***
 
 At every meeting, the Recording Secretary took notes of the proceedings, which she then copied later into the official minutes books. On occasion, other officers or Club members took notes or transcribed the minutes on the Secretary if she was absent from a meeting or otherwise unable to perform her duties. The records of meeting minutes are remarkably complete, attesting to their importance to the Club.
 
