@@ -5,12 +5,6 @@ permalink: /blog.html
 ---
 {% include feature/image.html objectid="/assets/img/conspicuous-women.jpg" caption="Article from the Baltimore Sun, Feb. 14, 1906" %}
 
-<style>
-    #maincontent{
-        font-size:1.4em;
-    }
-</style>
-
 # WLCB project blog highlights
 ***
 
