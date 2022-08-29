@@ -4,7 +4,7 @@ layout: page
 permalink: /membership.html
 ---
 
-# Membership Lists
+## Membership Lists
 ***
 
 The WLCB was initially restricted to a maximum of 100 members. While the number of members in the Club and attendance at weekly meetings remained remarkably consistent over the years, individual members came and went. Younger women in particular resigned and rejoined the Club as their employment or marital status changed, or as childcare and eldercare responsibilities shifted over the course of their lives. The charts included here document what we know about the evolution of membership as evidenced in dues books, membership rolls, and in the pages of meeting minutes. Work on this section of this site is ongoing.
