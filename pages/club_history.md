@@ -3,15 +3,9 @@ title: Club History
 layout: page
 permalink: /club_history.html
 ---
-{% include feature/image.html objectid="/assets/img/WLCB_banner.png" %}
-
-<style>
-    #maincontent{
-        font-size:1.4em;
-    }
-</style>
 
 ## Club History
+***
 
 The Woman’s Literary Club of Baltimore was modest in size but focused in its goal to support women writers in Baltimore for more than 50 years. The Club grew out of the tradition of women’s clubs that flourished in late nineteenth-century America. A number of literary societies founded throughout the country during this time provided women a chance to read and discuss literature in a supportive setting. These clubs originated to fill a void left by the limited educational opportunities for girls.
 
