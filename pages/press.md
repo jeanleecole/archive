@@ -4,12 +4,6 @@ layout: page
 permalink: /press.html
 ---
 
-<style>
-    #maincontent{
-        font-size:1.4em;
-    }
-</style>
-
 ## Spreading the word
 ***
 
