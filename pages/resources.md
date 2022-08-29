@@ -4,7 +4,8 @@ layout: page
 permalink: /resources.html
 ---
 
-## Resources
+## Resources for further study
+***
 
 ## Team Publications
 Cole, Jean Lee. "[The Celebrities of John Street](https://boltonhillmd.org/the-celebrities-of-john-street/)." *Bolton Hill Bulletin*, July/August 2018. 
