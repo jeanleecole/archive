@@ -17,7 +17,7 @@ permalink: /bios.html
 
 The WLCB decided when they first formed in 1890 that "those only should belong who had sufficient interest in literature to have devoted some time and thought to original work for either newspapers and magazines or of a more lasting nature." Over the course of the club's half-century in existence, they were phenomenally successful in publishing "original work." The lives of individual members, however, are virtually invisible in the historical record. 
 
-The project team has painstakingly recovered the histories of the most prominent members of the Club, including authors, Club leaders, performers, educators, journalists, and scientists. Read more about them by clicking on the links below. And check back for updates. Many Club members published work anonymously or under pseudonyms; these women are still being recovered. 
+The project team has painstakingly recovered the histories of the most prominent members of the Club, including authors, Club leaders, performers, educators, journalists, and scientists. Read more about them by clicking on the links below. This [tag cloud](https://wlcb.github.io/archive/subjects.html), meanwhile, provides a visual representation of the Club's most prolific authors.
 
 <table>
 <tr>
