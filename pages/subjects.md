@@ -8,6 +8,6 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Who were the most published authors?
+## Who were the WLCB's most published authors?
 ***
 This text cloud visualization shows the WLCB's most prolific authors. The bigger the name, the more she published. Click on an author's name to be taken to their publications list.
