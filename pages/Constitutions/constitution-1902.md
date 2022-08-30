@@ -10,6 +10,7 @@ permalink: /constitution-1902.html
 </style>
 
 # 1902 Constitution
+<hr>
 
 ## [Constitution, c. 1902]
 
@@ -242,6 +243,5 @@ Excerpts from a Twelfth Night address by Mrs. John C. Wrenshall.[^back]
 
 [^back]: The remaining three pages of the pamphlet consists of blank pages with the word "MEMORANDA" at the top of each page.]
 
-<hr>
-
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988
+<hr>
