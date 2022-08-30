@@ -10,6 +10,7 @@ permalink: /constitution-1894.html
 </style> 
 
 # 1894 Constitution
+<hr>
 
 ## Constitution of the "Woman's Literary Club" of Baltimore.[^source]
 
@@ -169,6 +170,5 @@ Bertha B. Hammel
 
 Esteeming it a privilege to belong to the Woman's Literary Club of Baltimore, I will be loyal to its aims and methods, carefully guarding its reputation, and striving to increase its influence, so long as I retain my membership.
 
-<hr>
-
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988
+<hr>
