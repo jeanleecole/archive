@@ -10,6 +10,7 @@ permalink: /constitution-1890.html
 </style>
 
 # 1890 Constitution
+<hr>
 
 [6]
 
@@ -136,6 +137,5 @@ Sec. 2. The Board of Management shall be authorized to frame a code of By-Laws f
 
 [^13-16]: The remainder of the pamphlet contains a list of members during the 1890-1891 season.
 
-<hr>
-
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988.
+<hr>
