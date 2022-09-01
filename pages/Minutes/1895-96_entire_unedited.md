@@ -1,5 +1,5 @@
 ---
-title: 1894-95 Meeting Minutes
+title: 1895-96 Meeting Minutes
 layout: page
 permalink: /1895-96_entire_UNEDITED.html
 season: sixth
