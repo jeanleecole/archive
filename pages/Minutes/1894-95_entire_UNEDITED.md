@@ -11,8 +11,9 @@ season: fifth
 
 MS 988, Box 3, Book 3
 
-**35th Salon.  
-****October 2nd, 1894.**
+**35th Salon.**
+
+**October 2nd, 1894.**
 
 The 35th Salon of the Woman’s Literary Club of Baltimore, being the first meeting of our new Club year 1894, and 1895, took place on Tuesday, October 2nd, 1894, at the corner of Franklin and Cathedral streets. Mrs. Turnbull [Francese Litchfield Turnbull] our lately returned President, rose to call the meeting to order, and to greet her old friends and fellow members again. She announced that the retiring President, Miss Brent [Emma Fenwick Brent] [,] had hoped to be present to welcome
 
