@@ -31,8 +31,8 @@ The supper was served after 9 o'clock in the upper hall under the care of Miss L
 Eliza Ridgely
 Secretary.
 
-<hr>
-
 ##### Transcribed document held at the [Maryland Center for History and Culture](http://mdhs.org/), Woman's Literary Club of Baltimore Collection, MS 988, Box 3. 
 
+<hr>
 [Return to meeting minutes](https://wlcb.github.io/archive/search/index.html?q=%2Bseason%3Asecond)
+<hr>
