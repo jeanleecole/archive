@@ -13,6 +13,7 @@ season: third
 [57] 
 
 ## [Reception of the Academy of Sciences.[^Clubroom]
+<hr>
 
 [^Clubroom]: The Academy of Sciences would be the meeting place of the WLCB for the next two decades.
 

@@ -13,6 +13,7 @@ season: second
 [148]
 
 ## 2nd Reception--April 19th 1892.
+<hr>
 
 ### 2nd Reception. Lyceum Parlors. April 19th, 1892.; Given to President and Miss Litchfield; Hours--Invitations--etc.; Decorations; President and Miss Litchfield received.; Also Reception Committee.; Guests--.
 

@@ -13,6 +13,8 @@ season: first
 [80]
 
 ## Resolutions of Regret on the Death of Mrs. Mary Spear Tiernan
+<hr>
+
 ## January 13th 1891.
 
 In the bright hours of the New Year that has come to us so full of hope and promise, we are called to stand still and hushed, in the presence of that great power which holds in its hand and guides into the “silent land” so much that is precious, so much that once made the beauty and gladness of life. To-day, only a short time before the hour appointed for the assembling of the Club came the unexpected and sad tidings of the going away from our midst of Mrs. Mary Spear Tiernan, one of the founders of the Woman’s Literary Club--one of its brightest members--one most suggestive and original in modes of thought, most alert to all that might advance the interests of our Association.

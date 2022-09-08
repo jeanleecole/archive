@@ -11,6 +11,7 @@ season: first
     }
 </style>
 ## 1st Reception--February 6th 1891
+<hr>
 
 ### 1st reception; The Lyceum; Conversation; Refreshments--Given to Mr and Mrs. Richardson; Badge presented
 

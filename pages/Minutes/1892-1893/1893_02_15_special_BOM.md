@@ -13,6 +13,7 @@ season: third
 [23] 
 
 ## Special Executive Meeting, February 15th. [1893]
+<hr>
 
 The Board of Management of the Woman's Literary Club of Baltimore met on Wednesday afternoon, February 15th, 1893, at the Building on the corner of Franklin and Cathedral Streets. There were nine members present;--the President, two vice Presidents, two Secretaries, Mrs. Johnson, Miss Grace, Miss Szold and Miss Brown.
 
