@@ -12,7 +12,7 @@ This page serves as the home for recovery work on Katharine Pearson Woods, inclu
 ## *Metzerott, Shoemaker* Digital Edition
 *Metzerott, Shoemaker*, published in 1889, espoused the values of Christian Socialism, a nineteenth and early-twentieth century religious movement that advocated for economic reform to benefit the working class. Woods published her novel anonymously and the identity of the author became a cause célèbre. Once the author was revealed to be a young, single woman living in Baltimore, the possibility of female authorship took root among that city’s female literati, and in 1890, some 35 women formed the Woman’s Literary Club of Baltimore. The Club championed the novel and its young author and made frequent references to its success in articles and reviews published in both local and national periodicals.
 
-*In progress: [edition](https://wlcb.github.io/archive/metzerott_shoemaker_edition.html)*
+*In progress: [edition](https://wlcb.github.io/archive/metzerott_shoemaker_edition.html) • [test formatting](https://wlcb.github.io/archive/metzerott_formatted.html)*
 
 ## Reviews and Contemporary Response
 
