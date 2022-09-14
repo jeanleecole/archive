@@ -11,36 +11,49 @@ permalink: /metzerott_shoemaker_edition.html
     .pagenum{
         text-align:center;
     }
+    .iframebutton{
+        display: block;
+        margin:0 auto;
+    }
 </style>
-
+<script>
+function loadFrame (elm){
+var frame1 = document.getElementById(elm.dataset.iframe);
+    if (frame1.style.display==="none"){
+        frame1.width = 560;
+        frame1.height = 584;
+        frame1.style.display="block";
+        frame1.style.margin="0 auto";
+        frame1.src = elm.dataset.src;}
+    else {
+        frame1.style.display="none"
+    }
+}
+</script>
 
 <p class="pagenum">&#160;</p>
 
 # METZEROTT, SHOEMAKER
 
-<table style="width:100%">
-  <tr>
-    <td style="width:70%">"Omne vivum ex vivo."<br/><br/>
+"Omne vivum ex vivo."
 
-“What is your creed?”<br/><br/>
+“What is your creed?”
 
-“Jesus Christ.”<br/><br/>
+“Jesus Christ.”
 
-“What do you believe about him?”<br/><br/>
+“What do you believe about him?”
 
-“What we can. We count any belief in him the smallest better than any belief about him the greatest, or about anything else.”<br/><br/>
-
-NEW YORK<br/><br/>
-THOMAS Y. CROWELL & CO.<br/><br/>  
-13 Astor Place<br/><br/>
-</td>
-    <td><iframe src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" width="560" height="584" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-</td>
-  </tr>
-</table>
+“What we can. We count any belief in him the smallest better than any belief about him the greatest, or about anything else.”
 
 
-<p class="pagenum">&#160;</p>
+NEW YORK
+
+THOMAS Y. CROWELL & CO.
+
+13 Astor Place
+
+<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Page</button> 
+<iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 COPYRIGHT, 1889 BY THOMAS Y. CROWELL &#38; CO.  
 C. J. PETERS &#38; SON,  
@@ -48,19 +61,27 @@ TYPOGRAPHERS AND ELECTROTYPERS,
 145 HIGH  
 STREET, BOSTON.
 
-<p class="pagenum">&#160;</p>
+<button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n5/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Page</button> 
+<iframe style="display: none" id="frame2" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+
 
 DEDICATION.
 
 "*Laborare est orare.*" 
 
 TO  
-The Clergy and the Workingmen of America.  
+
+The Clergy and the Workingmen of America.
+
 MAY THEY WORK AND PRAY TOGETHER 
+
 FOR THE COMING OF THE 
+
 KINGDOM OF CHRIST.
 
-<p class="pagenum">&#160;</p>
+<button class="btn btn-secondary btn-lg iframebutton" id="b3" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame3">Page</button> 
+<iframe style="display: none" id="frame3" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <p class="pagenum">5</p>
 
 ## CONTENTS
@@ -83,6 +104,9 @@ KINGDOM OF CHRIST.
 * XII. “O ye Ice and Snow, bless ye the Lord!”
 * XIII. Prosit Neujahr
 * XIV. Learning and Teaching
+
+<button class="btn btn-secondary btn-lg iframebutton" id="b4" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame4">Page 5</button> 
+<iframe style="display: none" id="frame4" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p class="pagenum">6</p>
   

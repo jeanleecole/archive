@@ -7,3 +7,4 @@ If you are using the theme for another purpose, please review the licenses to en
 
 They are included in this directory to ensure CollectionBuilder projects can be self-contained and could be run with out connections to external dependencies or an internet connection. 
 
+The table-striped class in bootstrap was modified to include a pale purple. 
