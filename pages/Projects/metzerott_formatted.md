@@ -31,44 +31,54 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 }
 </script>
 
-
+<hr>
 <button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page (1)</button> 
 <iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<hr>
 
-<h1 style="text-align:center"> METZEROTT, SHOEMAKER </H1></p>
-<p style="text-align:center;">
-<h3 style="text-align:center"><i>"Omne vivum ex vivo."</i></h3>
-
+<p></p>
+<h1 style="text-align:center"> METZEROTT, SHOEMAKER </H1>
+<p></p>
+<h2 style="text-align:center">"<i>Omne vivum ex vivo.</i>"</h2>
+<p></p>
 <p style="text-align:center;">
 “What is your creed?”<br>
 “Jesus Christ.”<br>
 “What do you believe about him?”<br>
 “What we can. We count any belief in him&mdash;the smallest&mdash;better than any belief about him&mdash;the greatest,&mdash;or about anything else.”</p>
-
+<p></p>
 <p style="text-align:center;">
 NEW YORK<br>
 THOMAS Y. CROWELL & CO.<br>
 13 Astor Place</p>
 
+<hr>
+<p class="pagenum"><sup>Copyright page (2)</sup></p>
+<hr>
 
-<p class="pagenum">Copyright page (2)</p>
 <center>
 <p>
 COPYRIGHT, 1889 BY <br>
 THOMAS Y. CROWELL &#38; CO. </p>
+<p></p>
 <p>
 C. J. PETERS &#38; SON, <br>
 TYPOGRAPHERS AND ELECTROTYPERS, <br>
 145 HIGH STREET, BOSTON. </p>
 </center>
 
+<hr>
 <button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Dedication page (3)</button> 
 <iframe style="display: none" id="frame2" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
+<hr>
 
 <center>
+<p></p>
 <H2>DEDICATION.</h2>
+<p></p>
 
 <p>"<i>Laborare est orare.</i>"</p>
+<p></p>
 
 <p>TO</p>
 
@@ -79,18 +89,17 @@ FOR THE COMING OF THE <br>
 KINGDOM OF CHRIST.</p>
 </center>
 
-<p class="pagenum">[Page 4 blank]</p>
+<hr>>
+<p class="pagenum"<sup>[Page 4 blank]</sup></p>
+<hr>
 
-
-<button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame4">Begin page 5</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 5</button> 
 <iframe style="display: none" id="frame5" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p class="pagenum">Begin page 5</p>
 
-## CONTENTS
+<h2> CONTENTS</h2>
 
-### BOOK I
-
-#### Love.
+<h3> BOOK I</h3>
+### Love. ###
  
 - [I. Karl Metzerott attends a Kaffee Klatsch](#bk1ch1)
 - II. The Pastor’s Blue Apron
@@ -108,7 +117,8 @@ KINGDOM OF CHRIST.</p>
 - XIV. Learning and Teaching
 
 <hr>
-<p class="pagenum"><em>Begin page 6</em</p>
+<p class="pagenum"><em>Begin page 6</em></p>
+<hr>
   
 ### BOOK II.
 
@@ -140,6 +150,7 @@ KINGDOM OF CHRIST.</p>
 
 <hr>
 <p class="pagenum"><em>Begin page 7</em></p>
+<hr>
 
 <center>  
 <h2> BOOK I.</h2>
@@ -149,8 +160,9 @@ KINGDOM OF CHRIST.</p>
 
 <hr>
 <p class="pagenum"><em>Page 8 blank</em></p>
-</hr>
+<hr>
 <p class="pagenum"><em>Begin page 9<em></p>
+<hr>
 
 <center>
 ## METZEROTT, SHOEMAKER
