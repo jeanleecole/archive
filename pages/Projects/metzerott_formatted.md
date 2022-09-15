@@ -1,7 +1,7 @@
 ---
 title: Metzerott, Shoemaker
 layout: page
-permalink: /metzerott_shoemaker_edition.html
+permalink: /metzerott_formatted.html
 ---
 
 <style>
@@ -31,61 +31,59 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 }
 </script>
 
-<p class="pagenum">Begin page &#160;</p>
-<center>
-# METZEROTT, SHOEMAKER
 
-"Omne vivum ex vivo."
-
-“What is your creed?”
-
-“Jesus Christ.”
-
-“What do you believe about him?”
-
-“What we can. We count any belief in him the smallest better than any belief about him the greatest, or about anything else.”
-
-
-NEW YORK
-
-THOMAS Y. CROWELL & CO.
-
-13 Astor Place
-</center>
-
-<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Page</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page (1)</button> 
 <iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<h1 style="text-align:center"> METZEROTT, SHOEMAKER </H1></p>
+<p style="text-align:center;">
+<h3 style="text-align:center"><i>"Omne vivum ex vivo."</i></h3>
+
+<p style="text-align:center;">
+“What is your creed?”<br>
+“Jesus Christ.”<br>
+“What do you believe about him?”<br>
+“What we can. We count any belief in him&mdash;the smallest&mdash;better than any belief about him&mdash;the greatest,&mdash;or about anything else.”</p>
+
+<p style="text-align:center;">
+NEW YORK<br>
+THOMAS Y. CROWELL & CO.<br>
+13 Astor Place</p>
+
+
+<p class="pagenum">Copyright page (2)</p>
 <center>
-COPYRIGHT, 1889 BY THOMAS Y. CROWELL &#38; CO.  
-C. J. PETERS &#38; SON,  
-TYPOGRAPHERS AND ELECTROTYPERS,  
-145 HIGH  
-STREET, BOSTON.
+<p>
+COPYRIGHT, 1889 BY <br>
+THOMAS Y. CROWELL &#38; CO. </p>
+<p>
+C. J. PETERS &#38; SON, <br>
+TYPOGRAPHERS AND ELECTROTYPERS, <br>
+145 HIGH STREET, BOSTON. </p>
 </center>
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n5/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Page</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Dedication page (3)</button> 
 <iframe style="display: none" id="frame2" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
 
 <center>
-DEDICATION.
+<H2>DEDICATION.</h2>
 
-"*Laborare est orare.*" 
+<p>"<i>Laborare est orare.</i>"</p>
 
-TO  
+<p>TO</p>
 
-The Clergy and the Workingmen of America.
-
-MAY THEY WORK AND PRAY TOGETHER 
-
-FOR THE COMING OF THE 
-
-KINGDOM OF CHRIST.
+<p>
+The Clergy and the Workingmen of America. </p>
+<p>MAY THEY WORK AND PRAY TOGETHER <br>
+FOR THE COMING OF THE <br>
+KINGDOM OF CHRIST.</p>
 </center>
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b3" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame3">Page</button> 
-<iframe style="display: none" id="frame3" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<p class="pagenum">[Page 4 blank]</p>
 
+
+<button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame4">Begin page 5</button> 
+<iframe style="display: none" id="frame5" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <p class="pagenum">Begin page 5</p>
 
 ## CONTENTS
@@ -94,64 +92,65 @@ KINGDOM OF CHRIST.
 
 #### Love.
  
-* [I. Karl Metzerott attends a Kaffee Klatsch](#bk1ch1)
-* II. The Pastor’s Blue Apron
-* III. A Pessimist
-* IV. Dreams And Dreamers
-* V. “When Sorrows come”
-* VI. In Battalions
-* VII. “’Vlding”
-* VIII. Multiplication
-* IX. Fors Fortuna
-* X. Hominibus Bonae Voluntatis
-* XI. Ygdrasil
-* XII. “O ye Ice and Snow, bless ye the Lord!”
-* XIII. Prosit Neujahr
-* XIV. Learning and Teaching
+- [I. Karl Metzerott attends a Kaffee Klatsch](#bk1ch1)
+- II. The Pastor’s Blue Apron
+- III. A Pessimist
+- IV. Dreams And Dreamers
+- V. “When Sorrows come”
+- VI. In Battalions
+- VII. “’Viding”
+- VIII. Multiplication
+- IX. Fors Fortuna
+- X. Hominibus Bonae Voluntatis
+- XI. Ygdrasil
+- XII. “O ye Ice and Snow, bless ye the Lord!”
+- XIII. Prosit Neujahr
+- XIV. Learning and Teaching
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b4" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame4">Page 5</button> 
-<iframe style="display: none" id="frame4" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-<p class="pagenum">Begin page 6</p>
+<hr>
+<p class="pagenum"><em>Begin page 6</em</p>
   
 ### BOOK II.
 
 #### ALTRUISM.
 
-* I. After Twelve Years
-* II. Neo-Socialism
-* III. Prince Louis
-* IV. Cinderella’s Slippers
-* V. “Das Ding-an-Sich”
-* VI. “An Enemy came and sowed Tares”
-* VII. Gradual Enfranchisement
-* VIII. Ritter Fritz
-* IX. “The Etymology of Grace”
-* X. Preaching and Practice
+- I. After Twelve Years
+- II. Neo-Socialism
+- III. Prince Louis
+- IV. Cinderella’s Slippers
+- V. “Das Ding-an-Sich”
+- VI. “An Enemy came and sowed Tares”
+- VII. Gradual Enfranchisement
+- VIII. Ritter Fritz
+- IX. “The Etymology of Grace”
+- X. Preaching and Practice
   
 ### BOOK III.
 
 #### FLOOD AND FIRE.
 
-* I. “O’er Crag And Torrent, till the Night is gone”
-* II. “Polly, put the Kettle On”
-* III. Pansies
-* IV. Vae Victis!
-* V. An Experiment
-* VI. The Fragrance of Tea-Roses
-* VII. “These, through their Faith, received not the Promise”
-* VIII. “That, apart from us, they should not be made Perfect”
+- I. “O’er Crag And Torrent, till the Night is gone”
+- II. “Polly, put the Kettle On”
+- III. Pansies
+- IV. Vae Victis!
+- V. An Experiment
+- VI. The Fragrance of Tea-Roses
+- VII. “These, through their Faith, received not the Promise”
+- VIII. “That, apart from us, they should not be made Perfect”
 
-<p class="pagenum">Begin page 7</p>
+<hr>
+<p class="pagenum"><em>Begin page 7</em></p>
 
 <center>  
-## BOOK I.
+<h2> BOOK I.</h2>
 
-### LOVE.
+<h2> LOVE. </h2>
 </center>
 
-<p class="pagenum">Begin page 8</p>
-<p class="pagenum">Begin page 9</p>
+<hr>
+<p class="pagenum"><em>Page 8 blank</em></p>
+</hr>
+<p class="pagenum"><em>Begin page 9<em></p>
 
 <center>
 ## METZEROTT, SHOEMAKER
