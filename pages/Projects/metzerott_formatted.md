@@ -157,7 +157,7 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 <p class="pagenum"><sup>[Page 8 blank]</sup></p>
 <hr>
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b9" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/9/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 9</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b9" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/9/mode/1up" onclick="loadFrame(this)" data-iframe="frame9">Page 9</button> 
 <iframe style="display: none" id="frame9" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <center>
@@ -171,15 +171,24 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 
 ### KARL METZEROTT ATTENDS A KAFFEE KLATSCH.
 
+<p style="margin-top:2cm;"></p>
 KARL METZEROTT, shoemaker, counted himself reasonably well-to-do in the world. It was a favorite saying of his (though he was not greatly given to sayings at any time, his days being so full of doings), that his Socialist opinions were not based upon his own peculiar needs; and that, when the Commune[^1] should supervene, as he fervently believed it must some day, he, Karl Metzerott, would be numbered rather among its givers than its receivers.
 
 In truth, he had some reason for self-gratulation. He was young, strong, and able to earn a fair living at his trade; and his wife,&mdash;but stop! We have not come to her quite yet.
 
 The shop where he bent over his lapstone for ten hours a day, excluding meal times, was an odd-looking structure, in a poor quarter of a city which we shall call Micklegard; and which, if any one should strive to locate, we warn him that the effort will bring him only confusion of face and dire bewilderment. For its features may be recognized, now here, now there, like those mocking faces that peered at Ritter Huldbrand through the mists of the Enchanted Forest.[^2]
 
-The shoemaker's dwelling contained but three rooms. The front, a shingled frame building of one story, pre-<hr><p class="pagenum"><sup>Page 10</sup></p>sented its pointed gable at the street like a huge caret, denoting that all the sky and stars, perhaps something further, were wanted by those beneath. This was the shop; behind it were the kitchen, looking out upon a small square yard, opening on a not over-clean alley; and a bedroom above, whose front window peered over the gable roof, between the high blank walls of the adjoining houses, while the opposite one kept watch from the rear: and each, in its curtainless bareness, looked equally desolate and unsatisfied.
+The shoemaker's dwelling contained but three rooms. The front, a shingled frame building of one story, pre-
 
-It was on a cold, dreary November evening that the shoemaker put aside his work somewhat earlier than usual, and, after carefully closing his shutters, stepped through the ever-open door into his little kitchen, which was almost as red-hot as the huge cooking-stove, filled with bituminous coal, that occupied nearly half the tiny apartment. The other half was over-filled by a gigantic four-post bedstead, on which two corpulent feather-beds swelled nearly to the tester, and were overspread by a patchwork quilt, gaudy of hue and startling in design. Fringed dimity curtains hung from the tester, until their snow-white balls caught the reflection from the glowing counterpane, when they were snatched away, as if from the possible soil of contact, and fastened in the middle of each side by an immense yellow rosette. Upon one side of the stove stood an oil-cloth-covered table, which served equally for the preparation and consumption of food; above it, a steep, narrow stair wound upward to the room above; and on the other side of the kitchen, basking in heat which would have consumed a salamander, were a small old-fashioned candle-stand, half hidden by a linen cover, wrought in the old Levitical colors of red and blue,[^3] and sustaining a cheap kerosene lamp; a slat rocking-chair, with patchwork cushions, and a tiny old woman bowed over a huge German Bible, bound in parch-<hr><p class="pagenum"><sup>Page 11</sup></p>ment, with a tarnished steel clasp and corners, and heavy smooth yellow leaves.
+<hr><p class="pagenum"><sup>Page 10</sup></p>
+
+sented its pointed gable at the street like a huge caret, denoting that all the sky and stars, perhaps something further, were wanted by those beneath. This was the shop; behind it were the kitchen, looking out upon a small square yard, opening on a not over-clean alley; and a bedroom above, whose front window peered over the gable roof, between the high blank walls of the adjoining houses, while the opposite one kept watch from the rear: and each, in its curtainless bareness, looked equally desolate and unsatisfied.
+
+It was on a cold, dreary November evening that the shoemaker put aside his work somewhat earlier than usual, and, after carefully closing his shutters, stepped through the ever-open door into his little kitchen, which was almost as red-hot as the huge cooking-stove, filled with bituminous coal, that occupied nearly half the tiny apartment. The other half was over-filled by a gigantic four-post bedstead, on which two corpulent feather-beds swelled nearly to the tester, and were overspread by a patchwork quilt, gaudy of hue and startling in design. Fringed dimity curtains hung from the tester, until their snow-white balls caught the reflection from the glowing counterpane, when they were snatched away, as if from the possible soil of contact, and fastened in the middle of each side by an immense yellow rosette. Upon one side of the stove stood an oil-cloth-covered table, which served equally for the preparation and consumption of food; above it, a steep, narrow stair wound upward to the room above; and on the other side of the kitchen, basking in heat which would have consumed a salamander, were a small old-fashioned candle-stand, half hidden by a linen cover, wrought in the old Levitical colors of red and blue,[^3] and sustaining a cheap kerosene lamp; a slat rocking-chair, with patchwork cushions, and a tiny old woman bowed over a huge German Bible, bound in parch-
+
+<hr><p class="pagenum"><sup>Page 11</sup></p>
+
+ment, with a tarnished steel clasp and corners, and heavy smooth yellow leaves.
 
 As her son entered, Frau Metzerott lifted her brown, withered face, and fixed her dark eyes and steel-rimmed spectacles upon him.
 
@@ -196,7 +205,11 @@ The old woman looked after him with a slow shake of her head. “I wish he would
 
 With a sigh, she fell to reading again.
 
-It is quite possible that, on the sailing-vessel where her husband met and won her, and which, to afford him ample time for the operation, was obligingly blown out of her course so as to lengthen the voyage to America some three months or so, Frau Metzerott had her fair share of youthful attractiveness; but this had been swept from her by the scythe of Father Time, and the storm and stress of life had left her no leisure to cultivate the graces of old age. Of actual years she numbered barely sixty, and the dark hair under her quaint black cap showed scarcely a <hr><p class="pagenum"><sup>Page 12</sup></p> touch of gray; but the skin was as brown and wrinkled as a frost-nipped russet apple; and rheumatism and the wash-tub together had so bowed her once strong, erect figure, that, like the woman in Scripture, she could in no wise lift up herself.[^Luke] She was dressed in a dark blue calico, marked with small, white, crooked lines, a brown gingham apron, and a small gay-colored plaid shawl over her rheumatic shoulders. Her feet were incased in knitted woollen stockings, and black cloth shoes; and her knotted brown fingers showed beneath black cloth mittens.
+It is quite possible that, on the sailing-vessel where her husband met and won her, and which, to afford him ample time for the operation, was obligingly blown out of her course so as to lengthen the voyage to America some three months or so, Frau Metzerott had her fair share of youthful attractiveness; but this had been swept from her by the scythe of Father Time, and the storm and stress of life had left her no leisure to cultivate the graces of old age. Of actual years she numbered barely sixty, and the dark hair under her quaint black cap showed scarcely a 
+
+<hr><p class="pagenum"><sup>Page 12</sup></p> 
+
+touch of gray; but the skin was as brown and wrinkled as a frost-nipped russet apple; and rheumatism and the wash-tub together had so bowed her once strong, erect figure, that, like the woman in Scripture, she could in no wise lift up herself.[^Luke] She was dressed in a dark blue calico, marked with small, white, crooked lines, a brown gingham apron, and a small gay-colored plaid shawl over her rheumatic shoulders. Her feet were incased in knitted woollen stockings, and black cloth shoes; and her knotted brown fingers showed beneath black cloth mittens.
 
 [^Luke]: Luke 13:10. Jesus heals a woman thus afflicted, who is aged eighteen rather than sixty, like Frau Metzerott.
 
@@ -204,7 +217,11 @@ She did not trouble herself greatly with the preparations for her lonely supper,
 
 The dishes were washed, the kitchen tidied, after this frugal meal, and the mother had settled to her knitting, when there came a knock at the shop door. A pleased smile shone upon the old woman'sface as she recognized the tap, and hastened to admit the person who had formerly embodied her dreams of a daughter-in-law, who should be the instrument of rest and ease to her old age. But the Anna Rolf who now passed through the dark shop into the glowing kitchen, had been for two years a comely young matron; Leppel Rolf, the stalwart young carpenter, having wooed and won her, while Shoemaker Metzerott sat passively under his lapstone. Rumor asserted that the fair Anna had been somewhat piqued by this same passivity; but, however that may be, it was certainly no love-lorn personage who now added the radiance of youth, health, and beauty to the glow of the fire and the yellow light of the kerosene lamp.
 
-Yet Anna was not strictly a beauty, though her vivid <hr><p class="pagenum"><sup>Page 13</sup></p>coloring, sparkling eyes, and overflowing vitality had gained her that reputation. She was simply a tall, well-made woman, with an abundance of silky black hair, a rich, dark complexion, and features which, like her figure, seemed likely to be sharpened, rather than filled out, by advancing years. She was dressed with a good deal of taste, in a new, black silk, with a bunch of crimson roses in her bosom; and her greeting was interfused by the consciousness of such array.
+Yet Anna was not strictly a beauty, though her vivid 
+
+<hr><p class="pagenum"><sup>Page 13</sup></p>
+
+coloring, sparkling eyes, and overflowing vitality had gained her that reputation. She was simply a tall, well-made woman, with an abundance of silky black hair, a rich, dark complexion, and features which, like her figure, seemed likely to be sharpened, rather than filled out, by advancing years. She was dressed with a good deal of taste, in a new, black silk, with a bunch of crimson roses in her bosom; and her greeting was interfused by the consciousness of such array.
 
 “So you are not at the Kaffee-Visite, Frau Metzerott?” she asked, laughing a good deal. Laughing was very becoming to Anna; she had such charming dimples, and strong, white, even teeth.
 
