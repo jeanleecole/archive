@@ -32,7 +32,7 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 </script>
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page [1]1</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page [1]</button> 
 <iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p style="margin-top:2cm;"></p>
@@ -152,6 +152,7 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 </p>
 <h2> LOVE. </h2>
 </center>
+<p style="margin-top:2cm;"></p>
 
 <hr>
 <p class="pagenum"><sup>[Page 8 blank]</sup></p>
@@ -171,7 +172,7 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 
 ### KARL METZEROTT ATTENDS A KAFFEE KLATSCH.
 
-<p style="margin-top:2cm;"></p>
+<p style="margin-top:2cm;"> </p>
 KARL METZEROTT, shoemaker, counted himself reasonably well-to-do in the world. It was a favorite saying of his (though he was not greatly given to sayings at any time, his days being so full of doings), that his Socialist opinions were not based upon his own peculiar needs; and that, when the Commune[^1] should supervene, as he fervently believed it must some day, he, Karl Metzerott, would be numbered rather among its givers than its receivers.
 
 In truth, he had some reason for self-gratulation. He was young, strong, and able to earn a fair living at his trade; and his wife,&mdash;but stop! We have not come to her quite yet.
