@@ -32,28 +32,29 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 </script>
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page (1)</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page 1</button> 
 <iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <hr>
 
-<p></p>
+<p style="margin-top:2cm;"></p>
 <h1 style="text-align:center"> METZEROTT, SHOEMAKER </H1>
-<p></p>
+<p style="margin-top:2cm;"></p>
 <h2 style="text-align:center">"<i>Omne vivum ex vivo.</i>"</h2>
-<p></p>
+<p style="margin-top:1cm;"></p>
 <p style="text-align:center;">
 “What is your creed?”<br>
 “Jesus Christ.”<br>
 “What do you believe about him?”<br>
 “What we can. We count any belief in him&mdash;the smallest&mdash;better than any belief about him&mdash;the greatest,&mdash;or about anything else.”</p>
-<p></p>
+<p style="margin-top:1cm;"></p>
 <p style="text-align:center;">
-NEW YORK<br>
+New York<br>
 THOMAS Y. CROWELL & CO.<br>
 13 Astor Place</p>
+<p style="margin-top:1cm;"></p>
 
 <hr>
-<p class="pagenum"><sup>Copyright page (2)</sup></p>
+<p class="pagenum"><sup>Copyright page 2</sup></p>
 <hr>
 
 <center>
@@ -90,66 +91,63 @@ KINGDOM OF CHRIST.</p>
 </center>
 
 <hr>>
-<p class="pagenum"<sup>[Page 4 blank]</sup></p>
+<p class="pagenum"><sup>[Page 4 blank]</sup></p>
 <hr>
 
 <button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 5</button> 
 <iframe style="display: none" id="frame5" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+
 <h2> CONTENTS</h2>
+<p style="margin-top:1cm;"></p>
 
-<h3> BOOK I</h3>
-### Love. ###
+### BOOK I. Love. 
  
-- [I. Karl Metzerott attends a Kaffee Klatsch](#bk1ch1)
-- II. The Pastor’s Blue Apron
-- III. A Pessimist
-- IV. Dreams And Dreamers
-- V. “When Sorrows come”
-- VI. In Battalions
-- VII. “’Viding”
-- VIII. Multiplication
-- IX. Fors Fortuna
-- X. Hominibus Bonae Voluntatis
-- XI. Ygdrasil
-- XII. “O ye Ice and Snow, bless ye the Lord!”
-- XIII. Prosit Neujahr
-- XIV. Learning and Teaching
+[I. Karl Metzerott attends a Kaffee Klatsch](#bk1ch1)
+II. The Pastor’s Blue Apron
+III. A Pessimist
+IV. Dreams And Dreamers
+V. “When Sorrows come”
+VI. In Battalions
+VII. “’Viding”
+VIII. Multiplication
+IX. Fors Fortuna
+X. Hominibus Bonae Voluntatis
+XI. Ygdrasil
+XII. “O ye Ice and Snow, bless ye the Lord!”
+XIII. Prosit Neujahr
+XIV. Learning and Teaching
 
 <hr>
-<p class="pagenum"><em>Begin page 6</em></p>
+<p class="pagenum"><sup>Begin page 6</sup></p>
 <hr>
   
-### BOOK II.
+### BOOK II. ALTRUISM.
 
-#### ALTRUISM.
-
-- I. After Twelve Years
-- II. Neo-Socialism
-- III. Prince Louis
-- IV. Cinderella’s Slippers
-- V. “Das Ding-an-Sich”
-- VI. “An Enemy came and sowed Tares”
-- VII. Gradual Enfranchisement
-- VIII. Ritter Fritz
-- IX. “The Etymology of Grace”
-- X. Preaching and Practice
+I. After Twelve Years
+II. Neo-Socialism
+III. Prince Louis
+IV. Cinderella’s Slippers
+V. “Das Ding-an-Sich”
+VI. “An Enemy came and sowed Tares”
+VII. Gradual Enfranchisement
+VIII. Ritter Fritz
+IX. “The Etymology of Grace”
+X. Preaching and Practice
   
-### BOOK III.
+### BOOK III. FLOOD AND FIRE.
 
-#### FLOOD AND FIRE.
-
-- I. “O’er Crag And Torrent, till the Night is gone”
-- II. “Polly, put the Kettle On”
-- III. Pansies
-- IV. Vae Victis!
-- V. An Experiment
-- VI. The Fragrance of Tea-Roses
-- VII. “These, through their Faith, received not the Promise”
-- VIII. “That, apart from us, they should not be made Perfect”
+I. “O’er Crag And Torrent, till the Night is gone”
+II. “Polly, put the Kettle On”
+III. Pansies
+IV. Vae Victis!
+V. An Experiment
+VI. The Fragrance of Tea-Roses
+VII. “These, through their Faith, received not the Promise”
+VIII. “That, apart from us, they should not be made Perfect”
 
 <hr>
-<p class="pagenum"><em>Begin page 7</em></p>
+<p class="pagenum"><sup>Begin page 7</sup></p>
 <hr>
 
 <center>  
@@ -159,15 +157,15 @@ KINGDOM OF CHRIST.</p>
 </center>
 
 <hr>
-<p class="pagenum"><em>Page 8 blank</em></p>
-<hr>
-<p class="pagenum"><em>Begin page 9<em></p>
+<p class="pagenum"><sup>Page 8 blank</sup></p>
 <hr>
 
-<center>
-## METZEROTT, SHOEMAKER
+<button class="btn btn-secondary btn-lg iframebutton" id="b9" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/9/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 9</button> 
+<iframe style="display: none" id="frame9" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-### CHAPTER I. {#bk1ch1}
+## METZEROTT, SHOEMAKER.
+
+## CHAPTER I. {#bk1ch1}
 
 ### KARL METZEROTT ATTENDS A KAFFEE KLATSCH.
 </center>
