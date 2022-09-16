@@ -32,7 +32,7 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 </script>
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page [1]</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b1" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n4/mode/1up" onclick="loadFrame(this)" data-iframe="frame1">Title page [1] • click to view</button> 
 <iframe style="display: none" id="frame1" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <p style="margin-top:2cm;"></p>
@@ -67,9 +67,8 @@ Typographers and Electrotypers, <br>
 </center>
 
 <hr>
-<button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Dedication page [3]</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b2" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n6/mode/1up" onclick="loadFrame(this)" data-iframe="frame2">Dedication page [3] • click to view</button> 
 <iframe style="display: none" id="frame2" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> 
-<hr>
 
 <center>
 <p></p>
@@ -92,7 +91,7 @@ KINGDOM OF CHRIST.</p>
 <p class="pagenum"><sup>[Page 4 blank]</sup></p>
 <hr>
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 5</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b5" data-src="https://archive.org/stream/metzerottshoe00woodrich#page/n8/mode/1up" onclick="loadFrame(this)" data-iframe="frame5">Page 5 • click to view</button> 
 <iframe style="display: none" id="frame5" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
@@ -158,7 +157,7 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 <p class="pagenum"><sup>[Page 8 blank]</sup></p>
 <hr>
 
-<button class="btn btn-secondary btn-lg iframebutton" id="b9" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/9/mode/1up" onclick="loadFrame(this)" data-iframe="frame9">Page 9</button> 
+<button class="btn btn-secondary btn-lg iframebutton" id="b9" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/9/mode/1up" onclick="loadFrame(this)" data-iframe="frame9">Page 9 • click to view</button> 
 <iframe style="display: none" id="frame9" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <center>
@@ -412,8 +411,11 @@ And Dora, though she laughed and blushed still deeper, found it most convenient 
 
 [^18]: Isn’t that so? (German).
 
-<hr><p class="pagenum"><sup>Page 23</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b23" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/23/mode/1up" onclick="loadFrame(this)" data-iframe="frame23">Page 23 • click to view</button> 
+<iframe style="display: none" id="frame23" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<p style="margin-top:2cm;"></p>
 #### CHAPTER II. {#bk1ch2}
 
 ### THE PASTOR'S BLUE APRON.
@@ -525,7 +527,11 @@ It was the freedom of the city, the investiture with the best robe, the sending 
 
 
 
-<hr><p class="pagenum"><sup>Page 30</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b30" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/30/mode/1up" onclick="loadFrame(this)" data-iframe="frame30">Page 30 • click to view</button> 
+<iframe style="display: none" id="frame30" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER III. {#bk1ch3}
 
@@ -667,7 +673,11 @@ Mrs. Randolph was furious, and slightly undignified.
 
 Here, woman-like, her vehemence resolved itself into a burst of tears, and, turning, she threw herself into the arms that were open to receive her.
 
-<hr><p class="pagenum"><sup>Page 38</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b38" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/38/mode/1up" onclick="loadFrame(this)" data-iframe="frame38">Page 38 • click to view</button> 
+<iframe style="display: none" id="frame38" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER IV. {#bk1ch4}
 
@@ -836,7 +846,11 @@ And it seemed to Dora as if the tall, radiant form turned upon her, her alone in
 
 "Mother!" he said, and kissed her on the lips; wherewith a strange shuddering thrill of utter bliss shot through every member. She woke to find the daylight streaming in at the curtainless window. Her heart was throbbing heavily, her limbs trembled, and her eyes were full of tears.
 
-<hr><p class="pagenum"><sup>Page 50</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b50" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/50/mode/1up" onclick="loadFrame(this)" data-iframe="frame50">Page 50 • click to view</button> 
+<iframe style="display: none" id="frame50" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER V. {#bk1ch5}
 
@@ -972,7 +986,11 @@ Leppel stood for some moments stupidly and fixedly regarding the swift, turbid c
 
 The policeman who saw him fall had help upon the spot as quickly as it was possible to do so; but it was only the earthly frame of Leopold Rolf that was rescued from the angry waters. The soul of the man whose invention would not pay had gone to carry its cause before the Great Inventor, the Maker of heaven and earth.
 
-<hr><p class="pagenum"><sup>Page 60</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b60" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/60/mode/1up" onclick="loadFrame(this)" data-iframe="frame60">Page 60 • click to view</button> 
+<iframe style="display: none" id="frame60" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VI. {#bk1ch6}
 
@@ -1141,7 +1159,11 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 
 [^vengeance]: Psalms 109:1-20.
 
-<hr><p class="pagenum"><sup>Page 72</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b72" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/72/mode/1up" onclick="loadFrame(this)" data-iframe="frame72">Page 72 • click to view</button> 
+<iframe style="display: none" id="frame72" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VII. {#bk1ch7}
 
@@ -1276,7 +1298,11 @@ we've got to &rsquo;vide some day, and I'm glad of it because it's so awful joll
 
 "There's pretty near enough soup for to-morrow," said Sally Price, peeping into the big iron pot. "My laws! wasteful ain't the name for a man!"
 
-<hr><p class="pagenum"><sup>Page 80</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b80" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/80/mode/1up" onclick="loadFrame(this)" data-iframe="frame80">Page 80 • click to view</button> 
+<iframe style="display: none" id="frame80" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VIII. {#bk1ch8}
 
@@ -1379,7 +1405,11 @@ the young ladies they wait on, not so pretty, nor so educated, nor so refined; b
 
 "But you won't get us to fire a gun," said Sally tersely, "till we can see the whites of their eyes."
 
-<hr><p class="pagenum"><sup>Page 87</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b87" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/87/mode/1up" onclick="loadFrame(this)" data-iframe="frame87">Page 87 • click to view</button> 
+<iframe style="display: none" id="frame87" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER IX. {#bk1ch9}
 
@@ -1520,7 +1550,11 @@ Freddy's picture of the Christ-child was one which had evidently been adapted fr
 
 *Blind* chance? Even the old Romans knew better. Was not Fors Fortuna the goddess of the all-seeing, radiant dawn?
 
-<hr><p class="pagenum"><sup>Page 95</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b95" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/95/mode/1up" onclick="loadFrame(this)" data-iframe="frame95">Page 95 • click to view</button> 
+<iframe style="display: none" id="frame95" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER X. {#bk1ch10}
 
@@ -1681,7 +1715,11 @@ Karl nodded, and the two men broke into a roar of laughter, which effectually se
 
 "Now there is a man," said the doctor to himself as he drove home, "who believes with all his heart that the sun shines. He proved it, too. If I could meet a man who believed like that in the Bible! But there is nothing corresponding to that sunstroke test of his in theology; and Christians know it. I&mdash;yes, really&mdash;I almost wish there were. Pooh! what a fool I am! Get up!" Which energetic reminder, addressed to his horse, so quickened that quadruped's movements as to land the doctor speedily at his own door.
 
-<hr><p class="pagenum"><sup>Page 104</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b104" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/104/mode/1up" onclick="loadFrame(this)" data-iframe="frame104">Page 104 • click to view</button> 
+<iframe style="display: none" id="frame104" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER XI. {#bk1ch11}
 
@@ -1882,7 +1920,11 @@ Dr. Richards was a devotee of physical science, not a philologist, and it theref
 
 [^punir]: The words punishment and purification do not, in fact, share the same etymology. Punishment originates from the Latin word *punire*, while purification originates from the Latin *purificare*.
 
-<hr><p class="pagenum"><sup>Page 114</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b114" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/114/mode/1up" onclick="loadFrame(this)" data-iframe="frame114">Page 114 • click to view</button> 
+<iframe style="display: none" id="frame114" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER XII. {#bk1ch12}
 
@@ -2065,7 +2107,7 @@ For another moment she clung to him, with her face hidden; then she looked up ve
 
 can make the burden of life less heavy," he said, "and so will I so far as we can control our own fate. It has been all the creed I could boast of for many years, Alice, to say, 'I believe there are those whom I must live to help.' I give it to you, now, in return for that of which I have robbed you; take it for what it is worth."
 
-"I believe there are those whom I must live to help, "she repeated slowly."It is a better creed than poor Jennie's, Fred. 'I believe there are those whom I must live to help!'"A sudden light came to her eyes, a smile to her lips. "I will begin with you!" she cried. "Why, how abominably selfish I am, to keep you here talking theology, when you are tired to death and half starved, I dare say."
+"I believe there are those whom I must live to help," she repeated slowly. "It is a better creed than poor Jennie's, Fred. 'I believe there are those whom I must live to help!'&rdquo; A sudden light came to her eyes, a smile to her lips. "I will begin with you!" she cried. "Why, how abominably selfish I am, to keep you here talking theology, when you are tired to death and half starved, I dare say."
 
 "My comforts are at least all ready for me," he answered, smiling, with a glance at the tempting meal upon the table, and the coffee-pot, and little dish of fried oysters keeping hot before the fire.
 
@@ -2103,7 +2145,11 @@ Logical? well, no! The human mind is, fortunately, not supremely logical; fortun
 
 But neither of them reflected that in the verb, the little verb *must*, lay all they professed to deny,&mdash;an ordered universe and an ordering God.
 
-<hr><p class="pagenum"><sup>Page 126</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b126" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/126/mode/1up" onclick="loadFrame(this)" data-iframe="frame126">Page 126 • click to view</button> 
+<iframe style="display: none" id="frame126" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER XIII. {#bk1ch13}
 
@@ -2217,7 +2263,11 @@ Polly had no time to be angry; indeed she was half stunned by the "Prosits" and 
 
 For, amid the laughter and good wishes all around her, Susan Price had suddenly and quietly fainted away.
 
-<hr><p class="pagenum"><sup>Page 133</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b133" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/133/mode/1up" onclick="loadFrame(this)" data-iframe="frame133">Page 133 • click to view</button> 
+<iframe style="display: none" id="frame133" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 ## CHAPTER XIV. {#bk1ch14}
 
@@ -2412,9 +2462,13 @@ And this was Susan Price's sole funeral oration.
 
 ### ALTRUISM.
 
-<hr><p class="pagenum">[Page 146 blank]</p>
+<hr><p class="pagenum"><sup>[Page 146 blank]</sup</p>
 
-<hr><p class="pagenum"><sup>Page 147</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b147" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/147/mode/1up" onclick="loadFrame(this)" data-iframe="frame147>Page 147 • click to view</button> 
+<iframe style="display: none" id="frame147" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER 1. 
 
@@ -2667,7 +2721,11 @@ the orders, transmitted, through the executive committee, from the heads of depa
 
 [^elevator]: The elevator was invented in the early nineteenth century but did not come into widespread use until the end of the century, due to people's skepticism regarding their safety for human transport. The invention of the safety brake by Otis in the 1850s, and the invention of the more efficient hydraulic elevator a few decades later, helped to popularize the device, but it was not until the advent of the skyscraper in the 1880s that the elevator became more than a novelty. Even then, it was associated with luxury and was even seen as a tourist attraction. Its incorporation into a dwellinghouse for working-class people in a novel written in 1889 would thus have been more than a little surprising.
 
-<hr><p class="pagenum"><sup>Page 162</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b162" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/162/mode/1up" onclick="loadFrame(this)" data-iframe="frame162">Page 162 • click to view</button> 
+<iframe style="display: none" id="frame162" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER II.
 
@@ -2854,7 +2912,11 @@ Father McClosky rubbed his nose thoughtfully. "And what is it ye mean to do?" he
 
 "Then the first thing ye'd better be at," said the Father, "is to come to dinner; for, sure, the clock is on the stroke of one!"
 
-<hr><p class="pagenum"><sup>Page 174</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b174" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/174/mode/1up" onclick="loadFrame(this)" data-iframe="frame174">Page 174 • click to view</button> 
+<iframe style="display: none" id="frame174" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER III. 
 
@@ -2991,7 +3053,11 @@ But Louis was no angel, he was only a man; for this was what he had whispered to
 
 "I will tell her who painted the beautiful roses, *liebes Aenchen*."
 
-<hr><p class="pagenum"><sup>Page 182</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b182" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/182/mode/1up" onclick="loadFrame(this)" data-iframe="frame182">Page 182 • click to view</button> 
+<iframe style="display: none" id="frame182" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER IV. {#bk2ch4}
 
@@ -3190,7 +3256,7 @@ Mr. Randolph finished his ice-cream, and calmly took up his conversation with th
 
 "Is that your favorite? Well, it's a good specimen of his best manner; individual, you know, and American. Now, there's his Clytie; she's no more Greek than I am; as why should she be? Who his model was, I'm sure I don't know; but Clytie herself is simply a beautiful American girl."
 
-"You remember Pinkie's exclamation when she first saw his Endymion," said the doctor, smiling; "&rsquo;Oh! how I should like to kiss him!'"
+"You remember Pinkie's exclamation when she first saw his Endymion," said the doctor, smiling; "'Oh! how I should like to kiss him!'"
 
 "Ah! exactly! 'like Dian's kiss!' There's a softness, a tenderness about his manner that's very attractive, and intensely American."
 
@@ -3260,7 +3326,7 @@ Wherewith they rose from the table.
 
 Rendered even more genial than his wont by these reflections, the rich man paused, ere leaving the dining-room, to say to Louis,&mdash;
 
-"My little girl has not thanked you yet for the slippers, Mr. Metzerott. I suppose they came from you, as that is your department at'Prices'"
+"My little girl has not thanked you yet for the slippers, Mr. Metzerott. I suppose they came from you, as that is your department at 'Prices.'"
 
 "Yes," said Louis quietly, "it is my department."
 
@@ -3392,7 +3458,11 @@ summer lightning. Louis turned to meet the eyes of Dr. Richards.
 
 While Pinkie, as she packed away the pretty china tile with the fair young face upon it, murmured to herself, "There's no good in showing it to Virgie, she would laugh; and as for papa, it is none of his business. But oh! Louis, if only you were anything but a shoemaker!"
 
-<hr><p class="pagenum"><sup>Page 203</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b203" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/203/mode/1up" onclick="loadFrame(this)" data-iframe="frame203">Page 203 • click to view</button> 
+<iframe style="display: none" id="frame203" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER V. {#bk2ch5}
 
@@ -3533,7 +3603,11 @@ Yet&mdash;Louis was his own son,&mdash;his who had "loved one woman only," and c
 
 "You had me," said Louis, springing to his feet, and clasping like a child his father's brown neck; "you had me, and I have you. We won't break our hearts while we have each other, father."
 
-<hr><p class="pagenum"><sup>Page 211</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b211" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/211/mode/1up" onclick="loadFrame(this)" data-iframe="frame211">Page 211 • click to view</button> 
+<iframe style="display: none" id="frame211" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VI. {#bk2ch6}
 
@@ -3706,7 +3780,11 @@ Mr. Randolph was sincerely glad to hear that Gretchen had so good a guardian as 
 
 But did it never occur to this same courteous, genial, warm-hearted gentleman, who wished so exceedingly well to everybody, that an outspoken warning, either to his son, to Gretchen, or to her friends, might possibly have been in place?
 
-<hr><p class="pagenum"><sup>Page 221</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b221" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/221/mode/1up" onclick="loadFrame(this)" data-iframe="frame221">Page 221 • click to view</button> 
+<iframe style="display: none" id="frame221" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VII. {#bk2ch7}
 
@@ -4043,7 +4121,11 @@ He was silent for a moment; for the look exchanged between husband and wife told
 
 "Well, if ever I turn Christian, Mr. Clare, you shall have the glory of my conversion."
 
-<hr><p class="pagenum"><sup>Page 239</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b239" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/239/mode/1up" onclick="loadFrame(this)" data-iframe="frame239">Page 239 • click to view</button> 
+<iframe style="display: none" id="frame239" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VIII. {#bk2ch8}
 
@@ -4190,8 +4272,11 @@ To which Denis consenting, he wrote on a blank leaf of the huge pocketbook in wh
 "FRITZ R."
 
 "P. S. I don't want her talked about: my wife, you know."
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b248" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/248/mode/1up" onclick="loadFrame(this)" data-iframe="frame248">Page 248 • click to view</button> 
+<iframe style="display: none" id="frame248" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-<hr><p class="pagenum"><sup>Page 248</sup></p>
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER IX. {#bk2ch9}
 
@@ -4471,7 +4556,11 @@ and much less so than many who are called the truest of the true,&mdash;but a fa
 
 [^Muller]: In "Essay on Comparative Mythology" (1856), German philologist Friedrich Max Müller noted parallels between the Sanskrit Harits with the seven Graces, or Charites, of Greek mythology. Müller's ideas were in vogue during the mid- to late-nineteenth century, but little studied today.
 
-<hr><p class="pagenum"><sup>Page 261</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b261" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/261/mode/1up" onclick="loadFrame(this)" data-iframe="frame261">Page 261 • click to view</button> 
+<iframe style="display: none" id="frame261" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER X. {#bk2ch10}
 
@@ -4731,7 +4820,11 @@ She rose to her feet,&mdash;for till then she had knelt beside his chair,&mdash;
 ### FLOOD AND FIRE.
 
 <hr><p class="pagenum"><sup>[Page 276 blank]</sup></p>
-<hr><p class="pagenum"><sup>Page 277</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b277" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/277/mode/1up" onclick="loadFrame(this)" data-iframe="frame277">Page 277 • click to view</button> 
+<iframe style="display: none" id="frame277" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER I. 
 
@@ -4912,7 +5005,11 @@ When they had returned home, drenched and exhausted, Louis laid his hand upon Mr
 
 "He is saving us now, Louis," said Mr. Clare, "saving us by what seems the extremity of His wrath. 'O Saviour of the world, Who by Thy cross and precious blood hast redeemed us, save us and help us, we humbly beseech Thee, Lord!'"
 
-<hr><p class="pagenum"><sup>Page 288</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b288" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/288/mode/1up" onclick="loadFrame(this)" data-iframe="frame288">Page 288 • click to view</button> 
+<iframe style="display: none" id="frame288" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER II. 
 
@@ -5033,7 +5130,11 @@ The world would fare ill without Franz and Polly, who, perhaps, add quite as muc
 
 They were married&mdash;of course, by Mr. Clare&mdash;in time to permit Franz's return to take part in a musical festival in B&mdash;&mdash;, and departed together, very happy, though amid some tears from Polly, promising to return in a few years at most.
 
-<hr><p class="pagenum"><sup>Page 297</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b297" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/297/mode/1up" onclick="loadFrame(this)" data-iframe="frame297">Page 297 • click to view</button> 
+<iframe style="display: none" id="frame297" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER III. 
 
@@ -5348,7 +5449,11 @@ Gentlemen, will you wear my heart's-ease?"[^pansy]
 
 The words were simple, but the tone was full of meaning. Instinctively all felt that the climax of the evening had been reached, the closing word been spoken; and each one, silently accepting a blossom and exchanging a cordial press ure with the hand that bestowed it, with only a murmured "Good-night," left the room. Not the least cordial pressure was that which came from the hand of Pastor Schaefer.
 
-<hr><p class="pagenum"><sup>Page 314</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b314" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/314/mode/1up" onclick="loadFrame(this)" data-iframe="frame314">Page 314 • click to view</button> 
+<iframe style="display: none" id="frame314" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER IV. {#bk3ch4}
 
@@ -5590,7 +5695,11 @@ hand; but not till Dr. Richards had left them came the whisper, "Have you seen h
 
 So Louis sang&mdash;though it was a difficult task&mdash;song after song, in his sweet tenor voice, until those in the outer room hushed their talk to listen, and Freddy fell fast asleep with the tender notes echoing still in his ear. For it is never "woe" to those who are vanquished by the Cross.
 
-<hr><p class="pagenum"><sup>Page 328</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b328" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/328/mode/1up" onclick="loadFrame(this)" data-iframe="frame328">Page 328 • click to view</button> 
+<iframe style="display: none" id="frame328" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER V. {#bk3ch5}
 
@@ -5714,7 +5823,11 @@ Mr. Clare rose from his knees, and left the room without another word, leaving t
 
 Religion is a science, and, like all science, empirical. Dr. Richards had made his first theological experiment; and, though the needle had moved ever so slightly upon the dial of the galvanometer, the existence of the current must ever more remain for him an established fact.
 
-<hr><p class="pagenum"><sup>Page 334</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b334" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/334/mode/1up" onclick="loadFrame(this)" data-iframe="frame334">Page 334 • click to view</button> 
+<iframe style="display: none" id="frame343" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VI. {#bk3ch6}
 
@@ -5931,7 +6044,11 @@ Louis called comfortable. She had not been prepared for this when she set hersel
 
 He turned away, he walked steadily to the door and down the stairs; she ran to the window, and watched him down the moonlit street, but he never looked back: and when the last echo of his footsteps had died away, the poor, lonely, spoiled child flung herself face downwards on the floor, and cried in good earnest.
 
-<hr><p class="pagenum"><sup>Page 346</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b346" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/346/mode/1up" onclick="loadFrame(this)" data-iframe="frame346">Page 23 • click to view</button> 
+<iframe style="display: none" id="frame346" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VII. {#bk3ch7}
 
@@ -6317,7 +6434,11 @@ Then, with a horrible cry, Karl Metzerott leaped upon the veranda, tearing his s
 
 "'Vengeance is mine; *I will repay*,' saith the Lord." 
 
-<hr><p class="pagenum"><sup>Page 368</sup></p>
+<hr>
+<button class="btn btn-secondary btn-lg iframebutton" id="b368" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/368/mode/1up" onclick="loadFrame(this)" data-iframe="frame368">Page 368 • click to view</button> 
+<iframe style="display: none" id="frame368" scrolling="no" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<p style="margin-top:2cm;"></p>
 
 #### CHAPTER VIII. {#bk3ch8}
 
