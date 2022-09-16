@@ -362,7 +362,11 @@ Then he took her home, actually superseding the Herr Pastor in so doing. They ta
 
 “You are not betrothed to the Herr Pastor, Fräulein Dora?”
 
-“No, indeed, he has never asked me,” she replied, laughing and blushing a little, but looking up into his face with <hr><p class="pagenum"><sup>Page 22</sup></p> childlike, innocent directness. Perhaps little Dora was scarcely the beauty that Karl fancied her; Anna's description, “a baby face, and frightened ways,” was much more accurate than any he could have given. But her large, blue eyes, with their long, golden lashes, were really beautiful; and nothing could have so moved the man beside her as the sight of that shy timidity, changed into calm reliance on his strength.
+“No, indeed, he has never asked me,” she replied, laughing and blushing a little, but looking up into his face with 
+
+<hr><p class="pagenum"><sup>Page 22</sup></p> 
+
+childlike, innocent directness. Perhaps little Dora was scarcely the beauty that Karl fancied her; Anna's description, “a baby face, and frightened ways,” was much more accurate than any he could have given. But her large, blue eyes, with their long, golden lashes, were really beautiful; and nothing could have so moved the man beside her as the sight of that shy timidity, changed into calm reliance on his strength.
 
 “But you would not marry him, *nicht wahr*?[^18] He is poor, he is a fool, and he has six children.”
 
@@ -410,10 +414,11 @@ And Dora, though she laughed and blushed still deeper, found it most convenient 
 
 <hr><p class="pagenum"><sup>Page 23</sup></p>
 
-##### CHAPTER II. {#bk1ch2}
+#### CHAPTER II. {#bk1ch2}
 
-###### THE PASTOR'S BLUE APRON.
+### THE PASTOR'S BLUE APRON.
 
+<p style="margin-top:1cm;"> </p>
 PASTOR SCHAEFER was in serious trouble. It was the 22d of December, and his Christmas sermon was still un prepared: worse still, it stood every possible chance of remaining so; for how on earth was a man to consider texts, headings, arguments, or perorations, who had a house and six small children to care for, and a housekeeper whose brother had just been inconsiderate enough to die? In truth, however, it was rather the housekeeper who should be blamed for want of consideration, since the brother would very likely have remained alive if he had been consulted about the matter; whereas Mary, the housekeeper, could certainly have restrained her grief sufficiently to take the sausages off the fire!
 
 It was early that same morning that it had all happened, though the brother had been in a dying condition for several weeks, ever since he had fallen from a ladder during the operation of hod-carrying, and fractured his skull. Therefore Mary's mind had certainly had time to prepare itself for the shock; indeed the pastor's children had become so accustomed to hearing her shriek wildly every time there came a knock at the door, under the supposition that the knocker brought news of her brother's death, that, when this event really happened, little Bruno, the third from youngest, said solemnly, "Poor Mary's brother is dead again"; but nobody supposed it was actually so.
@@ -522,10 +527,11 @@ It was the freedom of the city, the investiture with the best robe, the sending 
 
 <hr><p class="pagenum"><sup>Page 30</sup></p>
 
-##### CHAPTER III. {#bk1ch3}
+#### CHAPTER III. {#bk1ch3}
 
-###### A PESSIMIST.
+### A PESSIMIST.
 
+<p style="margin-top:1cm;"> </p>
 THAT same afternoon the Reverend Otto paid a pastoral visit to Dorothea Weglein, the lamb who was about to give herself over to the jaws of an infidel and socialistic wolf. His own fate was sealed, as he knew very well; the stalwart Lottie already comported herself with the dignity of a Fran Pastorin; but a certain latent chivalry in the heart of the little man had been developed by his love for Dora, certainly the purest and most unselfish feeling he had ever known; and he would have perilled his dearest possession, his children or his vanity, to avert the fate that was coming upon her.
 
 His way lay from the German quarter of the city, through its business centre, to the region where dwelt the privileged few, where clustered the stately homes of the wealthy manufacturers, for whose sake Micklegard and the world are permitted to exist by an all-wise Providence. Nevertheless, this German quarter deserves more than a passing mention.
@@ -588,7 +594,7 @@ Mrs. Randolph stared into his calm face with angry amazement.
 
 "If your efforts prove as weak as your arguments, Dr. Richards, that best will be a very poor one. Misery without you! Why, I will give Alice one year, just one,
 
- <hr><p class="pagenum"><sup>Page 34</sup></p>
+<hr><p class="pagenum"><sup>Page 34</sup></p>
  
  in America, or six months in Paris, to forget you, and be as happy as a queen."
 
@@ -608,7 +614,9 @@ She was about eighteen, of medium height, and slender, with the unconscious grac
 
 She did not speak as she entered the room, but went quietly to Dr. Richards's side, looked for one instant into his face, and laid her hand in his.
 
-Certainly they seemed well matched, for he also was<hr><p class="pagenum"><sup>Page 35</sup></p> silent as he held fast the hand she had given him. Then his firm lips curved into a triumphant smile. "Well, Mrs. Randolph?" he said.
+Certainly they seemed well matched, for he also was
+
+<hr><p class="pagenum"><sup>Page 35</sup></p> silent as he held fast the hand she had given him. Then his firm lips curved into a triumphant smile. "Well, Mrs. Randolph?" he said.
 
 The lady's face flushed again, rather unbecomingly.
 
@@ -661,10 +669,11 @@ Here, woman-like, her vehemence resolved itself into a burst of tears, and, turn
 
 <hr><p class="pagenum"><sup>Page 38</sup></p>
 
-##### CHAPTER IV. {#bk1ch4}
+#### CHAPTER IV. {#bk1ch4}
 
-###### DREAMS AND DREAMERS.
+### DREAMS AND DREAMERS.
 
+<p style="margin-top:1cm;"> </p>
 DORA WEGLEIN belonged to that large class of women in whom the heart is far stronger than the head. Such women feel strongly, but reason weakly; if the feeling be pure and right, their actions are the same; but if selfishness clog the action of the heart, there is no head to appeal to. These are the women who never theorize, or else theorize wide of the mark, and whose husbands often are the happiest, whose children are the best-behaved in the world.
 
 Alice Randolph, on the contrary, was a woman of theory. It was to her impossible to act without a clear knowledge of all the laws that ought to govern such action; hence, as time and tide wait for no man, the opportunity for action often passed while she was weighing pros and cons; and hence, also, she frequently came to doubt the correctness of her own conclusions, when their resulting action had lapsed into the past.
@@ -701,7 +710,7 @@ lately turned a deaf ear to all confidences, and even frowned coldly upon proffe
 
 "I hope your optimism may be right, my darling."
 
-"I will make it right," she cried defiantly, not of him but fate; "and as for friends, whom do I want but you? Don't you suppose I could have had scores of bridemaids?&mdash;girls who would have called you 'too sweet for anything,' and considered it 'so romantic to have one's only brother'"&mdash;her eyes filled, but she shook off the tears and went on merrily. "No, sir, I don't repent as yet, and don't mean to; but, if ever I *should*, I am very much afraid that you will be *certain to find it out*."
+"I will make it right," she cried defiantly, not of him but fate; "and as for friends, whom do I want but you? Don't you suppose I could have had scores of bridemaids?&mdash;girls who would have called you 'too sweet for anything,' and considered it 'so romantic to have one's only brother'&rdquo;&mdash;her eyes filled, but she shook off the tears and went on merrily. "No, sir, I don't repent as yet, and don't mean to; but, if ever I *should*, I am very much afraid that you will be *certain to find it out*."
 
 <center>~ ~ ~</center>
 
@@ -721,7 +730,11 @@ the buxom Lottie had gained a legal title. The pastor's experience in haling int
 
 But carefully remember, dear reader, I am not justifying little Dora in this conclusion, only stating the argument as she would have done, had her mental powers been cultivated up to syllogisms.
 
-The pastor, however, understood her to mean that belief or unbelief were equally *Nichts*, and went away sorrowful. But Karl Metzerott, when he heard of the conversation, was exceeding wroth, and expressed himself with great force, in a string of German nouns and adjectives, some of which began with "*ver*," while others referred to well-known atmospheric phenomena. No such person, he said, should marry a dog or cat that belonged to him, Karl Metzerott; if Dora objected to a justice of the peace, there was the Calvinist minister, and plenty of Americans in the same business, more was the pity. All ministers were <hr><p class="pagenum"><sup>Page 42</sup></p>thieves and rogues, anyhow, said Karl Metzerott, living on the charity of their parishioners under pretence of saving their souls. Souls, indeed!
+The pastor, however, understood her to mean that belief or unbelief were equally *Nichts*, and went away sorrowful. But Karl Metzerott, when he heard of the conversation, was exceeding wroth, and expressed himself with great force, in a string of German nouns and adjectives, some of which began with "*ver*," while others referred to well-known atmospheric phenomena. No such person, he said, should marry a dog or cat that belonged to him, Karl Metzerott; if Dora objected to a justice of the peace, there was the Calvinist minister, and plenty of Americans in the same business, more was the pity. All ministers were 
+
+<hr><p class="pagenum"><sup>Page 42</sup></p>
+
+thieves and rogues, anyhow, said Karl Metzerott, living on the charity of their parishioners under pretence of saving their souls. Souls, indeed!
 
 It was not often that Karl found words for his thoughts to such an extent as this; but gentle little Dora was unmoved by the torrent of eloquence. She would not be married by any one but a minister of God, she said; but that minister need be by no means the Rev. Otto Schaefer. "Though, for her part, and though she had been angry at the time, Dora would always believe that the Herr Pastor was a good little man, and meant well."
 
@@ -825,10 +838,11 @@ And it seemed to Dora as if the tall, radiant form turned upon her, her alone in
 
 <hr><p class="pagenum"><sup>Page 50</sup></p>
 
-##### CHAPTER V. {#bk1ch5}
+#### CHAPTER V. {#bk1ch5}
 
-###### "WHEN SORROWS COME."
+### "WHEN SORROWS COME."
 
+<p style="margin-top:1cm;"> </p>
 DO you know, dear reader, how slowly and heavily fall the first drops of a thunder shower? After a little, when the storm is fully upon us, when the wind crashes in the branches of the trees, and sheets of rain beat against the windows, there is but small account made of a single drop; but at first, after a day of sunshine, ah! how large and ominous they seem; and even so is the first coming of trouble.
 
 It was but a few weeks after the end of the Sängerfest that a change in Leppel Rolf which had long been silently operative, began to manifest itself in his outward man. He grew morose in speech and manner, shabby in his clothing, negligent of his daily task, more and more absorbed in his invention, which now neared completion, and as he fondly hoped, success. Meanwhile, the hope brought something far from happiness, whatever might be the case with realization. Anna's color grew hard, her features sharp, her eyes anxious, under the pressure of dread for the future, and the knowledge that Leppel's savings and her own had been exhausted to the last penny, and that all which now stood between them and dire want were her husband's daily wages. And Leppel had been of late more than once sharply reproved by the foreman of the great building firm for which he worked.
@@ -847,7 +861,10 @@ Anna's practical, clear-seeing spirit did not know the power of an idea stronger
 
 The old Frau did not wait to receive the little grandson who came when the June roses bloomed over the land, as beautiful and sweet as they. Life and death lay together under the shoemaker's roof; the old life passively drifting out of the world, as the young life struggled into being. It was terrible for Dora, said all the gossips; but, fortunately, Dora was one of those happy persons who take everything quietly, so it seemed to do her no harm. Anna Rolf was at the house day and night, and managed every thing, in spite of the fact that her own domestic anxieties were daily on the increase. It was owing to her, she always said afterwards, that little Louis had such splendid health. She "started him right," and the start is just everything to a baby!
 
-There never was such a baby! Of course not. Others might be as pretty, perhaps as bright and knowing, but what baby ever was so good and loving since the world began, or cooed in such varied tones, as sweet as the notes of an angel's harp? There was no doubt about it, he was certainly a remarkable child; and as the young mother lay upon her bed in the hot, close room, or by and by went about her work again in the kitchen beneath, many an old <hr><p class="pagenum"><sup>Page 52</sup></p>tale returned to her mind that she had heard in her German home, of beings from the upper air, higher intelligences who had come down to teach and bless our sinful earth. Her wonderful dream also returned to her many times, and, bending over the little form, she strove to trace in the unconscious baby features some resemblance to that strange and beautiful face that had looked so lovingly into hers. And at times she quite believed she could; when little Louis' eyes were suddenly opened, and he looked into her face with that strange, grave look, the resemblance was wonderful, thought Dora.
+There never was such a baby! Of course not. Others might be as pretty, perhaps as bright and knowing, but what baby ever was so good and loving since the world began, or cooed in such varied tones, as sweet as the notes of an angel's harp? There was no doubt about it, he was certainly a remarkable child; and as the young mother lay upon her bed in the hot, close room, or by and by went about her work again in the kitchen beneath, many an old 
+
+<hr><p class="pagenum"><sup>Page 52</sup></p>
+tale returned to her mind that she had heard in her German home, of beings from the upper air, higher intelligences who had come down to teach and bless our sinful earth. Her wonderful dream also returned to her many times, and, bending over the little form, she strove to trace in the unconscious baby features some resemblance to that strange and beautiful face that had looked so lovingly into hers. And at times she quite believed she could; when little Louis' eyes were suddenly opened, and he looked into her face with that strange, grave look, the resemblance was wonderful, thought Dora.
 
 These thoughts she kept to herself; they were sweet and beautiful, but Karl would only have laughed at her for them, willing as he was to agree that such a baby as their boy had seldom, if ever, been seen before.
 
@@ -855,7 +872,11 @@ The grandmother's testered bed was very convenient for Louis to lie upon while D
 
 And trade began to fall off.
 
-Karl Metzerott had a certain reputation in his own quarter of Micklegard for the excellence of his work. His shoes were not fancy shoes, he was wont to say, but he used only the best leather, and they were every stitch hand-made. One pair of them would outlast two pairs of machine-made shoes, he said, and then be half-soled to look as good as new. But there was no denying that the machine-made shoes were cheaper to begin with, whatever they might be in the end; and when business is bad all over the country, money as tight as wax, and the air filled <hr><p class="pagenum"><sup>Page 53</sup></p>with rumors of a general financial crisis, and complaints of over-production,&mdash;whatever that may be,&mdash;why, people will wear the cheapest things they can find. Perhaps they reason that the sooner the things wear out the sooner will the demand catch up with the supply, and the evil of over-production be remedied; or perhaps it is simply that if a man have five dollars to buy shoes for his entire family, he must make it go as far as it will, rather than spend it all on one member (or pair of members), letting the rest go barefoot. As to what he shall do when the cheap shoes are gone, why, he must just resort to the expedient of which the rest of us avail ourselves when everything else has proved unsuccessful,&mdash;he must trust in Providence.
+Karl Metzerott had a certain reputation in his own quarter of Micklegard for the excellence of his work. His shoes were not fancy shoes, he was wont to say, but he used only the best leather, and they were every stitch hand-made. One pair of them would outlast two pairs of machine-made shoes, he said, and then be half-soled to look as good as new. But there was no denying that the machine-made shoes were cheaper to begin with, whatever they might be in the end; and when business is bad all over the country, money as tight as wax, and the air filled 
+
+<hr><p class="pagenum"><sup>Page 53</sup></p>
+
+with rumors of a general financial crisis, and complaints of over-production,&mdash;whatever that may be,&mdash;why, people will wear the cheapest things they can find. Perhaps they reason that the sooner the things wear out the sooner will the demand catch up with the supply, and the evil of over-production be remedied; or perhaps it is simply that if a man have five dollars to buy shoes for his entire family, he must make it go as far as it will, rather than spend it all on one member (or pair of members), letting the rest go barefoot. As to what he shall do when the cheap shoes are gone, why, he must just resort to the expedient of which the rest of us avail ourselves when everything else has proved unsuccessful,&mdash;he must trust in Providence.
 
 Whatever the cause, Metzerott saw his best customers pass his door in machine-made shoes; but he did derive a sort of cynical pleasure from noticing how soon the shoes were brought to him to be mended and patched.
 
@@ -863,7 +884,11 @@ Whatever the cause, Metzerott saw his best customers pass his door in machine-ma
 
 Lowering the prices, however, had an excellent effect; and though the shoes were sold at little more than cost, it was certainly less depressing than to see them hanging there so helplessly, or staring from the shelves with their toes turned out in the first position, in such an exasperating manner.
 
-Anna Rolf also felt the hard times, even more than the Metzerotts, since "every woman her own dressmaker" is an easier problem to solve than how to make one's own shoes. Leppel had been discharged at last,&mdash;got the sack, as he expressed it; not before he had richly earned, as one might candidly admit, all that the sack might contain. <hr><p class="pagenum"><sup>Page 54</sup></p>But oh! for the innocent who suffer with the guilty, in this world of ours! There is never a jewelled cup of gold in the mouth of any sack for them.
+Anna Rolf also felt the hard times, even more than the Metzerotts, since "every woman her own dressmaker" is an easier problem to solve than how to make one's own shoes. Leppel had been discharged at last,&mdash;got the sack, as he expressed it; not before he had richly earned, as one might candidly admit, all that the sack might contain. 
+
+<hr><p class="pagenum"><sup>Page 54</sup></p>
+
+But oh! for the innocent who suffer with the guilty, in this world of ours! There is never a jewelled cup of gold in the mouth of any sack for them.
 
 Leppel's family bade fair to have very little in their own mouths for a while, with the father out of work, and Anna expecting to be again laid aside from hers for a season. "But you have no rent to pay, that is one thing," said Dora comfortingly, "and we will take care of the children, Karl and Louis and I. Do you suppose I can forget how good you were to me?"
 
@@ -877,7 +902,11 @@ He did take it to him.
 
 The man of knowledge inspected it closely, and care fully studied every motion. Then he thoughtfully stroked his beard, which was long and luxuriant (perhaps from excess of knowledge) to the point of aggressiveness.
 
-"Yes," he said slowly."Yes, yes. Seems pretty clever: ingenious, too; works all right; labor-saving, no doubt of <hr><p class="pagenum"><sup>Page 55</sup></p>that. Might be a very good thing; but I'm afraid, Mr. Rolf, I'm afraid there's no money in it. In fact," for you see the man of knowledge had had other interviews with inventors, and he knew that things must be broken to them gently, "in fact, there's a what-you-call-em already in the office, enough like yours to be its own brother."
+"Yes," he said slowly."Yes, yes. Seems pretty clever: ingenious, too; works all right; labor-saving, no doubt of 
+
+<hr><p class="pagenum"><sup>Page 55</sup></p>
+
+that. Might be a very good thing; but I'm afraid, Mr. Rolf, I'm afraid there's no money in it. In fact," for you see the man of knowledge had had other interviews with inventors, and he knew that things must be broken to them gently, "in fact, there's a what-you-call-em already in the office, enough like yours to be its own brother."
 
 "Impossible! I never heard of it!" stammered the inventor.
 
@@ -933,7 +962,11 @@ She pulled the cover from its face, and he inspected it with the same dull obedi
 
 "And the money all wasted, and your place thrown away, and my children starving!" she cried, her voice growing louder and shriller with each particular; "and now the great stupid fool tells me it was no go. *No go*!" She broke into wild, hysterical laughter, and beat upon her head with her work-worn hands.
 
-They must have turned him out of the room, Leppel supposed, for he found himself in the open air without very well knowing how he came there. There was a heavy fog; and, well though he knew the streets, he was again surprised <hr><p class="pagenum"><sup>Page 59</sup></p>to find himself suddenly standing upon the bridge across the Mickle River, which at this season of the year, especially after such mild weather as had lately prevailed, was apt to be very high, and, with the melting of the snow in the mountains, to overflow its banks, and work mischief to all in its way.
+They must have turned him out of the room, Leppel supposed, for he found himself in the open air without very well knowing how he came there. There was a heavy fog; and, well though he knew the streets, he was again surprised 
+
+<hr><p class="pagenum"><sup>Page 59</sup></p>
+
+to find himself suddenly standing upon the bridge across the Mickle River, which at this season of the year, especially after such mild weather as had lately prevailed, was apt to be very high, and, with the melting of the snow in the mountains, to overflow its banks, and work mischief to all in its way.
 
 Leppel stood for some moments stupidly and fixedly regarding the swift, turbid current. Did he lose his balance? Was he seized with sudden giddiness? Or was it a deliberate plunge? No one ever knew.
 
@@ -941,10 +974,11 @@ The policeman who saw him fall had help upon the spot as quickly as it was possi
 
 <hr><p class="pagenum"><sup>Page 60</sup></p>
 
-##### CHAPTER VI. {#bk1ch6}
+#### CHAPTER VI. {#bk1ch6}
 
-###### IN BATTALIONS.
+### IN BATTALIONS.
 
+<p style="margin-top:1cm;"> </p>
 ANNA ROLF arose from her bed with her beauty wasted, her youth gone. Instead of the brilliant, joyous girl, there remained the sharp-featured, sharp-tongued woman, whose sound health, clear head, and practical abilities were now, instead of a source of self-satisfaction, viewed by herself merely as a stock in trade, her only capital for the business of taking care of her children. For Leppel's life insurance had been forfeited by the doubt cast upon the manner of his death, and their tiny home was mortgaged to its full value. Even the money designed to purchase his patent had to be returned to those from whom it had been borrowed, some of whom, bad as were the times, declined to receive it, and others would receive only a part; so that fifty dollars in all were left to help the fatherless and widow begin the world for themselves. It was a very good thing, as every one agreed, that Leppel had left his wallet in the pocket of his overcoat, which he had not remembered to put on before he wandered out to his death through that January fog.
 
 The house was sold to satisfy the mortgage, and Anna rented two rooms on the third floor of the tall building that overshadowed the shoemaker's dwelling to the left. Here she established herself as a dressmaker, but for a while found little custom. Karl and Dora had been her true friends throughout, with that sort of friendship which resides not only in the heart but the pocket. Indeed, but for 
@@ -967,13 +1001,21 @@ them it is doubtful whether she could have weathered the first six months of her
 
 "We're pretty good Communists, you and I," he said with a grim smile, "but what have we got by it? I tell you, Dora, we've got to live very close for the next year or so, if we mean to catch up."
 
-"I know it," she answered, smiling; "and, Karl, I've <hr><p class="pagenum"><sup>Page 62</sup></p>thought of a way to save quite a lot of money. If Anna and her three children can live in two rooms, why can't we? Then we could rent our bedroom, and, when winter comes, that would save coal. For you know we should be obliged to have a fire there on account of Louis," she added apologetically.
+"I know it," she answered, smiling; "and, Karl, I've 
+
+<hr><p class="pagenum"><sup>Page 62</sup></p>
+
+thought of a way to save quite a lot of money. If Anna and her three children can live in two rooms, why can't we? Then we could rent our bedroom, and, when winter comes, that would save coal. For you know we should be obliged to have a fire there on account of Louis," she added apologetically.
 
 "If you don't mind, I don't," he said carelessly. "It won't rent for much, though; but it will give you less to do," with a rather anxious glance at the form and face of his wife. Indeed, Dora was not looking well; she had grown very thin, and her eyes looked pathetically large and blue in her white face. But she laughed off all anxiety; she might be a little pulled down by the warm weather, she said, but that was all.
 
 The next day, a placard appeared in the shop window bearing, in the large, beautiful Italian hand Dora had learned in her German school, the words, "Room for Rent." But a day or two passed before it attracted any attention. On Sunday afternoon Dora and Louis were sitting in the shop door, enjoying the cool evening air after a heavy thunder storm, when two passers-by stopped to consider the announcement, with an air that evidently meant business.
 
-For a moment Dora's heart failed her, then it swelled with sympathy, while baby Louis opened his blue eyes and stared with all his might. Anything quite so tall, and painfully, terribly thin as the elder of these two women, he had never seen in all his little life. When she turned to address Dora, a moment later, she showed a face with large, strongly marked features, whereupon an expression of hopeless patience sat but ill. Her companion was shorter, and of a thinness less painfully apparent; with a face from which all expression, even that of patience, seemed to have been crushed out. It was dull, blank, and hopeless; that was all. They were dressed in thin, shabby <hr><p class="pagenum"><sup>Page 63</sup></p>calico, bonnets, of which shabby would be too flattering a description, and faded plaid shawls, which they kept so closely drawn over their wasted bosoms that, considering the warmth of the evening, they must have served to cover further defects in their costume. Their voices, when they spoke, were low and weak, not so much from physical weakness&mdash;for there was no sign of any actual disease upon either&mdash;as with a weary consciousness that speaking louder would not better their condition.
+For a moment Dora's heart failed her, then it swelled with sympathy, while baby Louis opened his blue eyes and stared with all his might. Anything quite so tall, and painfully, terribly thin as the elder of these two women, he had never seen in all his little life. When she turned to address Dora, a moment later, she showed a face with large, strongly marked features, whereupon an expression of hopeless patience sat but ill. Her companion was shorter, and of a thinness less painfully apparent; with a face from which all expression, even that of patience, seemed to have been crushed out. It was dull, blank, and hopeless; that was all. They were dressed in thin, shabby 
+
+<hr><p class="pagenum"><sup>Page 63</sup></p>
+
+calico, bonnets, of which shabby would be too flattering a description, and faded plaid shawls, which they kept so closely drawn over their wasted bosoms that, considering the warmth of the evening, they must have served to cover further defects in their costume. Their voices, when they spoke, were low and weak, not so much from physical weakness&mdash;for there was no sign of any actual disease upon either&mdash;as with a weary consciousness that speaking louder would not better their condition.
 
 "What rent do you ask for this room, ma'am?"
 
@@ -991,7 +1033,11 @@ The woman shook her head.
 
 "He's a pretty child," said the elder woman with a dull glance at him. "I used to be fond of children, but, law! it's no use trying to be fond of nothin' in *this* world. There ain't time." 
 
-"Won't you sit down?" said Dora. "I will bring chairs, <hr><p class="pagenum"><sup>Page 64</sup></p>and you can tell me about yourselves. Or will you come and see the room?"
+"Won't you sit down?" said Dora. "I will bring chairs, 
+
+<hr><p class="pagenum"><sup>Page 64</sup></p>
+
+and you can tell me about yourselves. Or will you come and see the room?"
 
 "Most any room will suit us if the rent does," replied the woman. "We ain't particular, and looking at rooms takes time."
 
@@ -1009,7 +1055,9 @@ Decidedly, Dora was a very bad business woman; a short-sighted, easily gulled, a
 
 "We'd like to come to-night, so's to be ready to go to work early to-morrow morning," answered Miss Price with some show of animation. "But won't your husband swear at you, for lettin' it go so cheap?"
 
-"He never swears at me," said Dora, smiling, blushing, and shaking her head at the same time, until she looked so pretty that even the blank face of Susan Price gained a little life and almost smiled. She held out her hand to <hr><p class="pagenum"><sup>Page 65</sup></p>Louis, who was again struggling towards her, and volunteered her first contribution to the conversation.
+"He never swears at me," said Dora, smiling, blushing, and shaking her head at the same time, until she looked so pretty that even the blank face of Susan Price gained a little life and almost smiled. She held out her hand to
+
+<hr><p class="pagenum"><sup>Page 65</sup></p>Louis, who was again struggling towards her, and volunteered her first contribution to the conversation.
 
 "Your only one?" she asked.
 
@@ -1025,11 +1073,19 @@ Decidedly, Dora was a very bad business woman; a short-sighted, easily gulled, a
 
 "Oh! we never rest," said Sally quietly. "But maybe it's Sabbath-breakin' that brings us such bad luck. I don't know; but I don't see how to help it."
 
-Metzerott, coming home to his tea, just at this moment, and learning the state of affairs, pooh-poohed the idea of any one but himself fetching the machine and "clo'es" of his new lodgers. Perhaps he wanted an opportunity to make those inquiries, for which Dora's inexperience had not seen the necessity. Their former landlady, however, gave the Prices a high character for quietness, respectability, and prompt pay, "reg'lar as Sat'day evenin' come." They were poor and half starved, she said, but the Lord knew that wasn't their fault; they had lodged with her ever since they came from the country, two years ago, and she thought they <hr><p class="pagenum"><sup>Page 66</sup></p>would have done better to go out to service; but, at first, they were too proud, she supposed, and now they looked so sick and down-trodden, no respectable person would hire either one of them. Well, Lord knew what this world was coming to, anyway. She would not have raised the rent if she could have helped it; but her husband&mdash;and here came an apprehensive glance over her shoulder, which fully accounted for Miss Price's ideas as to swearing.
+Metzerott, coming home to his tea, just at this moment, and learning the state of affairs, pooh-poohed the idea of any one but himself fetching the machine and "clo'es" of his new lodgers. Perhaps he wanted an opportunity to make those inquiries, for which Dora's inexperience had not seen the necessity. Their former landlady, however, gave the Prices a high character for quietness, respectability, and prompt pay, "reg'lar as Sat'day evenin' come." They were poor and half starved, she said, but the Lord knew that wasn't their fault; they had lodged with her ever since they came from the country, two years ago, and she thought they 
+
+<hr><p class="pagenum"><sup>Page 66</sup></p>
+
+would have done better to go out to service; but, at first, they were too proud, she supposed, and now they looked so sick and down-trodden, no respectable person would hire either one of them. Well, Lord knew what this world was coming to, anyway. She would not have raised the rent if she could have helped it; but her husband&mdash;and here came an apprehensive glance over her shoulder, which fully accounted for Miss Price's ideas as to swearing.
 
 So the Prices came to be an institution in the Metzerott household; but it was very doubtful whether Dora's savings were greatly increased thereby, even in the matter of steps. For she was always running up those steep, narrow stairs, with Baby Louis on one arm and a plate of raisin bread in the other hand, or perhaps the coffee-pot, if she had "made more than Karl and she could drink, and it never is good warmed over."
 
-Karl had drank warmed-over coffee many a time, and said so smilingly. His wife's efforts at economy were a constant amusement to him; but he never interfered but once. That was on a day in the late fall, when a sudden cold snap seemed doubly disagreeable, because nobody's system had had time to adjust itself to winter requirements. The Prices were not supposed to need adjustment, or, perhaps, by any but Dora, to possess systems; their room was heated by whatever superfluity of hot air might escape from the kitchen. On cold days, this was too little; in moderate weather, too much; only on one or two halcyon days of all the three hundred and sixty-five was that small, poor chamber of a comfortable temperature; but the Prices were used to discomfort, and, especially now that they could warm their fingers at Dora's fire, when they grew numb and useless from cold, would have scorned to complain. So, on this particular cold morning, Karl heard a sudden crash in the kitchen, and, hurrying to the spot, <hr><p class="pagenum"><sup>Page 67</sup></p>leathern apron and all, found Dora, very white and trembling, looking into his face with eyes like those of a frightened deer.
+Karl had drank warmed-over coffee many a time, and said so smilingly. His wife's efforts at economy were a constant amusement to him; but he never interfered but once. That was on a day in the late fall, when a sudden cold snap seemed doubly disagreeable, because nobody's system had had time to adjust itself to winter requirements. The Prices were not supposed to need adjustment, or, perhaps, by any but Dora, to possess systems; their room was heated by whatever superfluity of hot air might escape from the kitchen. On cold days, this was too little; in moderate weather, too much; only on one or two halcyon days of all the three hundred and sixty-five was that small, poor chamber of a comfortable temperature; but the Prices were used to discomfort, and, especially now that they could warm their fingers at Dora's fire, when they grew numb and useless from cold, would have scorned to complain. So, on this particular cold morning, Karl heard a sudden crash in the kitchen, and, hurrying to the spot, 
+
+<hr><p class="pagenum"><sup>Page 67</sup></p>
+
+leathern apron and all, found Dora, very white and trembling, looking into his face with eyes like those of a frightened deer.
 
 She had only been going to make a little fire for the Prices, she said; poor souls, she felt so sorry for them; and the hod had slipped from her hand, some way or other.
 
@@ -1037,17 +1093,29 @@ Poor little frail hand, and fluttering, feeble pulse! such deeds of charity as t
 
 Karl had not been blind to the change that had come over Dora, and he would have joyfully given his life&mdash;this mortal life, which he held to be all&mdash;if he could have lightened the slow, feeble step that smote so heavily upon his heart, or planted anew the delicate roses in her cheek. But what could he do?
 
-His work, which now was chiefly mending, paid poorly, and took up all his time; yet what should they do without it, if he gave his days to helping and nursing Dora? He would willingly have hired some one to do the work for her; but where was the money to come from? Besides, except carrying coal, which he *could* do at odd times, there was nothing, Dora said, in the work itself to tire any one, if she had not been just a little run down and under the <hr><p class="pagenum"><sup>Page 68</sup></p>weather to begin with. Karl must not worry, she would soon pick up when the spring came again.
+His work, which now was chiefly mending, paid poorly, and took up all his time; yet what should they do without it, if he gave his days to helping and nursing Dora? He would willingly have hired some one to do the work for her; but where was the money to come from? Besides, except carrying coal, which he *could* do at odd times, there was nothing, Dora said, in the work itself to tire any one, if she had not been just a little run down and under the 
+
+<hr><p class="pagenum"><sup>Page 68</sup></p>
+
+weather to begin with. Karl must not worry, she would soon pick up when the spring came again.
 
 Especially, it was not the care of little Louis that tired her; never was there a child that gave so little trouble. He seemed to know by instinct that she was not well, she said, and was as good and quiet as possible, playing as contentedly with a few scraps of leather from his father's bench, and a string of spools given him by Frau Anna, as if they had been toys of ivory and gold. So far from being a trouble, he was even a help, and certainly a comfort to her. It was only to Louis that Dora confided how her head ached and throbbed, and the incessant cough racked her feeble body; and Louis listened with serious blue eyes and rapt attention. It was a very interesting story indeed, he thought; almost equal to that of the dead canary they found one December morning on the window-sill; as to which he never tired of hearing how it had strayed from its home, and perished in the bitter night. And, though of either tale he could have understood but little, his sympathy was always ready, and he stroked the bird's cold feathers and his mother's aching forehead with soft baby fingers, saying pityingly, "Oh! my, my, my." These were the only words at his command, but they satisfied Dora.
 
 Dr. Richards, for whose skill she had a respect amounting to veneration, had prescribed for the cough, and for a while it had seemed better; but it grew worse after one bitter morning when she had run over to the butcher's with a shawl pinned over her head, and blown back from her chest by the icy wind.
 
-And then came a time when help came in unhired and unsought, when Dora lay powerless upon the grandmother's testered bed, with Baby Louis beside her, happy in her society and his string of spools. It was a great treat to have his mamma so close beside him all day long; and he <hr><p class="pagenum"><sup>Page 69</sup></p>was by no means pleased when their *tête-à-tête* was broken by a visit from Dr. Richards, though the latter did his best to look cheerful. Metzerott stood also by the bed, but would by no means smile or play "Peep-bo" with Louis, so absorbed was he in listening to the doctor. But "acute pleuro-pneumonia" had no meaning whatever to a baby mind; so the child shook his plump little hand, and said "Bye-bye" very politely to the doctor, as a signal that the visit might as well be brought to a close. Dr. Richards, however, whose heart was very tender towards children, and who had a little maiden babe about Louis age, remembered to bring him a little harmless candy the next day, and they became quite good friends during the few days of Dora's illness.
+And then came a time when help came in unhired and unsought, when Dora lay powerless upon the grandmother's testered bed, with Baby Louis beside her, happy in her society and his string of spools. It was a great treat to have his mamma so close beside him all day long; and he 
+
+<hr><p class="pagenum"><sup>Page 69</sup></p>
+
+was by no means pleased when their *tête-à-tête* was broken by a visit from Dr. Richards, though the latter did his best to look cheerful. Metzerott stood also by the bed, but would by no means smile or play "Peep-bo" with Louis, so absorbed was he in listening to the doctor. But "acute pleuro-pneumonia" had no meaning whatever to a baby mind; so the child shook his plump little hand, and said "Bye-bye" very politely to the doctor, as a signal that the visit might as well be brought to a close. Dr. Richards, however, whose heart was very tender towards children, and who had a little maiden babe about Louis age, remembered to bring him a little harmless candy the next day, and they became quite good friends during the few days of Dora's illness.
 
 For there came a day when he was carried up to Frau Anna's narrow quarters, and played all day very happily with Fritz, Annie, and little George. This was nice indeed, if his mamma had but been there to share his pleasure. Very often he paused in his fun to call her, "Mamma! Mamma!" in his sweet bird-like voice. Frau Anna cried when he did so, and called him "poor motherless lamb," which he considered a new kind of game, and laughed at delightedly.
 
-The next day was Christmas itself; but if Louis had had a longer experience in Christmases, he would surely have considered that he celebrated that blessed feast in a most singular manner. For he was taken to his own home, where, in the shop, several neighbors were assembled, all with solemn faces, and some shedding tears. Louis sat on his father's knee, and surveyed them all, until his attention was caught by a long black box in the middle of the room, near which stood Pastor Schaefer. The box had shining handles, which took his baby fancy immensely; so he slid suddenly from his father's hold, and, before any one <hr><p class="pagenum"><sup>Page 70</sup></p>could stop him, rushed across the room, and seized the bright handle with a joyous shout.
+The next day was Christmas itself; but if Louis had had a longer experience in Christmases, he would surely have considered that he celebrated that blessed feast in a most singular manner. For he was taken to his own home, where, in the shop, several neighbors were assembled, all with solemn faces, and some shedding tears. Louis sat on his father's knee, and surveyed them all, until his attention was caught by a long black box in the middle of the room, near which stood Pastor Schaefer. The box had shining handles, which took his baby fancy immensely; so he slid suddenly from his father's hold, and, before any one 
+
+<hr><p class="pagenum"><sup>Page 70</sup></p>
+
+could stop him, rushed across the room, and seized the bright handle with a joyous shout.
 
 The women present broke into loud sobs, but no one interfered with him; and he played with his new toy all through the pastor's prayer and exhortation. Then some one lifted him up, and there in the box lay his mamma, white and still, with closed eyes. But this also was part of the game, thought Louis; and his baby laugh rang out strangely in the silent room. Then, as she took no notice, he pulled at her dress, saying impatiently, "Up! Up!" and when, for the first time in all his little life, she was deaf to his voice, his rosy lip quivered, and he burst into tears of helpless, hopeless, baby grief.
 
@@ -1075,10 +1143,11 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 
 <hr><p class="pagenum"><sup>Page 72</sup></p>
 
-##### CHAPTER VII. {#bk1ch7}
+#### CHAPTER VII. {#bk1ch7}
 
-###### "&rsquo;VIDING."
+### "&rsquo;VIDING."
 
+<p style="margin-top:1cm;"> </p>
 "PAPA!" said Louis, one autumn evening. The child just five years old, was perched, as usual, upon his father's knee, his golden head nestled against his father's breast. They were an oddly contrasted pair; Metzerott, with his powerful, yet apparently clumsy frame, brown, rugged face, and hair just beginning&mdash;though he was not yet forty years old&mdash;to be touched with gray, while Louis had his mother's face, refined and spiritualized into absolute loveliness. His grave blue eyes could be merry enough at times; but as he lifted them now to his father's face, there was a solemn purity in their gaze, at sight of which Met zerott drew the boy closer to his breast, in a sudden, irrational terror of losing him. 
 
 "Well," he said.
@@ -1089,7 +1158,11 @@ And still he poured out all his anger, grief, and hardness of heart to little Lo
 
 "If I were President," said Louis after a thoughtful pause, "I would make more money, so that every one might have enough."
 
-Metzerott smiled, even while he shook his head."There's <hr><p class="pagenum"><sup>Page 73</sup></p> money enough, or so people say, and making more would only lower the value of what there is. That was tried during the war, Louis. [^inflation] The trouble is that all the money is in too few hands. Some have more than enough, and others have nothing. As if I should eat all the dinner, you know, and leave none for you."
+Metzerott smiled, even while he shook his head."There's 
+
+<hr><p class="pagenum"><sup>Page 73</sup></p> 
+
+money enough, or so people say, and making more would only lower the value of what there is. That was tried during the war, Louis. [^inflation] The trouble is that all the money is in too few hands. Some have more than enough, and others have nothing. As if I should eat all the dinner, you know, and leave none for you."
 
 [^inflation]: During the Civil War, the economy of the Confederacy was destroyed as a result of the unchecked printing of currency, which caused rampant inflation that rendered Confederate banknotes practically worthless.
 
@@ -1107,7 +1180,9 @@ Metzerott showed him practically, by means of a box of lead soldiers that had be
 
 "No more will the millionnaires," said Metzerott, laughing; "but if you were George, my boy, with no lead soldiers at all to play with, maybe you'd like it better. Why, Louis, there is money enough in the country to buy every poor man in it all that he needs; and there is food enough grown every year to fill every hungry mouth from Maine to Florida; yet people die by hundreds, like your poor mother, of want and toil, just because those who have won't divide with those who have not."
 
-"*I* will," said Louis, "I'll &rsquo;vide my soldiers with George, right away." <hr><p class="pagenum"><sup>Page 74</sup></p>
+"*I* will," said Louis, "I'll &rsquo;vide my soldiers with George, right away." 
+
+<hr><p class="pagenum"><sup>Page 74</sup></p>
 
 "George is abed long ago," said Metzerott, surprised, amused, and a little touched, at this unexpected result of his lecture; "and high time you were there, too. Put off your &rsquo;viding until to-morrow."
 
@@ -1125,7 +1200,9 @@ Louis was happily far too busy to hear this speech, with which, as we know, Frau
 
 Time passed very happily until noon, when Louis trotted home, to announce to his father that it was "nice to &rsquo;vide. When we bofe play togevver, it's as good as if they was all mine," he said.
 
-For all reply, Metzerott produced a brown paper package of a charmingly mysterious shape, and watched with a lurking smile the eager little fingers struggle with the string. <hr><p class="pagenum"><sup>Page 75</sup></p>
+For all reply, Metzerott produced a brown paper package of a charmingly mysterious shape, and watched with a lurking smile the eager little fingers struggle with the string. 
+
+<hr><p class="pagenum"><sup>Page 75</sup></p>
 
 "Oh! what is it?" cried little Louis.
 
@@ -1189,7 +1266,11 @@ The sisters looked at each other in silence for a moment, while Polly burst at o
 
 "Don't cry," said Metzerott hastily; "it'll be cheaper to me in the end, now that trade's so brisk, than knocking off to go to market and cook every five minutes or so. I've been knowing for quite a while that I should have to hire somebody; but I didn't want no strange women around, and I'm ashamed to say I never thought of you."
 
-"And you know," said Louis, who had scrambled down from the table, and was hugging Polly Price, "you know <hr><p class="pagenum"><sup>Page 79</sup></p> we've got to &rsquo;vide some day, and I'm glad of it because it's so awful jolly."
+"And you know," said Louis, who had scrambled down from the table, and was hugging Polly Price, "you know 
+
+<hr><p class="pagenum"><sup>Page 79</sup></p> 
+
+we've got to &rsquo;vide some day, and I'm glad of it because it's so awful jolly."
 
 "The boy is a good Communist," said Metzerott, laughing; "and now, if you ladies feel able to wash the dishes, I'll go back to my work."
 
@@ -1197,10 +1278,11 @@ The sisters looked at each other in silence for a moment, while Polly burst at o
 
 <hr><p class="pagenum"><sup>Page 80</sup></p>
 
-##### CHAPTER VIII. {#bk1ch8}
+#### CHAPTER VIII. {#bk1ch8}
 
-###### MULTIPLICATION.
+### MULTIPLICATION.
 
+<p style="margin-top:1cm;"> </p>
 "THERE's just this about it," said Sally Price, "Mr Metzerott ain't goin' to be no loser by us, and that settles it."
 
 "He'll get paid for his kindness in heaven, anyhow," returned Susan tearfully.
@@ -1299,10 +1381,11 @@ the young ladies they wait on, not so pretty, nor so educated, nor so refined; b
 
 <hr><p class="pagenum"><sup>Page 87</sup></p>
 
-##### CHAPTER IX. {#bk1ch9}
+#### CHAPTER IX. {#bk1ch9}
 
-###### FORS FORTUNA.
+### FORS FORTUNA.
 
+<p style="margin-top:1cm;"> </p>
 THE very next day, Louis, by what his father and Dr. Richards would have agreed to call "blind chance," found a silver quarter lying in the gutter before his own door. Yet it was certainly not blind chance, but sheer hard work, that had worn a hole in Frau Anna's thimble.
 
 Louis had been wishing very much that he could buy her another, for she had said that it was almost impossible to use the old one. Once the needle had slipped in through the hole, and run up under her nail, which had hurt her very much indeed; and the necessity of keeping it away from the worn place hindered her work. Louis and George had talked the matter over very seriously, with many wishes that they were as big as Franz and Bruno, the pastor's sons, and could earn money by chopping wood and shovelling snow. And now here was a whole silver quarter, which would surely buy many things beside a thimble.
@@ -1439,10 +1522,11 @@ Freddy's picture of the Christ-child was one which had evidently been adapted fr
 
 <hr><p class="pagenum"><sup>Page 95</sup></p>
 
-##### CHAPTER X. {#bk1ch10}
+#### CHAPTER X. {#bk1ch10}
 
-###### HOMINIBUS BONAE VOLUNTATIS.
+### HOMINIBUS BONAE VOLUNTATIS.
 
+<p style="margin-top:1cm;"> </p>
 ALL the world was getting ready for Christmas; there was no doubt about that. As for South Micklegard, as the German quarter was usually called, it was absolutely upon its head with delight. For there is no season of the year that a German loves better than the winter solstice, the ancient yule feast of his far-away forbears, the birthday of the "Golden Child," as the Veda hath it. Is it indeed the true birthday of the child Christ Jesus? Who knows!
 
 Nay, oh my brothers! who, with your factions, and the smoke of your unbrotherly strife rising to heaven, have marred every scene, every step of that sinless life,&mdash;let us be thankful for that which remains unknown. Birthday and death-day, His cradle, Golgotha, and the sepulchre whence rose His living body, the Father keeps hidden in the holy silence of His own recollection. Therefore, since with Him is neither past nor future, but an eternal now, those days are ever present with us. Each morn, each evening, He is born again, dies again, for us, in us; and finds in our hearts His Bethlehem, His Calvary, His tomb. 
@@ -1599,10 +1683,11 @@ Karl nodded, and the two men broke into a roar of laughter, which effectually se
 
 <hr><p class="pagenum"><sup>Page 104</sup></p>
 
-##### CHAPTER XI. {#bk1ch11}
+#### CHAPTER XI. {#bk1ch11}
 
-###### YGDRASIL.
+### YGDRASIL.
 
+<p style="margin-top:1cm;"> </p>
 IT was easy for little Louis to accept the story of the Christ-child as a fairy tale; his life was so full of marvels this Christmas-tide. It was a drop of bitterness, of course, that George had not been asked to accompany him to Freddy's Tree; but, to say the truth, George was not a particularly refined or attractive-looking child. He was large for his age, and heavily built; slow of speech and movement, with whitish hair, pale blue eyes, and features inchoate, of a modelling seemingly unfinished. There were not wanting signs and tokens that George might develop into a fine man; but at the moment he was unattractive, and Alice had not reached the point of choosing her guests on the broad ground of a common humanity. Indeed she was not prevented, either by common humanity or the further consideration of kinship, from reflecting with a secret glee, which she was careful not to reveal to her husband, that the presence of Louis, the shoemaker's son, would only be condoned by the remainder of her guests because he was still&mdash;only a baby.
 
 For Alice had bidden, not only the Garyulies and the Joblillies, but also the Grand Panjandrum himself with the little round button at top.
@@ -1799,10 +1884,11 @@ Dr. Richards was a devotee of physical science, not a philologist, and it theref
 
 <hr><p class="pagenum"><sup>Page 114</sup></p>
 
-##### CHAPTER XII. {#bk1ch12}
+#### CHAPTER XII. {#bk1ch12}
 
-###### "O YE ICE AND SNOW, BLESS YE THE LORD!"
+### "O YE ICE AND SNOW, BLESS YE THE LORD!"
 
+<p style="margin-top:1cm;"> </p>
 LOUIS was awake bright and early on that Christmas morning, though, as applied to the atmospheric conditions of that particular day, "bright" is a singularly inappropriate adjective. The snow fell, not merely in flakes, but in clouds, and whether "the opposite side of the street" was "over the way," or in Farther India, was purely a matter of faith; to the eye it was perfectly invisible.
 
 "I don't see how you are to get even as far as next door with those things," said Metzerott, half in earnest, looking first at Louis, then at the blinding storm.
@@ -2019,12 +2105,13 @@ But neither of them reflected that in the verb, the little verb *must*, lay all 
 
 <hr><p class="pagenum"><sup>Page 126</sup></p>
 
-##### CHAPTER XIII. {#bk1ch13}
+#### CHAPTER XIII. {#bk1ch13}
 
-###### PROSIT NEUJAHR.[^Prosit]
+### PROSIT NEUJAHR.[^Prosit]
 
 [^Prosit]: Happy New Year (German).
 
+<p style="margin-top:1cm;"> </p>
 SALLY PRICE had parted, in the storm and stress of life, with most of the superstitions wherewith she began the world; but there were two upon which she still retained a firm hold. One related to the new moon, which was to her a sign and token of good luck if seen over the right shoulder, or in full face in the open sky; while the left shoulder, or the obscuring branches of trees, brought, in some shape or other, misfortune. She always made a wish before she removed her eyes from the first sight of the new moon, holding up money, if her pocket happened to contain any of that commodity; but in this she had less faith, though she often referred to the fact that, the very last new moon before Polly's famous swoon, she, Sally, had shown the moon a silver dime, and had wished for something to do whereby they could keep from starving.
 
 The other superstition was that New Year's Day foretold the year's complexion, whether sad or joyful. Not its atmospheric condition. Sally looked upon the weather as a matter, of too slight importance to be capable of foretelling anything; but sick or sorry; penniless, cold, and hungry; busy, happy, rich, and glad,&mdash;as New Year's Day found her, so, in the main, would she be throughout the year.
@@ -2136,6 +2223,7 @@ For, amid the laughter and good wishes all around her, Susan Price had suddenly 
 
 ### LEARNING AND TEACHING.
 
+<p style="margin-top:1cm;"> </p>
 FROM the swoon into which she had fallen on that New Year's Night Susan Price was slow in reviving. But it was nothing, she said, when she had at last regained consciousness; she was only stupid and tired. So the ball went on undisturbed, the dancers being only too ready to accept any theory that would not mar their enjoyment. But Sally went about her work with dry eyes and set lips. It was all over, she thought, as she rapidly served the ice-cream; Susan was struck with death, she would never live through a year that had opened so.
 
 "An after all we've went through together," thought Sally, "to die jest as things is growin brighter. Well, the Lord knows best, and she'll be took care of up there; but how I am to live without her I s'pose He knows, but it's more than I do. You, Polly," she added aloud, "you ain't got no call to slice that cake so thin. Give the folks the worth of their money, do. And take a sharper knife to it, for a good half goes in crumbs, and I despise crumbs. They are jest clear sinful waste, specially cake crumbs, that can't even be fed to the birds."
@@ -2144,7 +2232,7 @@ FROM the swoon into which she had fallen on that New Year's Night Susan Price wa
 
 "You carry that coffee straight, without spillin' none of it, and we'll talk about cake afterwards," answered Sally severely. "Polly," she continued, "seems to me we'll 
 
-<hr><p class="pagenum"><sup>Page 134 </p> 
+<hr><p class="pagenum"><sup>Page 134</sup></p> 
 
 come out pretty fair on expenses to-night; and by the next ball we'll be makin' our own ices, and do even better. Run now for just a minute and see how your Aunt Susan is, that's a good girl. Laws! what a thing Providence is, to be sure. To think Dr. Richards should be so ill just at this minute! But there!" she thought within herself a moment later, "what call have I got to be talkin about Providence like that? The angel Gabriel himself couldn't do her no good ef she's struck with death."
 
@@ -2328,10 +2416,11 @@ And this was Susan Price's sole funeral oration.
 
 <hr><p class="pagenum"><sup>Page 147</sup></p>
 
-##### CHAPTER 1. 
+#### CHAPTER 1. 
 
-###### AFTER TWELVE YEARS.
+### AFTER TWELVE YEARS.
 
+<p style="margin-top:1cm;"> </p>
 IT was a brilliant day towards the lamb-like end of a March, whose beginning had been of a particularly leonine character. The leaf-buds upon the trees showed faint lines of green along their smooth circumference of delicate brown; the dry, dead grass of winter had been replaced by young blades of a tender verdure; yet the air was cool and pleasantly crisp, though the sunshine, as every one said, was warm enough for June.
 
 At the South Micklegard railroad station, a short, jolly-looking gentleman seemed to differ from the prevailing opinion as to the heat; for his hands were in his pockets, and his overcoat buttoned closely over his stout form up to the smooth-shaven chin.
@@ -2580,10 +2669,11 @@ the orders, transmitted, through the executive committee, from the heads of depa
 
 <hr><p class="pagenum"><sup>Page 162</sup></p>
 
-##### CHAPTER II.
+#### CHAPTER II.
 
-###### NEO-SOCIALISM.
+### NEO-SOCIALISM.
 
+<p style="margin-top:1cm;"> </p>
 MUCH to the surprise of Father McClosky, the key declined to enter the key-hole, for excellent Communistic reasons: there was a key already there. Moreover, voices, one very loud, the other very tearful, sounded on the other side of the door.
 
 The priest drew back, with a sorrowful gesture. "It's Mrs. Kellar," he said. "She is what we call our Matron, for want of a better name; *die Hausfrau*, the Germans call her. She sees to the rooms, gives out the bed-linen and so on, and is an invaluable person, so clean and conscientious. But well, one must have *les défauts de ses qualités*,[^defauts] as the French say; and though she is a born ruler and manager, she has got a tongue and a temper. Of course, she has a pass-key to every room, and I suppose something has gone wrong in here, and she is scolding the unfortunate perpetrator."
@@ -2766,10 +2856,11 @@ Father McClosky rubbed his nose thoughtfully. "And what is it ye mean to do?" he
 
 <hr><p class="pagenum"><sup>Page 174</sup></p>
 
-##### CHAPTER III. 
+#### CHAPTER III. 
 
-###### PRINCE LOUIS.
+### PRINCE LOUIS.
 
+<p style="margin-top:1cm;"> </p>
 "THE one o clock dinner," said Father McClosky, "is when ye'll see the 'home folks,' as we call &rsquo;em, that is, the employés of 'Prices,'&mdash;excepting the cooks and waiters,&mdash;and some of them that lives in the house. The Prices themselves&mdash;that is, Miss Sally and Miss Polly&mdash;takes their dinner then, the rush bein' over, and the home folks not in such a hurry."
 
 As he spoke they came upon two girls who were talking eagerly in the lower corridor, one of whom proved to be Lena, the unfortunate, and the other her sister Gretchen, a tall, placid personage with a look of great determination, and what New-Englanders call "faculty."
@@ -2902,10 +2993,11 @@ But Louis was no angel, he was only a man; for this was what he had whispered to
 
 <hr><p class="pagenum"><sup>Page 182</sup></p>
 
-##### CHAPTER IV. {#bk2ch4}
+#### CHAPTER IV. {#bk2ch4}
 
-###### CINDERELLA'S SLIPPERS.
+### CINDERELLA'S SLIPPERS.
 
+<p style="margin-top:1cm;"> </p>
 THE dinner-wagon which we saw depart from "Prices" had, on its second trip, deposited a tray and a small brown-paper parcel at Dr. Richards's. The tray bore several viands destined to furnish forth a portion of Pinkie's birthday feast; for Alice often found it convenient to order dishes whose preparation required much time or pains, though not marching with the times to the extent of a whole dinner. The parcel was addressed in Louis' best hand&mdash;which was a very good hand indeed&mdash;to "Miss Rosalie Randolph."
 
 It was a very small parcel indeed, so small that Miss Virginia Dare, Pinkie's "best friend" and desk-mate, who had come to dine with her, clasped her hands with an instant and disinterested exultation.
@@ -3302,10 +3394,11 @@ While Pinkie, as she packed away the pretty china tile with the fair young face 
 
 <hr><p class="pagenum"><sup>Page 203</sup></p>
 
-##### CHAPTER V. {#bk2ch5}
+#### CHAPTER V. {#bk2ch5}
 
-###### "DAS DING-AN-SICH."
+### "DAS DING-AN-SICH."
 
+<p style="margin-top:1cm;"> </p>
 IT was with a heart that knew not whether to be sad or joyful that Louis returned home on that eventful afternoon, upon which he had made such a stride in his young life. Pinkie's brown eyes had been his lights to rule the day and the night, since either of them could remember; her rosy, audacious, mutinous little face was part and parcel of his very consciousness. Yet, perhaps, just because he could not imagine himself without her, his imagination had never risen to picturing his life *with* her&mdash;at "Prices." She was simply his; there was neither past, present, nor future to their life together; only one beautiful, glorious, eternal now.
 
 Upon this state of mind the thought of separation had acted as the jar which was all that was needful to produce crystallization, a jar which any other event might at any moment have supplied; so that the money-king had after all been wise in his day and generation.
@@ -3442,10 +3535,11 @@ Yet&mdash;Louis was his own son,&mdash;his who had "loved one woman only," and c
 
 <hr><p class="pagenum"><sup>Page 211</sup></p>
 
-##### CHAPTER VI. {#bk2ch6}
+#### CHAPTER VI. {#bk2ch6}
 
-###### "AN ENEMY CAME AND SOWED TARES."
+### "AN ENEMY CAME AND SOWED TARES."
 
+<p style="margin-top:1cm;"> </p>
 HENRY RANDOLPH was not a man to let the grass grow under his feet, when he had once made up his mind to a certain definite course. Most of his successes on Wall Street had been won by prompt and decided action; and within a week from the moment when he had decided that Pinkie's intimacy with the "little shoemaker" must be broken off, he, she, and Miss Dare were on the high seas.
 
 During the short interval before their departure, Louis never once saw Pinkie alone, by what he considered a series of unfortunate chances; which the young lady more acutely ascribed to the silent watchfulness of uncle, aunt, father, and brother. Freddy would have been heart and soul on the side of the lovers, if they had been sufficiently of one mind to possess anything that, by the utmost stretch of partisan spirit, could be called a side at all. As it was, he was ready at any moment to further any plan or project that Louis might devise; and Louis was too young and too much in love not to long and innocently to scheme for a repetition of that last interview, with its tears and tenderness.
@@ -3614,10 +3708,11 @@ But did it never occur to this same courteous, genial, warm-hearted gentleman, w
 
 <hr><p class="pagenum"><sup>Page 221</sup></p>
 
-##### CHAPTER VII. {#bk2ch7}
+#### CHAPTER VII. {#bk2ch7}
 
-###### GRADUAL ENFRANCHISEMENT.
+### GRADUAL ENFRANCHISEMENT.
 
+<p style="margin-top:1cm;"> </p>
 "IF the Commune come, or *when* it comes," said Dr. Richards; "and meanwhile 'Prices' is acting as training-school, eh? I should like to make Mr. Clare's acquaintance, Louis. Suppose you tell him that my old enemy, rheumatism, has me by the heels again, so that it is impossible for me to call upon him, and ask him to come and dine with us on Sunday. I'd write a note if I could hold a pen; or you might write for me, Alice."
 
 "He's not one to stand on ceremony if he thought you really wanted him to come," replied Louis. "Don't bother Mrs. Richards. I'll tell him."
@@ -3950,10 +4045,11 @@ He was silent for a moment; for the look exchanged between husband and wife told
 
 <hr><p class="pagenum"><sup>Page 239</sup></p>
 
-##### CHAPTER VIII. {#bk2ch8}
+#### CHAPTER VIII. {#bk2ch8}
 
-###### RITTER FRITZ.
+### RITTER FRITZ.
 
+<p style="margin-top:1cm;"> </p>
 ONE afternoon late in the summer, Mr. Clare and Dr. Richards, accompanied by a large party of boys and young men, including Freddy and the Ark of the Covenant, had climbed a rather steep road which led to one of their favorite resorts, a quaint and beautiful cemetery on a hill overlooking the river. The names, the German inscriptions, the artificial flowers, the child's toys upon the smaller graves, the beautiful river flowing beneath&mdash;"It is all a mistake," said Dr. Richards, smiling; "this is not practical, humdrum America; we are in Germany, the home of myth and song, and yonder flows the mysterious and beautiful Rhine. I am positive there is a ruined castle just at the turn of the hill yonder; and, if you listen, you will hear the song of the Lorelei."
 
 "I hope not," replied Mr. Clare, so seriously that the others looked at him in surprise, perceiving which he went on more lightly, "There's a song of the kind to be heard even in humdrum America, boys; and I confess to a terrible fear lest some of us should some day listen to it. A song that promises wealth and happiness to everybody at the cost of only a little bloodshed and violence. 'All these things will I give thee, says Satan to us, as once to our Master, if thou wilt fall down and worship me. And don't you suppose it was a real temptation? to blot out the two thousand years of wrong through which the 
@@ -4097,10 +4193,11 @@ To which Denis consenting, he wrote on a blank leaf of the huge pocketbook in wh
 
 <hr><p class="pagenum"><sup>Page 248</sup></p>
 
-##### CHAPTER IX. {#bk2ch9}
+#### CHAPTER IX. {#bk2ch9}
 
-###### "THE ETYMOLOGY OF GRACE."
+### "THE ETYMOLOGY OF GRACE."
 
+<p style="margin-top:1cm;"> </p>
 "IT is rather a confused note," said Mr. Clare, "and I fear I can't show it to any one, as it was intended for my eye alone; but I gather from it that Fritz expects to be married in New York, and to return in a day or two."
 
 "The letter she left on her bureau," said the pastor, whose eyes were red with weeping, "said much the same except that she spoke not of so soon returning. I doubted it not to be Fritz with whom she had fled, though she spoke of riches and jewels, and of taking care of her old father. But ach! that a child of mine should so act!"
@@ -4376,10 +4473,11 @@ and much less so than many who are called the truest of the true,&mdash;but a fa
 
 <hr><p class="pagenum"><sup>Page 261</sup></p>
 
-##### CHAPTER X. {#bk2ch10}
+#### CHAPTER X. {#bk2ch10}
 
-###### PREACHING AND PRACTICE.
+### PREACHING AND PRACTICE.
 
+<p style="margin-top:1cm;"> </p>
 IT was a serious grief to Louis, when, following Fritz's example, several of the other young men declared themselves, as Fritz had expressed it, "solid for religion," not to be able to include himself among the number. It was an odd thing, he thought, that he, who had played at being a Christ-kind in his babyhood, whose guide and pattern in his youth had been the life of the Lord Christ,&mdash;that he should stand aside unable to believe, while others, till then indifferent, pressed forward to be called by His name. It was easy enough to go to church, and that Louis did quite regularly, sitting always when others rose or knelt, and following every word with patient, wistful anxiety. But there was very little comfort to be got out of church-going, so far as Louis could see; though the sound of Ernest Clare's voice, and the sight of his calm, strong face, gave him sometimes the sensation of one struggling on in utter darkness, who, though he can trace no ray of light, knows that the full, cloudless sunshine is just beyond. But, meanwhile, the darkness is hard to bear; and the wistful pleading of the blue eyes that were fixed so earnestly upon his face went to the very heart of Ernest Clare.
 
 Mr. Clare was slowly becoming a power at St. Andrew's, the unfashionable church to which he had offered his services, gratis, at his first coming to Micklegard. The rector, an elderly man with a large family, always ground down to 
@@ -4635,10 +4733,11 @@ She rose to her feet,&mdash;for till then she had knelt beside his chair,&mdash;
 <hr><p class="pagenum"><sup>[Page 276 blank]</sup></p>
 <hr><p class="pagenum"><sup>Page 277</sup></p>
 
-##### CHAPTER I. 
+#### CHAPTER I. 
 
-###### "O'ER CRAG AND TORRENT, TILL THE NIGHT IS GONE."
+### "O'ER CRAG AND TORRENT, TILL THE NIGHT IS GONE."
 
+<p style="margin-top:1cm;"> </p>
 BY the time the spring came again, it had become quite customary for Mr. Clare to preach at least once on Sunday at St. Andrew's, and the rector had been nearly satisfied that such Socialism as his colleague was at all likely to preach was very harmless Socialism, indeed, scarcely deserving the name. Also, the rector was inclined to look through very rose-colored glasses at one who could bring to church such a stiff-necked generation as Dr. Richards and Karl Metzerott, even though the former might come partly for love of his wife and son, and the latter chiefly through jealousy of the preacher's influence on Louis and at "Prices," where the Emperor had begun to feel bitterly conscious of a rival.
 
 Yet Mr. Clare put forward no claim either to supremacy or even influence; it was simply the effect of his personality that brought such crowds to St. Andrew's, and made his lightest word a command to his friends and followers at "Prices." So, at least, said Karl Metzerott; perhaps the truth was that Ernest Clare's personality was as nearly transparent as is possible to human nature; it was not himself, but the truth that was in him, of which all round felt the power. But it is a question whether a due appr ciation of this fact would have retarded the growth of the unfriendly feeling whereof Karl had only just begun to be conscious. Nevertheless, "Prices," hitherto so united, had begun to show signs of splitting into two camps. 
@@ -4815,10 +4914,11 @@ When they had returned home, drenched and exhausted, Louis laid his hand upon Mr
 
 <hr><p class="pagenum"><sup>Page 288</sup></p>
 
-##### CHAPTER II. 
+#### CHAPTER II. 
 
-###### "POLLY, PUT THE KETTLE ON."
+### "POLLY, PUT THE KETTLE ON."
 
+<p style="margin-top:1cm;"> </p>
 WITH the breathing of that first prayer and the attainment of Louis' wish, the breach between the two parties at "Prices" became a self-evident fact; and though across the breach the bands of good-fellowship still held fast, even these no longer bound together the members of one household, but connected two opposing camps, the relations between which were manifestly strained.
 
 Karl Metzerott called himself a reasonable man. He professed to have no personal feeling in the matter, no personal grudge against Mr. Clare. "No interloper," he said, "could ever be to 'Prices' what he, Karl Metzerott, had been; and as for present influences, he was abundantly ready to welcome any that were good. Had he ever opposed this man Clare until he came out in his true colors? cunning, canting priest that he was! As for Louis, what he chose to believe was his own affair; it was a free country, surely, as far as a man's conscience was concerned; and if what satisfied his father was not good enough for him, it was nobody's business but that of their two selves."
@@ -4935,10 +5035,11 @@ They were married&mdash;of course, by Mr. Clare&mdash;in time to permit Franz's 
 
 <hr><p class="pagenum"><sup>Page 297</sup></p>
 
-##### CHAPTER III. 
+#### CHAPTER III. 
 
-###### PANSIES.
+### PANSIES.
 
+<p style="margin-top:1cm;"> </p>
 IT was shortly before the wedding, during the prevalence of a "cool wave," that Mr. Clare gave a "tea-party," as Miss Sally called it. The "tea" consisted of coffee and small cakes, and the party was characterized by Dr. Richards, when he was invited to cast an eye over the list of guests, as likely to result as did the celebrated meeting of the Kilkenny cats. For it included not only Father McClosky, Pastor Schaefer, and the Rector of St. Andrew's, but also a very High Church divine from North Micklegard who had recently got into trouble with his bishop by a too promiscuous use of certain technical phrases, a noted evangelist, and a Temperance lecturer. More than this number the room would not conveniently hold; and it must be admitted that, although they passed the time of day and discussed the recent flood as amicably as was to have been expected from men vowed to the service of humanity, there lurked in the corner of each reverend eye such a "say unto me Shibboleth," that their host congratulated himself more than once upon the mollifying influence of the "cool wave," and glanced appreciatingly at Father McClosky, who, strong in his hold upon the Rock of St. Peter, balanced his rotund person upon the hind-legs of his chair, and told anecdotes worthy of Joe Miller.
 
 At last Mr. Clare, who had been rather grave and silent for some time, rapped slightly upon the table.
@@ -5249,12 +5350,13 @@ The words were simple, but the tone was full of meaning. Instinctively all felt 
 
 <hr><p class="pagenum"><sup>Page 314</sup></p>
 
-##### CHAPTER IV. {#bk3ch4}
+#### CHAPTER IV. {#bk3ch4}
 
-###### VAE VICTIS.[^Vae]
+### VAE VICTIS.[^Vae]
 
 [^Vae]: Woe to the vanquished (Latin).
 
+<p style="margin-top:1cm;"> </p>
 TWELVE months have passed since the "tea-party," during which time, it is to be feared, Mr. Clare has had cause to think more than once how the pikes and eels preferred the old way. And yet he wears by no means a discouraged expression as he walks with his constant companion, Louis Metzerott, through the early August twilight, towards Dr. Richards's house. Something has been accomplished during this year, however little. Pastor Schaefer sometimes holds consultation with him, though usually not as the taker of what counsel is produced thereat; the rector of St. Andrew's, though he is "not to be expected to turn Socialist at his time of life," is slowly learning that God is the King of earth as well as of heaven; and that, whatever blessing or needed lesson may come by means of suffering, happiness is that which is most consonant with the divine nature. The temperance lecturer has taken to denouncing the weakness of the present civil authorities in the license question rather as a misfortune than a fault; and the evangelist launches satire and invective against the greed of money, and the evils of "practical politics": all which are steps in the right direction.
 
 "But ye'll never do it, Ernest, me boy," Father McClosky had said shortly after the "tea-party"; "ye'll never get any of the sects nor Holy Church nayther for your general advance all along the line. Av there was nothing else to prevent it, I'll tell ye phwat would,&mdash;vested interests. Think of the churches, schools, convents, hospitals, and 
@@ -5490,10 +5592,11 @@ So Louis sang&mdash;though it was a difficult task&mdash;song after song, in his
 
 <hr><p class="pagenum"><sup>Page 328</sup></p>
 
-##### CHAPTER V. {#bk3ch5}
+#### CHAPTER V. {#bk3ch5}
 
-###### AN EXPERIMENT.
+### AN EXPERIMENT.
 
+<p style="margin-top:1cm;"> </p>
 DURING the next fortnight, Louis and Pinkie met almost every day; for Freddy was sinking fast, and both were assiduous in their attendance upon him. It would seem almost impossible that under such circumstances some of the old childish familiarity should not have revived; but Miss Randolph had profited excellently by her Parisian sojourn. She was perfectly able to be to one of her babyhood's playmates all sisterly tenderness, at the same moment that to the other she was only icy politeness; for she had thoroughly learned that the whole duty of woman is to make a rich marriage.
 
 Louis did not molest her. He met her coldness with grave, kind courtesy, and treated her so exactly as one whom he had had the pleasure of knowing only a short time, that Pinkie's girlish heart was hot within her, and she burned to teach him with whom he had to deal. But at present this was impossible, since they never met without witnesses.
@@ -5613,10 +5716,11 @@ Religion is a science, and, like all science, empirical. Dr. Richards had made h
 
 <hr><p class="pagenum"><sup>Page 334</sup></p>
 
-##### CHAPTER VI. {#bk3ch6}
+#### CHAPTER VI. {#bk3ch6}
 
-###### THE FRAGRANCE OF TEA-ROSES.
+### THE FRAGRANCE OF TEA-ROSES.
 
+<p style="margin-top:1cm;"> </p>
 IT was a source of self and mutual congratulation to Frau Anna Rolf and Karl Metzerott, that Louis' grief for Freddy's death seemed to draw him nearer to Annie. When he was not at Dr. Richards's, after work hours, he was quite sure to be taking long walks with her; and it really seemed as if their darling scheme were on the eve of accomplishment.
 
 "As for that little chit of Randolph's, he's quite forgotten her," said Karl Metzerott; "I haven't heard her name out of his mouth since she came home"; which, Karl's own nature might have warned him, is not invariably a token of forgetfulness.
@@ -5829,10 +5933,11 @@ He turned away, he walked steadily to the door and down the stairs; she ran to t
 
 <hr><p class="pagenum"><sup>Page 346</sup></p>
 
-##### CHAPTER VII. {#bk3ch7}
+#### CHAPTER VII. {#bk3ch7}
 
-###### "THESE, THROUGH THEIR FAITH, RECEIVED NOT THE PROMISE."
+### "THESE, THROUGH THEIR FAITH, RECEIVED NOT THE PROMISE."
 
+<p style="margin-top:1cm;"> </p>
 MORE than a week had passed, and it was early October. The bare hill-tops stood mournfully against the golden sunset; but in the valleys the woods were bright with maple, oak, and chestnut, and the fields gorgeous with sumach and goldenrod, while the oldest, most crumbling fence boasted such garlands of blackberry and elder as a queen might have envied. Apples in myriads hung from the trees, or were stored away in barrels that could only be numbered by thousands; barn and storehouse over all the land were bursting with the plenteous yield of the generous harvest; and Christina Kellar walked home from her work heartsick and weary.
 
 Weary!
@@ -6214,10 +6319,11 @@ Then, with a horrible cry, Karl Metzerott leaped upon the veranda, tearing his s
 
 <hr><p class="pagenum"><sup>Page 368</sup></p>
 
-##### CHAPTER VIII. {#bk3ch8}
+#### CHAPTER VIII. {#bk3ch8}
 
-###### "THAT, APART FROM US, THEY SHOULD NOT BE MADE PERFECT."
+### "THAT, APART FROM US, THEY SHOULD NOT BE MADE PERFECT."
 
+<p style="margin-top:1cm;"> </p>
 THERE was no effort made to exact revenge for Louis Metzerott's young life. Long before the police arrived (those at headquarters *not* having had the sense to mount them), his body, still held fast in his father's arms, had been removed to his home; and there laid upon the bed from which only that morning&mdash;
 
 Karl Metzerott allowed no hands but his own to touch the body of his son; and, when the blood had been washed from the cold form, it was the father alone who dressed it in the well-kep "Sunday suit," and brushed back the fair hair from the white temples. Then he sat down beside the bed, dumbly despairing. His clothes, of a rough brown cloth, were stiff with patches of dark red, his hands were stained of the same fatal color, his rugged face was set, his eyes dull and glassy.
