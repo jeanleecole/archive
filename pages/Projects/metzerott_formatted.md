@@ -172,7 +172,7 @@ VIII. [“That, apart from us, they should not be made Perfect”](#bk3ch8) <br>
 
 ### KARL METZEROTT ATTENDS A KAFFEE KLATSCH.
 
-<p style="margin-top:2cm;"> </p>
+<p style="margin-top:1cm;"> </p>
 KARL METZEROTT, shoemaker, counted himself reasonably well-to-do in the world. It was a favorite saying of his (though he was not greatly given to sayings at any time, his days being so full of doings), that his Socialist opinions were not based upon his own peculiar needs; and that, when the Commune[^1] should supervene, as he fervently believed it must some day, he, Karl Metzerott, would be numbered rather among its givers than its receivers.
 
 In truth, he had some reason for self-gratulation. He was young, strong, and able to earn a fair living at his trade; and his wife,&mdash;but stop! We have not come to her quite yet.
