@@ -38,7 +38,8 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 <p style="margin-top:2cm;"></p>
 <h1 style="text-align:center"> METZEROTT, SHOEMAKER </H1>
 <p style="margin-top:2cm;"></p>
-<h2 style="text-align:center">"<i>Omne vivum ex vivo.</i>"</h2>
+<h2 style="text-align:center">"<i>Omne vivum ex vivo.</i>"<sup>*</sup></h2>
+
 <p style="margin-top:2cm;"></p>
 <p style="text-align:center;">
 “What is your creed?”<br>
@@ -51,6 +52,9 @@ New York<br>
 THOMAS Y. CROWELL & CO.<br>
 13 Astor Place</p>
 <p style="margin-top:1cm;"></p>
+
+<sup>*</sup>"All life comes from life," attributed to naturalist Francisco Redy (1626-1697), who used empirically based methods to disprove the then-widespread belief in spontaneous generation.
+
 
 <hr>
 <p class="pagenum"><sup>Copyright page [2]</sup></p>
@@ -75,7 +79,7 @@ Typographers and Electrotypers, <br>
 <H2>DEDICATION.</h2>
 <p></p>
 
-<p>"<i>Laborare est orare.</i>"</p>
+<p>"<i>Laborare est orare.</i>"<sup>*</sup></p>
 <p></p>
 
 <p>TO</p>
@@ -86,6 +90,9 @@ The Clergy and the Workingmen of America. </p>
 FOR THE COMING OF THE <br>
 KINGDOM OF CHRIST.</p>
 </center>
+
+<p style="margin-top:3cm;"></p>
+<sup>*</sup>"To work is to pray," motto associated with the Benedictine order.
 
 <hr>>
 <p class="pagenum"><sup>[Page 4 blank]</sup></p>
@@ -238,7 +245,7 @@ coloring, sparkling eyes, and overflowing vitality had gained her that reputatio
 
 “But, Anna&mdash;?”
 
-“Yes, I know, Mütterchen. [^9] It was a special arrangement, of course, not a regular apprenticeship. I was to give so many hours a day to work I already knew how to do, such as running up seams and working buttonholes; and she was to teach me to cut and fit. She knew me, you see, and wasn’t afraid of losing by the bargain.”
+“Yes, I know, Mütterchen.[^9] It was a special arrangement, of course, not a regular apprenticeship. I was to give so many hours a day to work I already knew how to do, such as running up seams and working buttonholes; and she was to teach me to cut and fit. She knew me, you see, and wasn’t afraid of losing by the bargain.”
 
  “I should think not!” said Frau Metzerott admiringly. She had heard the story at least a dozen times, and never failed to adorn the right point with the proper ejaculation.
 
@@ -450,7 +457,9 @@ There sat Mary on the floor, her apron over her head, howling like a legion of w
 
 Matters did not improve as the day went on. There never were better children than Heinz and Bruno; but when one had upset the dishwater, and the other fallen against the stove, in their eagerness to be of use, and they had consequently been turned adrift on the wide world, pray, could they be expected to be as quiet as mice? It was quite natural they should find their way to the pastor's study, where there was an excellent fire; natural, too, that the thought of tidying the room, as an atonement for their presence there and previous misadventures, should occur to them; and most natural of all that they should upset the lamp over a valuable book, which had been a college prize of their father's.
 
-Then it was certainly not the baby's fault if she had a^p<hr><p class="pagenum"><sup>Page 26</sup></p>tooth nearly through, and was cross about it; nor Tina's if she was too small to handle the tea-kettle dexterously, and so poured the boiling water over her foot, instead of into the basin; but when the kitchen door was opened by Frau Kellar, the wife of the obese little man, and her niece, this was the situation. Heinz and Bruno were seated in different corners of the room, with orders not to move hand or foot until permitted; Christina, in a third, was contemplating her injured member, bandaged, and supported on a pillow; Gretchen, to whom nothing ever happened, rocked the baby in the middle of the floor; and the pastor, with his coat off, and a blue check apron tied around his waist, was bending over the stove, frying cabbage.
+Then it was certainly not the baby's fault if she had a
+
+<hr><p class="pagenum"><sup>Page 26</sup></p>tooth nearly through, and was cross about it; nor Tina's if she was too small to handle the tea-kettle dexterously, and so poured the boiling water over her foot, instead of into the basin; but when the kitchen door was opened by Frau Kellar, the wife of the obese little man, and her niece, this was the situation. Heinz and Bruno were seated in different corners of the room, with orders not to move hand or foot until permitted; Christina, in a third, was contemplating her injured member, bandaged, and supported on a pillow; Gretchen, to whom nothing ever happened, rocked the baby in the middle of the floor; and the pastor, with his coat off, and a blue check apron tied around his waist, was bending over the stove, frying cabbage.
 
 "You poor fellow!" said Frau Kellar, "though begging your pardon for the word, Herr Pastor. *Gott*! but you must have the patience of Job!"
 
@@ -3466,10 +3475,12 @@ While Pinkie, as she packed away the pretty china tile with the fair young face 
 
 #### CHAPTER V. {#bk2ch5}
 
-### "DAS DING-AN-SICH."
+### "DAS DING-AN-SICH."[^ding]
 
 <p style="margin-top:1cm;"> </p>
 IT was with a heart that knew not whether to be sad or joyful that Louis returned home on that eventful afternoon, upon which he had made such a stride in his young life. Pinkie's brown eyes had been his lights to rule the day and the night, since either of them could remember; her rosy, audacious, mutinous little face was part and parcel of his very consciousness. Yet, perhaps, just because he could not imagine himself without her, his imagination had never risen to picturing his life *with* her&mdash;at "Prices." She was simply his; there was neither past, present, nor future to their life together; only one beautiful, glorious, eternal now.
+
+[^ding]: The "thing-in-itself," reference to Immanuel Kant's theory of transcendental idealism, presented in the Critique of Pure Reason (1781). According to Kant, we cannot have knowledge of things in themselves; knowledge is limited to "phenomena" or things as they are perceived.
 
 Upon this state of mind the thought of separation had acted as the jar which was all that was needful to produce crystallization, a jar which any other event might at any moment have supplied; so that the money-king had after all been wise in his day and generation.
 
