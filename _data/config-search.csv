@@ -3,7 +3,7 @@ title,true,true
 date,true,true
 creator,true,false
 description,true,true
-subject,true,true
+subject,true,false
 location,true,false
 content,true,false
 excerpt,true,true
