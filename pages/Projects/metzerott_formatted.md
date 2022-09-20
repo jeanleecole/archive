@@ -51,9 +51,10 @@ var frame1 = document.getElementById(elm.dataset.iframe);
 New York<br>
 THOMAS Y. CROWELL & CO.<br>
 13 Astor Place</p>
-<p style="margin-top:1cm;"></p>
+<p style="margin-top:3cm;"></p>
 
-<sup>*</sup>"All life comes from life," attributed to naturalist Francisco Redy (1626-1697), who used empirically based methods to disprove the then-widespread belief in spontaneous generation.
+<small>
+<sup>*</sup>"All life comes from life," attributed to naturalist Francisco Redy (1626-1697), who used empirically based methods to disprove the then-widespread belief in spontaneous generation.</small>
 
 
 <hr>
@@ -91,8 +92,8 @@ FOR THE COMING OF THE <br>
 KINGDOM OF CHRIST.</p>
 </center>
 
-<p style="margin-top:3cm;"></p>
-<sup>*</sup>"To work is to pray," motto associated with the Benedictine order.
+<p style="margin-top:3cm;"></p><small>
+<sup>*</sup>"To work is to pray," motto associated with the Benedictine order.</small>
 
 <hr>>
 <p class="pagenum"><sup>[Page 4 blank]</sup></p>
@@ -2471,7 +2472,7 @@ And this was Susan Price's sole funeral oration.
 
 ### ALTRUISM.
 
-<hr><p class="pagenum"><sup>[Page 146 blank]</sup</p>
+<hr><p class="pagenum"><sup>[Page 146 blank]</sup></p>
 
 <hr>
 <button class="btn btn-secondary btn-lg iframebutton" id="b147" data-src="https://archive.org/stream/metzerottshoe00woodrich/page/147/mode/1up" onclick="loadFrame(this)" data-iframe="frame147>Page 147 • click to view</button> 
