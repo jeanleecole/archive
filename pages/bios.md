@@ -11,7 +11,7 @@ permalink: /bios.html
         text-align: center;
         vertical-align: top;
     }
-</style>
+</style> 
 ## Who were they?
 ***
 
