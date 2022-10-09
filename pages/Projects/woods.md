@@ -2,7 +2,7 @@
 title: Katharine Pearson Woods
 layout: page
 permalink: /woods.html
-preview: /assets/img/KatharineWoods.jpg
+preview: assets/img/KatharineWoods.jpg
 ---
 
 <style>
