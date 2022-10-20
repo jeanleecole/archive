@@ -24,6 +24,8 @@ Woods was an American novelist, essayist, and poet born in Wheeling, Virginia in
 
 She moved back to Baltimore in the late 1880s, where she joined the Knights of Labor and published her first novel, *Metzerott, Shoemaker*, in 1889. *Metzerott, Shoemaker* espoused the values of Christian Socialism, a nineteenth and early-twentieth century religious movement that advocated for economic reform to benefit the working class. Woods published her novel anonymously, and the identity of the author became a cause célèbre. Once the author was revealed to be a young, single woman living in Baltimore, the possibility of female authorship took root among that city’s female literati, and in 1890, some 35 women formed the Woman’s Literary Club of Baltimore. The Club championed the novel and its young author and made frequent references to its success in articles and reviews published in both local and national periodicals. Woods was invited to join as an honorary member, a designation reserved for successful authors who bestowed social and literary cachet onto the fledgling group. Woods actively participated in the group throughout her life, and Club records indicate that she presented written work several times between 1890 and 1916. Woods’s success as an author and her passionate advocacy for the poor and working-class populations of her home state beautifully encapsulates the West Virginian experience. She died on February 19, 1923 in Baltimore.  
 
+### Other writings by Woods
+
 <div class="card mb-3">
     
     <div class="card-body">
@@ -123,6 +125,8 @@ She moved back to Baltimore in the late 1880s, where she joined the Knights of L
 
 </div>
 
+[Short fiction, poetry, and magazine journalism](link here to browse page)
+
 ## Resources for further study
 
 ### Biographical sources
@@ -133,20 +137,16 @@ N. H. D. "The Author of 'Metzerott, Shoemaker.'" *Boston Evening Transcript*, Fe
 
 "[Timely Topics Thoughtfully Discussed for Careful Readers](https://chroniclingamerica.loc.gov/lccn/sn86092182/1891-02-07/ed-1/seq-3/#date1=1777&sort=date&rows=20&words=Katharine+Woods&searchType=basic&sequence=0&index=5&state=West+Virginia&date2=1930&proxtext=katharine+AND+woods&y=0&x=0&dateFilterType=yearRange&page=1)." *New Dominion* (Morgantown, WV), Feb. 7, 1891: 3. *An ally of Woods using the pseudonym "Barbarian" discusses a controversial paper promoting female suffrage presented by Woods at a meeting of the Woman's Literary Club of Baltimore.*
 
-Turner, Ella May. "[Katharine Pearson Woods](https://babel.hathitrust.org/cgi/pt?id=uva.x030790116&view=1up&seq=331&skin=2021&q1=katharine%20pearson)." *Stories and Verse of West Virginia*, ed. Ella May Turner (Scottdale, PA: Mennonite Publishing House, 1923), 301-302. *Biographical profile of Woods; also includes two poems, "A Song of Love and Summer" and "A Song of Sunset."
+Turner, Ella May. "[Katharine Pearson Woods](https://babel.hathitrust.org/cgi/pt?id=uva.x030790116&view=1up&seq=331&skin=2021&q1=katharine%20pearson)." *Stories and Verse of West Virginia*, ed. Ella May Turner (Scottdale, PA: Mennonite Publishing House, 1923), 301-302. *Biographical profile of Woods; also includes two poems, "A Song of Love and Summer" and "A Song of Sunset."*
 
 Turner, Anne M. “Katharine Pearson Woods.” *American National Biography*, ed. Susan Ware (NY: Oxford University Press, 2000): 812-813.
 
-"Woman Writer Dies." *Cincinnati Enquirer*, Feb. 20, 1923: 6. *This brief obituary, in slightly different forms, appeared in US newspapers in the days following Woods's death on Feb. 19, 1923. This one mentions Woods's magazine writings and reviews in addition to some of her novels.
+"Woman Writer Dies." *Cincinnati Enquirer*, Feb. 20, 1923: 6. *This brief obituary, in slightly different forms, appeared in US newspapers in the days following Woods's death on Feb. 19, 1923. This one mentions Woods's magazine writings and reviews in addition to some of her novels.*
 
 ### Historical contexts for *Metzerott, Shoemaker*
 
-Fones-Wolf, Ken. “[Caught Between Revolutions: Wheeling Germans in the Civil War Era](https://textbooks.lib.wvu.edu/wvhistory/files/html/04_wv_history_reader_fones-wolf/#footer_42).” Originally published in *Transnational West Virginia: Ethnic Communities and Economic Change, 1840-1940*. Morgantown: West Virginia University Press, 2002. *Provides demographic and sociological information about the German community in Wheeling that provides the setting for Woods's novel.
+Fones-Wolf, Ken. “[Caught Between Revolutions: Wheeling Germans in the Civil War Era](https://textbooks.lib.wvu.edu/wvhistory/files/html/04_wv_history_reader_fones-wolf/#footer_42).” Originally published in *Transnational West Virginia: Ethnic Communities and Economic Change, 1840-1940*. Morgantown: West Virginia University Press, 2002. *Provides demographic and sociological information about the German community in Wheeling that provides the setting for Woods's novel.*
 
 ### Reception of *Metzerott, Shoemaker*
 
-### Other writings by Woods
-
-*INSERT IMAGE CAROUSEL HERE?*
-
-[Short fiction, poetry, and magazine journalism](link here to browse page)
+**Insert reviews here**
