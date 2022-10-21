@@ -2,7 +2,7 @@
 title: Katharine Pearson Woods
 layout: page
 permalink: /woods.html
-preview: assets/img/KatharineWoods.jpg
+preview: assets/img/KatharineWoods.jpeg
 ---
 
 <style>
@@ -10,7 +10,7 @@ preview: assets/img/KatharineWoods.jpg
 </style>
 
 # Katharine Pearson Woods
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpg" alt="Woods"></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Woods"></div>
 This page serves as the home for recovery work on Katharine Pearson Woods, including a digital edition of one of her works, *Metzerott, Shoemaker*, biographical information about Woods and historical contexts pertinent to the novel, lesson plans for teaching the novel and recovering the history of women writers, and a list of resources for further study and research. 
 
 ## *Metzerott, Shoemaker* Digital Edition
