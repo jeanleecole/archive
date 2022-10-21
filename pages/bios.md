@@ -101,7 +101,7 @@ The project team has painstakingly recovered the histories of the most prominent
 <tr>
     <td><a href="https://wlcb.github.io/archive/AnneWhitney.html"><img src="https://wlcb.github.io/archive/assets/img/AnneWhitney.jpg" alt="Anne Weston Whitney"><br />Anne Weston Whitney</a></td>
     <td><a href="https://wlcb.github.io/archive/LouiseWhitelock.html"><img src="https://wlcb.github.io/archive/assets/img/LouiseWhitelock.jpg" alt="Louise Clarkson Whitelock"><br />Louise Clarkson Whitelock</a></td>
-    <td><a href="https://wlcb.github.io/archive/KatharineWoods.html"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpg" alt="Katharine Pearson Woods"><br />Katharine Pearson Woods</a></td>
+    <td><a href="https://wlcb.github.io/archive/KatharineWoods.html"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Katharine Pearson Woods"><br />Katharine Pearson Woods</a></td>
     <td><a href="https://wlcb.github.io/archive/KatharineMarkland.html"><img src="https://wlcb.github.io/archive/assets/img/NoBioImage.jpg" alt="Katharine H. Wrenshall Markland"><br />Katharine H. Wrenshall Markland</a></td>
 </tr>
     <tr>
