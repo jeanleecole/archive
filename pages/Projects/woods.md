@@ -9,28 +9,27 @@ preview: assets/img/KatharineWoods.jpeg
     #imageCarousel .carousel-item { height: 300px; }
 </style>
 
-# Katharine Pearson Woods
+# Introducing Katharine Pearson Woods
 <div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Woods"></div>
-This page serves as the home for recovery work on Katharine Pearson Woods, including a digital edition of one of her works, *Metzerott, Shoemaker*, biographical information about Woods and historical contexts pertinent to the novel, lesson plans for teaching the novel and recovering the history of women writers, and a list of resources for further study and research. 
+Who was Katharine Pearson Woods? This modest, retiring woman became a passionate advocate for the working class and for literature as a powerful tool for change. In the decades surrounding the turn of the twentieth century, she published eight novels and also wrote dozens of short stories and poems, sociological studies, and book reviews that appeared in major American magazines and newspapers across the country.  A native of West Virginia, Woods spent the majority of her life in Baltimore, Maryland, where her success as a writer helped to inspire the formation of the Women's Literary Club of Baltimore. 
+
+This page serves as the home for recovery work on Katharine Pearson Woods. An online exhibit provides an introduction to Woods's life and work, and links to her various publications, including an annotated digital edition of her first novel, *Metzerott, Shoemaker*, which launched her career. Here you can also find lesson plans for teaching the novel and recovering the history of women writers and a list of resources for further study and research. 
+
+** Katharine Pearson Woods, _Metzerott, Shoemaker_, and the Women's Literary Club of Baltimore
 
 <iframe src="https://timemapper.okfnlabs.org/anon/dgust7-kpwoods?embed=1" title="Katharine Pearson Woods, Metzerott, and the WLCB" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
 
-[REPLACE THIS TEXT WITH EMBEDDED ONLINE EXHIBIT] Woods was an American novelist, essayist, and poet born in Wheeling, Virginia in January 28, 1853. The family relocated to Baltimore, MD in 1856; only a few years later, her father died when Woods was only 9 years old. Poor health prevented Woods from being formally educated in school, but the education she received at home steeped in literature and religion, and in 1874, at the age of twenty-one, she became a communicant of the All Saints Sisters of the Poor at Mount Calvary Church (now St. Peter Claver Church) in Baltimore. Woods was forced to withdraw from the convent due to continuing ill health, but her experience there led to her philanthropic work as well as the overarching religious and moral themes she treated in her writings. Woods returned to Wheeling (now in West Virginia) in 1876, where she was a schoolteacher for the next ten years. During this time, she became involved in the nascent labor movement, and her first publications defended the rights of striking workers. 
-
-She moved back to Baltimore in the late 1880s, where she joined the Knights of Labor and published her first novel, *Metzerott, Shoemaker*, in 1889. *Metzerott, Shoemaker* espoused the values of Christian Socialism, a nineteenth and early-twentieth century religious movement that advocated for economic reform to benefit the working class. Woods published her novel anonymously, and the identity of the author became a cause célèbre. Once the author was revealed to be a young, single woman living in Baltimore, the possibility of female authorship took root among that city’s female literati, and in 1890, some 35 women formed the Woman’s Literary Club of Baltimore. The Club championed the novel and its young author and made frequent references to its success in articles and reviews published in both local and national periodicals. Woods was invited to join as an honorary member, a designation reserved for successful authors who bestowed social and literary cachet onto the fledgling group. Woods actively participated in the group throughout her life, and Club records indicate that she presented written work several times between 1890 and 1916. Woods’s success as an author and her passionate advocacy for the poor and working-class populations of her home state beautifully encapsulates the West Virginian experience. She died on February 19, 1923 in Baltimore.  
 
 ## _Metzerott, Shoemaker_ Digital Edition
 
-*Metzerott, Shoemaker*, published in 1889, espoused the values of Christian Socialism, a nineteenth and early-twentieth century religious movement that advocated for economic reform to benefit the working class. Woods published her novel anonymously, but with the support of well-known socialists including Edward Bellamy, author of _Looking Backward_, and Richard Ely, professor of economics at Johns Hopkins University, the novel became an overnight sensation. When the author was revealed to be a young, single woman living in Baltimore, the possibility of female authorship took root among that city’s female literati, and in 1890, some 35 women formed the Woman’s Literary Club of Baltimore. The Club championed the novel and its young author and made frequent references to its success in articles and reviews published in both local and national periodicals.
-
-The [digital edition of _Metzerott, Shoemaker_](https://wlcb.github.io/archive/metzerott_formatted.html) includes annotations of historical references, Biblical and literary quotations, and translations of non-English words and phrases. The text was edited and encoded into Markdown by Jean Lee Cole, using a template developed by Karin Dalziel and Emily Rau of the [Recovery Hub for American Women Writers](https://recoveryhub.siue.edu/).
+The [digital edition of _Metzerott, Shoemaker_(1889)](https://wlcb.github.io/archive/metzerott_formatted.html) includes annotations of historical references, Biblical and literary quotations, and translations of non-English words and phrases. The text was edited and encoded into Markdown by Jean Lee Cole, using a template developed by Karin Dalziel and Emily Rau of the [Recovery Hub for American Women Writers](https://recoveryhub.siue.edu/).
 
 ### Other writings by Woods
 
 <div class="card mb-3">
     
     <div class="card-body">
-        <h5 class="card-title">Select Texts</h5>
+        <h5 class="card-title">Major works</h5>
         
         <div id="imageCarousel" class="carousel slide bg-dark rounded mb-3" data-ride="carousel">
 
@@ -74,14 +73,14 @@ The [digital edition of _Metzerott, Shoemaker_](https://wlcb.github.io/archive/m
                 </div>
             </div>
             <div class="carousel-item py-2">
-                <img class="d-block h-100 mx-auto lazyloaded" alt="image highlight" src="https://wlcb.github.io/archive/objects/wlcb_logo.jpg"> 
+                <img class="d-block h-100 mx-auto lazyloaded" alt="image highlight" src="https://wlcb.github.io/archive/objects/thumbs/Thumb_Woods-1892-From_Dusk_to_Dawn.jpg"> 
                 <div class="carousel-caption">
                     <h5 class="carousel-item-title text-white py-2">From Dusk to Dawn</h5>
                     <a target="_blank" href="/archive/item.html?id=285" class="btn btn-sm btn-primary">View Item</a>
                 </div>
             </div>
             <div class="carousel-item py-2">
-                <img class="d-block h-100 mx-auto lazyload" alt="image highlight" src="https://wlcb.github.io/archive/objects/wlcb_logo.jpg"> 
+                <img class="d-block h-100 mx-auto lazyload" alt="image highlight" src="https://wlcb.github.io/archive/objects/thumbs/Thumb_Woods-1894_05_24_MineAndThine.jpg"> 
                 <div class="carousel-caption">
                     <h5 class="carousel-item-title text-white py-2">Mine and Thine</h5>
                     <a target="_blank" href="/archive/item.html?id=KPW-01" class="btn btn-sm btn-primary">View Item</a>
@@ -95,6 +94,13 @@ The [digital edition of _Metzerott, Shoemaker_](https://wlcb.github.io/archive/m
                 </div>
             </div>
             <div class="carousel-item py-2">
+                <img class="d-block h-100 mx-auto lazyload" alt="image highlight" data-src="https://wlcb.github.io/archive/objects/thumbs/Thumb_Woods-1895-Accidents.jpg"> 
+                <div class="carousel-caption">
+                    <h5 class="carousel-item-title text-white py-2">Accidents in Factories and Elsewhere</h5>
+                    <a target="_blank" href="/archive/item.html?id=KPW-33" class="btn btn-sm btn-primary">View Item</a>
+                </div>
+            </div>
+                <div class="carousel-item py-2">
                 <img class="d-block h-100 mx-auto lazyload" alt="image highlight" data-src="https://wlcb.github.io/archive/objects/4d4941d6e6db66ebba025df6a6a8d53e.jpg"> 
                 <div class="carousel-caption">
                     <h5 class="carousel-item-title text-white py-2">The Crowning of Candace</h5>
