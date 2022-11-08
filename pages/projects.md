@@ -16,10 +16,10 @@ Based on dues records and membership notebooks, this [map created by Clara Love]
 <p style="clear: both;"></p>
 
 ***
-### Katharine Pearson Woods
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Woods"></div>
+### [Katharine Pearson Woods](https://wlcb.github.io/archive/woods.html)
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/woods.html"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Katharine Pearson Woods"></a></div>
 
-([Exhibit under development](https://wlcb.github.io/archive/woods.html), to include an e-edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), an online exhibit about Woods, the late-nineteenth century labor movement, and the reception of _Metzerott_, and resources for teaching the novel.
+Katharine Pearson Woods was a notable member of the Club whose works touched on areas such as: socialism, labor, immigration, religion, and more. This project includes an annotated edition of Woods's first novel, _Metzerott, Shoemaker_ (1889), an online exhibit about Woods, additional resources for understanding Woods' work, and resources documenting the reception of _Metzerott_.
 
 <p style="clear: both;"></p>
 
