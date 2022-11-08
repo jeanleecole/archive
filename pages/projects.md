@@ -31,7 +31,7 @@ The WLCB printed programs for every one of their weekly meetings, which provide 
 
 ***
 ### [Pedagogical Resources](https://wlcb.github.io/archive/pedagogical_resources.html)
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/pedagogical_resources.html"><img src="https://wlcb.github.io/archive/assets/img/mapping.png" alt="Mapping icon"></a></div>
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><a href="https://wlcb.github.io/archive/pedagogical_resources.html"><img src="pedagogy.jpg" alt="screenshot of lesson plan"></a></div>
 
 The Woman’s Literary Club of Baltimore Archive strives to make scholarship recovering the works and lives of Club members and the historical resources they created accessible to a wider audience. To meet that goal, the project team has created two lesson plans that can be used to explore areas critical to understanding the project: data visualizations and the research that underpins them as well as the often difficult process of finding information about Club members.
 <p style="clear: both;"></p>
