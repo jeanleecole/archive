@@ -33,6 +33,8 @@ The [digital edition of _Metzerott, Shoemaker_(1889)](https://wlcb.github.io/arc
 
 ### Other writings by Woods
 
+Below is a selection of major works by Woods. Additional works include [short fiction, poetry, and magazine journalism](https://wlcb.github.io/archive/browse.html#woods).
+
 <div class="card mb-3">
     
     <div class="card-body">
@@ -139,7 +141,7 @@ The [digital edition of _Metzerott, Shoemaker_(1889)](https://wlcb.github.io/arc
 
 </div>
 
-[Short fiction, poetry, and magazine journalism](link here to browse page)
+
 
 
 
