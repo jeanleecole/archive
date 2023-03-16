@@ -679,7 +679,11 @@ Mrs. Randolph was furious, and slightly undignified.
 
 "Yes," she said softly; then her eyes suddenly flashed, her cheeks grew crimson; she turned upon her sister with the air of a lioness defending her young.
 
-"Do you suppose I have not seen," she cried, "how you<hr><p class="pagenum"><sup>Page 37</sup></p> wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
+"Do you suppose I have not seen," she cried, "how you
+
+<hr><p class="pagenum"><sup>Page 37</sup></p> 
+
+wish me to marry him while pretending to oppose it? I am ashamed for you, Jennie, ashamed to put your motive into words, because you are my brother's wife. But don't delude yourself with the idea that it is your work; I would have given up the money in any case rather than force him to act against what he believes to be right; and I love him so dearly that I had rather endure misery, cold, and hunger with him than to be a queen without him."
 
 Here, woman-like, her vehemence resolved itself into a burst of tears, and, turning, she threw herself into the arms that were open to receive her.
 
@@ -764,13 +768,21 @@ And so they were married by the Episcopal clergyman, who in the morning of the s
 
 After the ceremony, the happy pair and their friends, who had witnessed the marriage, partook of a social tea, for which Frau Kellar provided house-room, and the bridegroom paid; then, husband and wife went home to their little three-roomed dwelling, and the new life began.
 
-And then for a while how Karl would have laughed at any pessimistic theories. As for Dora, she would not have known a theory of any description, if she had stumbled across one. But she was very, very happy, our little Dora! Life had not been easy to her, an orphan, main-<hr><p class="pagenum"><sup>Page 43</sup></p>tained and educated by grudging fraternal care, and with her early hope nipped, in its first flower, by the frost of death. Now, surrounded by love, her nature blossomed into a wonderful luxuriance; the wistful blue eyes grew full of laughter, the sad lips smiled, and the cheeks grew rosy. She was as merrily busy all day long as a child at play; and Frau Metzerott the elder found her a daughter beyond her dreams.
+And then for a while how Karl would have laughed at any pessimistic theories. As for Dora, she would not have known a theory of any description, if she had stumbled across one. But she was very, very happy, our little Dora! Life had not been easy to her, an orphan, main-
+
+<hr><p class="pagenum"><sup>Page 43</sup></p>
+
+tained and educated by grudging fraternal care, and with her early hope nipped, in its first flower, by the frost of death. Now, surrounded by love, her nature blossomed into a wonderful luxuriance; the wistful blue eyes grew full of laughter, the sad lips smiled, and the cheeks grew rosy. She was as merrily busy all day long as a child at play; and Frau Metzerott the elder found her a daughter beyond her dreams.
 
 Shoemaker Karl said little; but no king upon his throne ever more intensely believed his wife a queen among women. All day he could hear her blithe, sweet voice, singing over her work, or chatting and laughing with his mother, who had suddenly failed, now that she had some one to rest her cares upon. It mattered little, she said; Dora was eyes, hands, and feet to her; she had worked hard enough in her time, now she could rest. And so she lay and rested under her gay, patchwork quilt, upon her testered bed, while Dora bustled cheerfully about the tiny kitchen. In the evening, when work was over, she would often draw the old candle-stand to the bedside, and, with the yellow lamplight shining on her golden hair, read aloud from the heavy yellowed pages of the old German Bible, while Karl sat near with his pipe. Not that he listened, except to the soft murmur of his wife's sweet voice; yet the unheeded words returned to him in after years, stirring always a new throb of misery.
 
 But at the time the Bible-reading served as a not unpleasant accompaniment to his pipe, which he would not for worlds have disturbed or interfered with. "Religion was an excellent thing for women," said Karl Metzerott.
 
-During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-<hr><p class="pagenum"><sup>Page 44</sup></p>bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
+During the following summer occurred the great Sänger-fest,[^sangerfest] the first held by the Sängerbund to which belonged the Micklegard Männerchor. Karl had been married nearly six months at the time, and when we say that in all proba-
+
+<hr><p class="pagenum"><sup>Page 44</sup></p>
+
+bility he would not have gone if he could not have taken Dora, we have sufficiently indicated that he was still very much in love with his wife. Fortunately, Laketon, where the Fest was held, is only a short journey by rail from Micklegard, so that travelling expenses were light; and he had cousins in Laketon with whom they could board very reasonably; nevertheless, the sum expended made a hole in Karl's savings-bank account, at which he would have shaken his head dismally a year before.
 
 [^sangerfest]: German men's singing groups (*Saengerbunds*) formed in Germany in the early nineteenth century and were closely followed by German-American communities in the United States. Annual *Saengerfests*, or singing festivals, pitted different groups against one another in competition and drew hundreds, sometimes thousands, of participants through the early twentieth century. The *Saengerfests* became popular entertainments outside the German-American community, and continue to be organized to this day. Their popularity diminished as a result of anti-German sentiment fomented during both World War I and World War II.
 
@@ -783,6 +795,7 @@ She was thinking blissfully of this and other matters, in the train that bore he
 "What do you call its Self? You seem to object to its most necessary elements."
 
 <hr><p class="pagenum"><sup>Page 45</sup></p>
+
 "By no means. I only say that you Socialists are short-sighted, and seem to adopt the very measures best calculated to defeat your own ends."
 
 "Specify, specify!" growled the German.
@@ -820,7 +833,11 @@ She was thinking blissfully of this and other matters, in the train that bore he
 
 "Oh! perhaps, yes. I don't quarrel with your religion as a system of morality, Clare. It is"&mdash;
 
-"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-<hr><p class="pagenum"><sup>Page 47</sup></p>side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
+"I know; miracles. But how a fellow who, not content with making bricks without straw, tries to build a house by tearing up the foundations, can quarrel with miracles, passes my comprehension. Look here. Do you not know that it is a waste of time to reform society from the out-
+
+<hr><p class="pagenum"><sup>Page 47</sup></p>
+
+side, and especially by main force? The worm at the root of the social tree, my dear fellow, is sin. How do you propose to get rid of it?"
 
 "Ah, there indeed," sighed the German, his metaphysical soul rising to the bait, "you start the great religious problem, my friend, with which Zoroaster, Buddha, and other religious teachers have grappled."
 
@@ -4838,7 +4855,7 @@ She rose to her feet,&mdash;for till then she had knelt beside his chair,&mdash;
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER I. 
+#### CHAPTER I. {#bk3ch1}
 
 ### "O'ER CRAG AND TORRENT, TILL THE NIGHT IS GONE."
 
@@ -5023,7 +5040,7 @@ When they had returned home, drenched and exhausted, Louis laid his hand upon Mr
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER II. 
+#### CHAPTER II. {#bk3ch2}
 
 ### "POLLY, PUT THE KETTLE ON."
 
@@ -5148,7 +5165,7 @@ They were married&mdash;of course, by Mr. Clare&mdash;in time to permit Franz's 
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER III. 
+#### CHAPTER III. {#bk3ch3}
 
 ### PANSIES.
 
@@ -5693,7 +5710,7 @@ own bread-winner and property-holder' will be equally a relic of barbarism," sai
 
 It was evident that Freddy and the Ark of the Covenant would soon part for this world, though he lay still, propped with pillows, upon its friendly bosom, white and shadowy, only the great brown eyes full of life and gladness. Freddy had had a long attack of lung-fever, from which, though the disease had been broken, he had no strength to rally. For a time he had seemed better, then he began to fade, slowly and painlessly, like a flower; but also with conscious gladness, impossible to a flower. He welcomed his friend with a smile and feeble outstretched 
 
-hr><p class="pagenum">Page 327</sup></p> 
+<hr><p class="pagenum">Page 327</sup></p> 
 
 hand; but not till Dr. Richards had left them came the whisper, "Have you seen her, Louis? Isn't she pretty?"
 
