@@ -22,7 +22,7 @@ This page serves as the home for recovery work on Katharine Pearson Woods. An on
 ## Resources for teaching _Metzerott, Shoemaker_ and literary/historical recovery
 
 The Woman’s Literary Club of Baltimore Archive strives to make scholarship recovering the works and lives of Club members and the historical resources they created accessible to a wider audience. To meet that goal, the project team has created: 
-* [Teaching _Metzerott, Shoemaker_](https://wlcb.github.io/archive/assets/Teaching_Metzerott.docx), which includes recommendations for course planning, links to pertinent historical and biographical information, and reading and discussion questions for Woods's novel
+* [Teaching _Metzerott, Shoemaker_](https://wlcb.github.io/archive/Teaching_Metzerott.docx), which includes recommendations for course planning, links to pertinent historical and biographical information, and reading and discussion questions for Woods's novel
 * [Pedagogical materials](https://wlcb.github.io/archive/pedagogical_resources.html) that can be used to explore areas critical to understanding the WLCB project as a whole. These include class activities centered on data visualizations and the research that underpins them as well as the often difficult process of finding information about Club members.
 
 ## Resources for further study
