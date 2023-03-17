@@ -56,29 +56,29 @@ Nodlehs, Selrahc M. "Short Talks with a Workingman, No. 1." _Topeka Daily Capita
 
 ## Reviews of _Metzerott, Shoemaker_ (listed chronologically)
 
-_San Francisco Chronicle_, Sept. 29, 1889: 7.
+[_San Francisco Chronicle_](çMetz_18891110_p07_SF_Chronicle.jpg), Sept. 29, 1889: 7.
 
-_Boston Globe_, Oct. 14, 1889: 3.
+[_Boston Globe_](https://wlcb.github.io/archive/assets/img/Metz_18891110_p22_Boston_Globe.jpg), Oct. 14, 1889: 3.
 
 _Times-Picayune_ (New Orleans, LA), Oct. 20, 1889: 8.
 
 "New Books at the Mechanics' Library." _Altoona Tribune_, Nov. 4, 1889: 4.
 
-_Boston Globe_, Nov. 10, 1889: 22. *This lengthy early review helped draw attention to Woods's novel.*
+[_Boston Globe_](https://wlcb.github.io/archive/assets/img/Metz_18891110_Boston_Globe.jpg), Nov. 10, 1889: 22. *This lengthy early review helped draw attention to Woods's novel.*
 
 _San Francisco Chronicle_, Nov. 10, 1889: 7.
 
-"Who is This Baltimore Authoress?" _Charlotte Observer_ (NC), Nov. 22, 1889: 1. *This reprinting of an article from the Baltimore Sun was also reprinted in the San Francisco Chronicle on Jan. 26, 1890 (p. 7) and likely in many other places as well.*
+["Who is This Baltimore Authoress?" _Charlotte Observer_](https://wlcb.github.io/archive/assets/img/Metz_18891122_Charlotte_Observer.jpg) (NC), Nov. 22, 1889: 1. *This reprinting of an article from the Baltimore Sun was also reprinted in the San Francisco Chronicle on Jan. 26, 1890 (p. 7) and likely in many other places as well.*
 
 _Times-Democrat_ (New Orleans, LA), Feb. 7, 1890: 16. 
 
-_Kansas City Star_ (MO), Feb. 15, 1890: 4. *This short review was reprinted in various newspapers at roughly the same time and may have been syndicated.*
+[_Kansas City Star_](https://wlcb.github.io/archive/assets/img/Metz_18900212_KC_Star.jpg) (MO), Feb. 12, 1890: 4. *This short review was reprinted in various newspapers at roughly the same time and may have been syndicated.*
 
 _Columbus Daily Telegram_ (NE), Apr. 8, 1890: 2.
 
 _Kansas City Times_ (MO), May 19, 1890: 5.
 
-_St. Joseph Gazette_ (MO), signed by Joseph R. Buchanan, May 21, 1890: 7.
+[_St. Joseph Gazette_](https://wlcb.github.io/archive/assets/img/Metz_18900521_p07_StJosMO_Gazette_SIGNED.jpg) (MO), signed by Joseph R. Buchanan, May 21, 1890: 7.
 
 _Buffalo Commercial_ (NY), July 5, 1890: 4.
 
@@ -90,10 +90,10 @@ _Liverpool Mercury_ (England), Aug. 13, 1890: 7.
 
 _Glasgow Herald_ (Scotland), Feb. 26, 1891: 9.
 
-_Sheffield and Rotherham Independent_ (Sheffield, South Yorkshire, England), Feb. 26, 1891: 2.
-
 _Atlanta Constitution_, Aug. 31, 1890: 13.
 
-_Morning Post_ (London, England), Sept. 1, 1890: 3.
+[_Morning Post_](https://wlcb.github.io/archive/assets/img/Metz_18900901_LondonENGLAND_Morning_Post.jpg) (London, England), Sept. 1, 1890: 3.
 
-"Southern Literature." Syndicated article reprinted in newspapers nationwide, including the _Lawrence Daily Journal_ (Kansas), Dec. 3, 1891: 3.
+[_Sheffield and Rotherham Independent_](https://wlcb.github.io/archive/assets/img/Metz_18910226_p02_SheffieldandRotterdamENG_Independent.jpg) (Sheffield, South Yorkshire, England), Feb. 26, 1891: 2.
+
+["Southern Literature."](https://wlcb.github.io/archive/assets/img/Metz_1891203_Southern Literature.jpg) Syndicated article reprinted in newspapers nationwide, including the _Lawrence Daily Journal_ (Kansas), Dec. 3, 1891: 3.
