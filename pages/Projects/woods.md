@@ -9,25 +9,12 @@ preview: assets/img/KatharineWoods.jpeg
     #imageCarousel .carousel-item { height: 300px; }
 </style>
 
-# Introducing Katharine Pearson Woods
-<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Woods"></div>
-Who was Katharine Pearson Woods? This modest, retiring woman became a passionate advocate for the working class and for literature as a powerful tool for change. In the decades surrounding the turn of the twentieth century, she published eight novels and also wrote dozens of short stories and poems, sociological studies, and book reviews that appeared in major American magazines and newspapers across the country.  A native of West Virginia, Woods spent the majority of her life in Baltimore, Maryland, where her success as a writer helped to inspire the formation of the Women's Literary Club of Baltimore. 
-
-This page serves as the home for recovery work on Katharine Pearson Woods. An online exhibit provides an introduction to Woods's life and work, and links to her various publications, including an annotated digital edition of her first novel, *Metzerott, Shoemaker*, which launched her career. Here you can also find lesson plans for teaching the novel and recovering the history of women writers and a list of resources for further study and research. 
-
 ## Katharine Pearson Woods, _Metzerott, Shoemaker_, and the Women's Literary Club of Baltimore
 
 <iframe src="https://timemapper.okfnlabs.org/anon/dgust7-kpwoods?embed=1" title="Katharine Pearson Woods, Metzerott, and the WLCB" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
 
-## Resources for teaching _Metzerott, Shoemaker_ and literary/historical recovery
-
-The Woman’s Literary Club of Baltimore Archive strives to make scholarship recovering the works and lives of Club members and the historical resources they created accessible to a wider audience. To meet that goal, the project team has created: 
-* [Teaching _Metzerott, Shoemaker_](https://wlcb.github.io/archive/assets/Teaching_Metzerott.docx), which includes recommendations for course planning, links to pertinent historical and biographical information, and reading and discussion questions for Woods's novel
-* [Pedagogical materials](https://wlcb.github.io/archive/pedagogical_resources.html) that can be used to explore areas critical to understanding the WLCB project as a whole. These include class activities centered on data visualizations and the research that underpins them as well as the often difficult process of finding information about Club members.
-
-## Resources for further study
-
-For additional information on Woods, the project team has compiled a [resource list](https://wlcb.github.io/archive/woods_resources.html). Resources include: biographical sources about Woods, the historical context of _Metzerott, Shoemaker_, information about Woods and the beginnings of the WLCB, and reviews of _Metzerott, Shoemaker_.
+<div style="float: left;padding-right: 30px;padding-bottom: 15px;"><img src="https://wlcb.github.io/archive/assets/img/KatharineWoods.jpeg" alt="Woods"></div>
+Who was Katharine Pearson Woods? This modest, retiring woman became a passionate advocate for the working class and for literature as a powerful tool for change. In the decades surrounding the turn of the twentieth century, she published eight novels and also wrote dozens of short stories and poems, sociological studies, and book reviews that appeared in major American magazines and newspapers across the country.  A native of West Virginia, Woods spent the majority of her life in Baltimore, Maryland, where her success as a writer helped to inspire the formation of the Women's Literary Club of Baltimore. This online exhibit provides an introduction to Woods's life and work and links to her various publications, including an annotated digital edition of her first novel, *Metzerott, Shoemaker*, which launched her career. Here you'll also find lesson plans for teaching the novel and recovering the history of women writers and a list of resources for further study and research. 
 
 ## _Metzerott, Shoemaker_ Digital Edition
 
@@ -35,7 +22,7 @@ The [digital edition of _Metzerott, Shoemaker_(1889)](https://wlcb.github.io/arc
 
 ### Other writings by Woods
 
-Below is a selection of major works by Woods. Additional works include [short fiction, poetry, and magazine journalism](https://wlcb.github.io/archive/browse.html#woods).
+The works below show the range of Woods's output, but is by no means a complete list. Here is what we've recovered of all the [short fiction, poetry, and magazine journalism](https://wlcb.github.io/archive/browse.html#woods) published by this prolific and--until now--forgotten writer and activist.
 
 <div class="card mb-3">
     
@@ -143,10 +130,13 @@ Below is a selection of major works by Woods. Additional works include [short fi
 
 </div>
 
+## Resources for teaching _Metzerott, Shoemaker_ and literary/historical recovery
 
+The Woman’s Literary Club of Baltimore Archive strives to make scholarship recovering the works and lives of Club members and the historical resources they created accessible to a wider audience. To meet that goal, the project team has created: 
+* [Teaching _Metzerott, Shoemaker_](https://wlcb.github.io/archive/assets/Teaching_Metzerott.docx), which includes recommendations for course planning, links to pertinent historical and biographical information, and reading and discussion questions for Woods's novel
+* [Pedagogical materials](https://wlcb.github.io/archive/pedagogical_resources.html) that can be used to explore areas critical to understanding the WLCB project as a whole. These include class activities centered on data visualizations and the research that underpins them as well as the often difficult process of finding information about Club members.
 
+## Resources for further study
 
-
-
-
+For additional information on Woods, the project team has compiled a [resource list](https://wlcb.github.io/archive/woods_resources.html). Resources include: biographical sources about Woods, the historical context of _Metzerott, Shoemaker_, information about Woods and the beginnings of the WLCB, and reviews of _Metzerott, Shoemaker_.
 
