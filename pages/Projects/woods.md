@@ -1,5 +1,5 @@
 ---
-title: Katharine Pearson Woods
+title: Katharine Pearson Woods, Metzerott, and the WLCB
 layout: page
 permalink: /woods.html
 preview: assets/img/KatharineWoods.jpeg
