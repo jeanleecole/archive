@@ -2485,7 +2485,7 @@ And this was Susan Price's sole funeral oration.
 
 <hr><p class="pagenum"><sup>Page 145</sup></p>
   
-## BOOK II.
+## BOOK II. {#bk2ch1}
 
 ### ALTRUISM.
 
@@ -2754,7 +2754,7 @@ the orders, transmitted, through the executive committee, from the heads of depa
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER II.
+#### CHAPTER II. {#bk2ch2}
 
 ### NEO-SOCIALISM.
 
@@ -2945,7 +2945,7 @@ Father McClosky rubbed his nose thoughtfully. "And what is it ye mean to do?" he
 
 <p style="margin-top:2cm;"></p>
 
-#### CHAPTER III. 
+#### CHAPTER III. {#bk2ch3}
 
 ### PRINCE LOUIS.
 
